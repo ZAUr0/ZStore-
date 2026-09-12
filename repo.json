@@ -1,8 +1,10 @@
 {
   "name": "ZStore+",
-  "identifier": "com.zkodes.zstore",
+  "identifier": "com.zaur.zstore-repo",
   "subtitle": "Приложения для iPhone и iPad",
   "description": "Официальный репозиторий ZStore+ с приложениями для iPhone и iPad.",
   "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icon.png",
+  "website": "https://github.com/ZAUr0/ZStore-",
+  "tintColor": "3C94FC",
   "apps": []
 }
