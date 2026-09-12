@@ -3,22 +3,22 @@
   "identifier": "com.zaur.zstore-repo",
   "subtitle": "Приложения для iPhone и iPad",
   "description": "Официальный репозиторий ZStore+ с приложениями для iPhone и iPad.",
-  "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore/main/icon.png",
-  "website": "https://github.com/ZAUr0/ZStore",
+  "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icon.png",
+  "website": "https://github.com/ZAUr0/ZStore-",
   "tintColor": "3C94FC",
   "apps": [
     {
       "name": "Т-Банк",
       "bundleIdentifier": "capyomega.app",
       "developerName": "Т-Банк",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore/main/tbank.png",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/tbank.png",
       "localizedDescription": "Приложение Т-Банк для iPhone и iPad.",
       "subtitle": "Банк всегда под рукой",
       "tintColor": "3C94FC",
       "category": "finance",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore/releases/download/v1.0/T-Bank.ipa",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/v1.0/T-Bank.ipa",
           "size": 182000000,
           "version": "6.35.1",
           "buildVersion": "3",
@@ -29,7 +29,7 @@
       "version": "6.35.1",
       "versionDate": "2026-09-12T00:00:00Z",
       "size": 182000000,
-      "downloadURL": "https://github.com/ZAUr0/ZStore/releases/download/v1.0/T-Bank.ipa"
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/v1.0/T-Bank.ipa"
     }
   ]
 }
