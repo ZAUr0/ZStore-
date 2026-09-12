@@ -8,6 +8,30 @@
   "tintColor": "3C94FC",
   "apps": [
     {
+      "name": "Сбербанк",
+      "bundleIdentifier": "com.assetsonline.ios",
+      "developerName": "Сбербанк",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/sberbank.png",
+      "localizedDescription": "Приложение Сбербанка для iPhone и iPad.",
+      "subtitle": "Банк всегда под рукой",
+      "tintColor": "3C94FC",
+      "category": "finance",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/sberbank-16.13.0/Сбербанк.ipa",
+          "size": 281018368,
+          "version": "16.13.0",
+          "buildVersion": "3",
+          "date": "2026-09-12T00:00:00Z",
+          "minOSVersion": "10.0"
+        }
+      ],
+      "version": "16.13.0",
+      "versionDate": "2026-09-12T00:00:00Z",
+      "size": 281018368,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/sberbank-16.13.0/Сбербанк.ipa"
+    },
+    {
       "name": "Т-Банк",
       "bundleIdentifier": "capyomega.app",
       "developerName": "Т-Банк",
