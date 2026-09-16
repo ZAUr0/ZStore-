@@ -16,6 +16,11 @@
       "subtitle": "Банк всегда под рукой",
       "tintColor": "3C94FC",
       "category": "finance",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/screenshots/sberbank-1.png",
+        "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/screenshots/sberbank-2.png",
+        "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/screenshots/sberbank-3.png"
+      ],
       "versions": [
         {
           "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/sberbank-16.13.0/Сбербанк.ipa",
