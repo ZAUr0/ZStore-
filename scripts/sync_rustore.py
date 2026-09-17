@@ -145,6 +145,7 @@ def parse_reviews(markdown: str, limit: int = 8) -> list[dict]:
         reviews.append(
             {
                 "id": f"{author}-{match.group('date')}-{index}",
+                "title": review_title(text),
                 "author": author,
                 "text": text,
                 "date": match.group("date"),
@@ -153,6 +154,16 @@ def parse_reviews(markdown: str, limit: int = 8) -> list[dict]:
         if len(reviews) >= limit:
             break
     return reviews
+
+
+def review_title(text: str) -> str:
+    sentence = re.split(r"(?<=[.!?…])\s+", text.strip(), maxsplit=1)[0].strip()
+    if len(sentence) > 46:
+        cut = sentence[:44]
+        if " " in cut:
+            cut = cut.rsplit(" ", 1)[0]
+        return cut
+    return sentence
 
 
 def screenshots(info: dict) -> list[str]:
@@ -197,6 +208,17 @@ def apply_info(app: dict, info: dict, reviews: list[dict]) -> None:
     shots = screenshots(info)
     if shots:
         app["screenshotURLs"] = shots
+    age = ((info.get("ageRestriction") or {}) if isinstance(info.get("ageRestriction"), dict) else {}).get("category")
+    age = age or info.get("ageLegal")
+    if age:
+        app["ageRating"] = str(age)
+    contacts = info.get("developerContacts") if isinstance(info.get("developerContacts"), dict) else {}
+    website = (contacts or {}).get("website") or info.get("website")
+    if website:
+        app["website"] = website
+    copyright_match = re.search(r"©[^\n]+", info.get("fullDescription") or "")
+    if copyright_match:
+        app["copyright"] = copyright_match.group(0).strip()
     if reviews:
         app["reviews"] = reviews
 
