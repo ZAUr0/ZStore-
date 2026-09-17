@@ -40,7 +40,7 @@
       "size": 281018368,
       "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/sberbank-16.13.0/%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.ipa",
       "rating": 4.82,
-      "ratingCount": 4369734,
+      "ratingCount": 4369739,
       "downloads": 90000000,
       "downloadsText": "90 млн +",
       "versionDescription": "Работать на себя ещё проще - на главном экране появился раздел для самозанятых. Здесь можно оплатить налоги, создать чеки и перейти к остальным функциям сервиса.",
@@ -103,7 +103,9 @@
         }
       ],
       "ageRating": "0+",
-      "copyright": "© 1997—2026 ПАО Сбербанк"
+      "copyright": "© 1997—2026 ПАО Сбербанк",
+      "website": "https://www.sberbank.ru",
+      "privacyURL": "https://www.sberbank.ru/privacy"
     },
     {
       "name": "Т-Банк",
@@ -131,7 +133,7 @@
       "size": 182000000,
       "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/v1.0/T-Bank.ipa",
       "rating": 4.2,
-      "ratingCount": 171425,
+      "ratingCount": 171426,
       "downloads": 40000000,
       "downloadsText": "40 млн +",
       "versionDescription": "Теперь в рамках сервиса «Защита близких» в приложении появилась возможность заранее запросить разрешение на снятие наличных сверх установленного лимита и отменить этот запрос, если необходимость отпала.",
@@ -204,8 +206,9 @@
         }
       ],
       "ageRating": "0+",
-      "website": "https://www.tbank.ru/bank/help/",
-      "copyright": "© 2026, АО «ТБанк», лицензия ЦБ РФ № 2673"
+      "website": "https://www.tbank.ru",
+      "copyright": "© 2026, АО «ТБанк», лицензия ЦБ РФ № 2673",
+      "privacyURL": "https://www.tbank.ru/privacy/"
     }
   ]
 }

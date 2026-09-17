@@ -25,6 +25,24 @@ JINA = "https://r.jina.ai/"
 
 CTX = ssl.create_default_context()
 
+COMPANY_WEBSITES = {
+    "сбербанк": "https://www.sberbank.ru",
+    "сбер": "https://www.sberbank.ru",
+    "т-банк": "https://www.tbank.ru",
+    "тбанк": "https://www.tbank.ru",
+    "tbank": "https://www.tbank.ru",
+    "tinkoff": "https://www.tbank.ru",
+}
+
+PRIVACY_PAGES = {
+    "сбербанк": "https://www.sberbank.ru/privacy",
+    "сбер": "https://www.sberbank.ru/privacy",
+    "т-банк": "https://www.tbank.ru/privacy/",
+    "тбанк": "https://www.tbank.ru/privacy/",
+    "tbank": "https://www.tbank.ru/privacy/",
+    "tinkoff": "https://www.tbank.ru/privacy/",
+}
+
 PRESERVE = {
     "name",
     "bundleIdentifier",
@@ -35,6 +53,8 @@ PRESERVE = {
     "versions",
     "version",
     "versionDate",
+    "website",
+    "privacyURL",
 }
 
 PACKAGE_HINTS = {
@@ -66,6 +86,21 @@ def package_from_url(url: str | None) -> str | None:
     match = re.search(r"/catalog/app/([^/?#]+)", url)
     if match:
         return match.group(1)
+    return None
+
+
+def lookup_page(mapping: dict[str, str], app: dict, info: dict | None = None) -> str | None:
+    blob = " ".join(
+        str(value or "")
+        for value in (
+            app.get("name"),
+            app.get("developerName"),
+            (info or {}).get("companyName"),
+        )
+    ).lower().replace("«", "").replace("»", "").replace(" ", "")
+    for needle, url in mapping.items():
+        if needle.replace("-", "") in blob.replace("-", ""):
+            return url
     return None
 
 
@@ -213,9 +248,16 @@ def apply_info(app: dict, info: dict, reviews: list[dict]) -> None:
     if age:
         app["ageRating"] = str(age)
     contacts = info.get("developerContacts") if isinstance(info.get("developerContacts"), dict) else {}
-    website = (contacts or {}).get("website") or info.get("website")
-    if website:
-        app["website"] = website
+    company_site = lookup_page(COMPANY_WEBSITES, app, info)
+    if company_site:
+        app["website"] = company_site
+    elif not app.get("website"):
+        website = (contacts or {}).get("website") or info.get("website")
+        if website:
+            app["website"] = website
+    privacy = lookup_page(PRIVACY_PAGES, app, info)
+    if privacy and not app.get("privacyURL"):
+        app["privacyURL"] = privacy
     copyright_match = re.search(r"©[^\n]+", info.get("fullDescription") or "")
     if copyright_match:
         app["copyright"] = copyright_match.group(0).strip()
