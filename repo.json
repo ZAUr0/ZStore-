@@ -6316,6 +6316,41 @@
           "date": "27 май 2026"
         }
       ]
+    },
+    {
+      "name": "Кино.Дом",
+      "bundleIdentifier": "tv.fimstv.com",
+      "developerName": "LLC Napa Labs",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Movix.png",
+      "localizedDescription": "Кинодом — фильмы, сериалы и ТВ в одном приложении!\nПогрузитесь в мир любимого кино, сериалов и ТВ-каналов с приложением Кинодом. Смотрите премьеры, классику и детские шоу в HD и 4K без рекламы.\nВсё кино в одном месте:\n- Огромная библиотека отечественных и зарубежных фильмов и сериалов, также мультфильмов на лююой вкус.\n- Горячие премьеры онлайн-кинотеатров\n- Любимые жанры — триллеры, мелодрамы, комедии и боевики.\n\n23 ТВ-канала онлайн:\n- Смотрите телевидение в прямом эфире\n- В приложении доступны все популярные новостные, развлекательные, познавательные, детские и спортивные каналы.\n\nДетский контент и родительский контроль:\n- Мультики и познавательные шоу для детей всех возрастов\n- Родительский контроль — ограничивайте доступ к контенту по возрасту\n\nУмный поиск и персональные рекомендации:\n- Интеллектуальная система подскажет, что посмотреть, на основе ваших интересов и оценок.\n- Выбирайте фильмы и сериалы из редакторских подборок — по жанрам, актёрам или новинкам.\n\nКинодом — ваш личный онлайн-кинотеатр и ТВ в одном приложении. Смотрите в любое время и в любом месте без рекламы!",
+      "subtitle": "Кинодом — фильмы, сериалы и ТВ в одном приложении!",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://apps.apple.com/ru/app/%D0%BA%D0%B8%D0%BD%D0%BE-%D0%B4%D0%BE%D0%BC/id6753332416?uo=4",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Movix.ipa",
+          "size": 76314866,
+          "version": "1.0.5",
+          "buildVersion": "780",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "17"
+        }
+      ],
+      "version": "1.0.5",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 76314866,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Movix.ipa",
+      "rating": 4.25,
+      "ratingCount": 4,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/27/18/632718c4-759b-c936-fe1d-f2963be04f98/1.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/0b/a4/7a0ba405-f688-0369-2438-66d58828cdbd/3.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/cd/41/b4cd419d-e628-028a-e3c1-84648d331ea6/4.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ab/53/c6ab532b-9935-d298-99ca-21f7f9ec7be4/2.jpg/1242x2688bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/%D0%BA%D0%B8%D0%BD%D0%BE-%D0%B4%D0%BE%D0%BC/id6753332416?uo=4"
     }
   ]
 }
