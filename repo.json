@@ -44,6 +44,75 @@
       "appStoreURL": "https://apps.apple.com/ru/app/whatsapp-messenger/id310633997?uo=4"
     },
     {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "WhatsApp Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/WhatsAppBusiness.png",
+      "localizedDescription": "Об этом приложении\n\nВсё, что вы любите в WhatsApp, плюс инструменты для бизнеса\nБесплатное приложение WhatsApp Business повысит эффективность вашей работы, поможет завоевать доверие клиентов и развивать компанию. \n\nВ приложении доступны бесплатные звонки* и бесплатный обмен сообщениями с пользователями из-за рубежа*, а также бизнес-функции для повышения результативности переписок.\n\nУстановите приложение и получите преимущества для бизнеса:\n\nЭффективность. Экономьте время. Пусть приложение работает за вас! Автоматически отправляйте быстрые ответы и сообщения “Нет на месте”, чтобы не упустить ни одной возможности. Упорядочивайте, фильтруйте и находите переписки с помощью ярлыков. Публикуйте специальные предложения и новости в статусе и принимайте заказы и платежи** прямо в приложении, чтобы повысить качество обслуживания. \nДоверие клиентов. Профиль компании вызывает больше доверия, если он создан на безопасной платформе и выглядит профессионально. В приложении можно быстро отвечать на вопросы и выстраивать долговременные отношения с клиентами. Рекомендуем оформить подписку Meta Verified***, чтобы подтвердить подлинность компании.\nПовышение продаж и развитие. Привлекайте внимание, размещайте рекламу и находите больше ценных клиентов. Повышайте продажи за счет таргетинга на конкретную аудиторию, создавайте объявления с переходом в WhatsApp и демонстрируйте каталог товаров. Упростите для клиентов оформление заказов и платежей**.\n\nЧасто задаваемые вопросы\nВсе ли функции бесплатны?\nЗа установку и использование приложения платить не нужно, но некоторые функции в нем платные.\n\nСмогу ли я по-прежнему использовать личный аккаунт WhatsApp?\nДа. Если у вас два номера телефона, вы сможете использовать личный и бизнес-аккаунт на одном устройстве.\n\nСмогу ли я перенести историю чатов?\nДа. Чтобы перенести сообщения, медиафайлы и контакты в бизнес-аккаунт, настройте приложение WhatsApp Business и восстановите резервную копию аккаунта WhatsApp.\n\nСколько устройств можно подключить?\nК аккаунту можно подключить не более пяти веб-устройств или мобильных телефонов (их количество увеличится до 10, если вы оформите подписку Meta Verified***).\n\n* За передачу данных может взиматься плата. Обратитесь за информацией к своему оператору.\n** Доступно не во всех странах.\n*** Скоро будет доступно во всем мире.",
+      "subtitle": "Об этом приложении",
+      "tintColor": "3C94FC",
+      "category": "social",
+      "pinnedCategory": "social",
+      "website": "https://www.whatsapp.com/business/",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/WhatsAppBusiness.ipa",
+          "size": 163014112,
+          "version": "26.36.74",
+          "buildVersion": "1067315575",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.1"
+        }
+      ],
+      "version": "26.36.74",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 163014112,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/WhatsAppBusiness.ipa",
+      "rating": 4.76454,
+      "ratingCount": 265484,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/96/e3/df96e30b-346f-8815-9689-53cc22ac8039/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/fa/55/bafa5515-bbf9-b403-e20b-b0a38a453464/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/83/ab/93/83ab932f-7281-2ed3-2954-fa9af1b59c07/pr_source.jpg/392x696bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/whatsapp-business/id1386412985?uo=4"
+    },
+    {
+      "name": "TikTok(ТикТок)",
+      "bundleIdentifier": "com.zhiliaoapp.musically13r",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/TikTok.png",
+      "localizedDescription": "TikTok - это глобальное видеосообщество. Здесь вы найдете классные короткие видео и сможете поделиться яркими моментами из собственной жизни со всем миром. Снимайте оригинальный контент с масками, фильтрами и стикерами. Жизнь пролетает быстро — каждая секунда на счету!\n\n■ Миллионы видео, подобранные для вас\nМы создаём ленту на основании видео, которые вам нравятся. TikTok подстраивается под ваши вкусы и показывает интересный вам контент.\n\n■ Сообщество креативных людей\nТысячи авторов оригинального контента делятся в TikTok своими талантами и идеями. В TikTok каждый может раскрыть свой творческий потенциал!\n\n■ Огромная звуковая библиотека\nНакладывайте миллионы бесплатных треков и интересных звуков на свои видео. Мы регулярно обновляем библиотеку с популярной музыкой во всех жанрах.\n\n■ Оригинальные эмодзи и маски\nВыведите свои видео на новый уровень с 100+ бесплатными эмодзи, кучей масок и бьюти-эффектами.\n\n■ Простые в использовании инструменты для создания и редактирования видео\n\n■ Регулярно обновляемые маски для прямых эфиров\n\n■ Получите доступ к бонусам для подписчиков и общайтесь с ведущими ближе!\nПриобретите подписку на один месяц или настройте ее автоматическое продление, чтобы получить доступ к особым бонусам для трансляций (доступно не во всех регионах)\n\nПримечание. \nЕсли вы оформите подписку через Apple, оплата будет списана с аккаунта App Store при подтверждении покупки. Подписка продлевается автоматически не позднее чем за 24 часа до окончания текущего срока действия, если вы не отключили эту функцию. Оплата за продление подписки по выбранному тарифу будет списана со счета в течение 24 часов до окончания текущего срока действия. Настроить подписку и ее автоматическое продление можно в настройках аккаунта после оформления покупки.\n\nУсловия использования —\nhttps://www.tiktok.com/legal/terms-of-service\n\nПолитика конфиденциальности —\nhttps://www.tiktok.com/legal/privacy-policy\n\nЕсть обратная связь? Напишите нам на https://www.tiktok.com/legal/report/feedback!",
+      "subtitle": "TikTok - это глобальное видеосообщество. Здесь вы найдете классные короткие видео и сможете поделиться яркими моментами ",
+      "tintColor": "3C94FC",
+      "category": "social",
+      "pinnedCategory": "social",
+      "website": "http://www.tiktok.com",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/TikTok.ipa",
+          "size": 454750733,
+          "version": "45.9.0",
+          "buildVersion": "459036",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "10.0"
+        }
+      ],
+      "version": "45.9.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 454750733,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/TikTok.ipa",
+      "rating": 4.33934,
+      "ratingCount": 1663783,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/14/eb/9f14eb76-35ed-f637-1514-ea5dfb7124e6/d625bee0-8a7e-44a1-9cfa-b3ff4ba6fbbd_img5_5_0_ru.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/ff/14/dfff1450-cfa2-4de0-2737-78ef0dbdfb61/9ff8f79b-1667-4aec-88b8-5db954256749_img5_5_1_ru.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/ce/0a/b7ce0a26-0612-31ec-5ba2-cd02fb54de34/1551b39e-f495-4fd1-9831-830b8afcd46c_img5_5_2_ru.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/5d/d0/cb5dd032-d6a2-2b1c-1867-1e064340c71b/aef3f56b-1fce-4105-8dff-cbfcd6d285f9_img5_5_4_ru.jpg/392x696bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/tiktok-%D1%82%D0%B8%D0%BA%D1%82%D0%BE%D0%BA/id835599320?uo=4"
+    },
+    {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
@@ -83,39 +152,41 @@
       "appStoreURL": "https://apps.apple.com/us/app/instagram/id389801252?uo=4"
     },
     {
-      "name": "TikTok(ТикТок)",
-      "bundleIdentifier": "com.zhiliaoapp.musically13r",
-      "developerName": "TikTok Ltd.",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/TikTok.png",
-      "localizedDescription": "TikTok - это глобальное видеосообщество. Здесь вы найдете классные короткие видео и сможете поделиться яркими моментами из собственной жизни со всем миром. Снимайте оригинальный контент с масками, фильтрами и стикерами. Жизнь пролетает быстро — каждая секунда на счету!\n\n■ Миллионы видео, подобранные для вас\nМы создаём ленту на основании видео, которые вам нравятся. TikTok подстраивается под ваши вкусы и показывает интересный вам контент.\n\n■ Сообщество креативных людей\nТысячи авторов оригинального контента делятся в TikTok своими талантами и идеями. В TikTok каждый может раскрыть свой творческий потенциал!\n\n■ Огромная звуковая библиотека\nНакладывайте миллионы бесплатных треков и интересных звуков на свои видео. Мы регулярно обновляем библиотеку с популярной музыкой во всех жанрах.\n\n■ Оригинальные эмодзи и маски\nВыведите свои видео на новый уровень с 100+ бесплатными эмодзи, кучей масок и бьюти-эффектами.\n\n■ Простые в использовании инструменты для создания и редактирования видео\n\n■ Регулярно обновляемые маски для прямых эфиров\n\n■ Получите доступ к бонусам для подписчиков и общайтесь с ведущими ближе!\nПриобретите подписку на один месяц или настройте ее автоматическое продление, чтобы получить доступ к особым бонусам для трансляций (доступно не во всех регионах)\n\nПримечание. \nЕсли вы оформите подписку через Apple, оплата будет списана с аккаунта App Store при подтверждении покупки. Подписка продлевается автоматически не позднее чем за 24 часа до окончания текущего срока действия, если вы не отключили эту функцию. Оплата за продление подписки по выбранному тарифу будет списана со счета в течение 24 часов до окончания текущего срока действия. Настроить подписку и ее автоматическое продление можно в настройках аккаунта после оформления покупки.\n\nУсловия использования —\nhttps://www.tiktok.com/legal/terms-of-service\n\nПолитика конфиденциальности —\nhttps://www.tiktok.com/legal/privacy-policy\n\nЕсть обратная связь? Напишите нам на https://www.tiktok.com/legal/report/feedback!",
-      "subtitle": "TikTok - это глобальное видеосообщество. Здесь вы найдете классные короткие видео и сможете поделиться яркими моментами ",
+      "name": "Roblox",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "Roblox Corporation",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Roblox.png",
+      "localizedDescription": "ROBLOX — МИЛЛИОНЫ ИГР САМЫХ РАЗНЫХ ЖАНРОВ. ИГРАЙТЕ БЕСПЛАТНО!\n\nВ Roblox найдутся игры на любой вкус! Участвуйте в захватывающих гонках, сражайтесь в тактических шутерах или испытайте себя в режимах на выживание. Исследуйте захватывающие RPG-миры, стройте огромные империи в экономических симуляторах и пробуйте новые хорроры, аниме и спортивные игры вместе с друзьями по всему миру.\n\nВ Roblox постоянно появляются уникальные проекты и высококачественные игры от мирового сообщества разработчиков — от крупных студий до независимых авторов. Каждый день вас ждет что-то новое!\n\nОткройте самые популярные игры Roblox: Dress to Impress, RIVALS, Steal a Brainrot, Brookhaven RP, «Забери меня к себе!» и не только.\n\nЧТО МОЖНО ДЕЛАТЬ В ROBLOX?\n\nИГРАТЬ В МНОГОПОЛЬЗОВАТЕЛЬСКИЕ ИГРЫ\n— Миры RPG, реалистичные симуляторы, динамичные приключения и другие жанры.\n— Каждый день вас ждут популярные проекты и новые игры.\n— Вы можете сражаться в масштабных многопользовательских битвах, управлять собственным виртуальным бизнесом или отправиться на захватывающие подвиги.\n— Игры могут предлагать дополнительные внутриигровые покупки, включая лутбоксы и другие предметы.\n\nСОЗДАТЬ СОБСТВЕННЫЙ АВАТАР\n— Подбирайте одежду, аксессуары и реалистичные прически.\n— Исследуйте огромный выбор 3D-предметов для аватара от сообщества в Marketplace.\n— Выражайте себя с помощью уникальных эмоций и стильных образов.\n\nОБЩАТЬСЯ, СОРЕВНОВАТЬСЯ И ИССЛЕДОВАТЬ МИР ВМЕСТЕ — ГДЕ И КОГДА УГОДНО\n— Общайтесь и играйте с друзьями в кроссплатформенных играх на телефонах, планшетах, ПК, консолях и VR-гарнитурах.\n— Вступайте в команду и играйте вместе.\n— После подтверждения возраста становятся доступны голосовой и текстовый чаты в реальном времени.\n\nСОЗДАВАТЬ, ИГРАТЬ И ДЕЛИТЬСЯ СВОИМИ ПРОЕКТАМИ В ROBLOX\n— Создавайте качественные игры и виртуальные миры с помощью Roblox Studio на Windows и Mac.\n— Публикуйте свои проекты и становитесь частью международного сообщества авторов.\n— Погружайтесь в увлекательные 3D-миры и комфортную среду, созданную для игроков любого возраста.\n— Наслаждайтесь постоянным потоком нового контента и делитесь своими творениями с миллионами игроков.\n\nБОЛЬШЕ ВОЗМОЖНОСТЕЙ С ROBLOX PLUS\n— Получайте скидки до 20% на внутриигровые предметы, переводите Robux без комиссии и получите особый значок профиля.\n— Создавайте неограниченное количество бесплатных частных серверов для друзей.\n— Размещайте, продавайте и обменивайте уникальные предметы для аватара в Marketplace.\n\nПЕРЕДОВЫЕ СТАНДАРТЫ БЕЗОПАСНОСТИ, КОНФИДЕНЦИАЛЬНОСТИ И КОМФОРТНОГО ОБЩЕНИЯ\n— Современные системы фильтрации контента и возрастная модерация.\n— Открывайте специальные пространства с подтверждением возраста и управляйте настройками конфиденциальности через Roblox Kids и выбор аккаунта.\n— Понятные правила сообщества, поддерживающие уважительное взаимодействие между игроками.\n— Команды доверия и безопасности круглосуточно следят за платформой.\n\nСОЗДАТЬ СВОИ ИГРЫ: https://www.roblox.com/develop\nПОДДЕРЖКА: https://en.help.roblox.com/hc/en-us\nКОНТАКТЫ: https://corp.roblox.com/contact/\nПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ: https://www.roblox.com/info/privacy\nИНФОРМАЦИЯ ДЛЯ РОДИТЕЛЕЙ: https://corp.roblox.com/parents/\nУСЛОВИЯ ИСПОЛЬЗОВАНИЯ: https://en.help.roblox.com/hc/en-us/articles/115004647846\n\nВАЖНО: для игры требуется подключение к интернету. Roblox лучше всего работает через Wi-Fi.",
+      "subtitle": "ROBLOX — МИЛЛИОНЫ ИГР САМЫХ РАЗНЫХ ЖАНРОВ. ИГРАЙТЕ БЕСПЛАТНО!",
       "tintColor": "3C94FC",
-      "category": "social",
-      "pinnedCategory": "social",
-      "website": "http://www.tiktok.com",
+      "category": "games",
+      "pinnedCategory": "games",
+      "website": "http://www.roblox.com/",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/TikTok.ipa",
-          "size": 454750733,
-          "version": "45.9.0",
-          "buildVersion": "459036",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Roblox.ipa",
+          "size": 120205446,
+          "version": "2.733.988",
+          "buildVersion": "2.733.988",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "10.0"
+          "minOSVersion": "14.0"
         }
       ],
-      "version": "45.9.0",
+      "version": "2.733.988",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 454750733,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/TikTok.ipa",
-      "rating": 4.33934,
-      "ratingCount": 1663783,
+      "size": 120205446,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Roblox.ipa",
+      "rating": 4.46774,
+      "ratingCount": 1330202,
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/14/eb/9f14eb76-35ed-f637-1514-ea5dfb7124e6/d625bee0-8a7e-44a1-9cfa-b3ff4ba6fbbd_img5_5_0_ru.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/ff/14/dfff1450-cfa2-4de0-2737-78ef0dbdfb61/9ff8f79b-1667-4aec-88b8-5db954256749_img5_5_1_ru.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/ce/0a/b7ce0a26-0612-31ec-5ba2-cd02fb54de34/1551b39e-f495-4fd1-9831-830b8afcd46c_img5_5_2_ru.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/5d/d0/cb5dd032-d6a2-2b1c-1867-1e064340c71b/aef3f56b-1fce-4105-8dff-cbfcd6d285f9_img5_5_4_ru.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1b/98/ae1b986e-7ca3-ac9e-58e3-8b04f988739a/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC1-RIVALS.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/b7/d0/b4b7d06d-7108-6aec-8d2d-39fdd1180440/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC2-C.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/8e/10/e78e1043-69d8-35c8-eec4-f66fa58038f7/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC3.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/76/70/ac7670cb-8e3b-09a1-bbb5-7b6389e18712/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC4.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/fb/65/80fb6519-4acb-47a6-2d6d-3518f62c94e3/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC6.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/c2/cb/01c2cbd6-292f-1dd6-9773-e814c5345c4c/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC7-A.jpg/1242x2688bb.jpg"
       ],
-      "appStoreURL": "https://apps.apple.com/ru/app/tiktok-%D1%82%D0%B8%D0%BA%D1%82%D0%BE%D0%BA/id835599320?uo=4"
+      "appStoreURL": "https://apps.apple.com/ru/app/roblox/id431946152?uo=4"
     },
     {
       "name": "VK",
@@ -219,80 +290,6 @@
           "date": "18 сен 2026"
         }
       ]
-    },
-    {
-      "name": "Roblox",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "developerName": "Roblox Corporation",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Roblox.png",
-      "localizedDescription": "ROBLOX — МИЛЛИОНЫ ИГР САМЫХ РАЗНЫХ ЖАНРОВ. ИГРАЙТЕ БЕСПЛАТНО!\n\nВ Roblox найдутся игры на любой вкус! Участвуйте в захватывающих гонках, сражайтесь в тактических шутерах или испытайте себя в режимах на выживание. Исследуйте захватывающие RPG-миры, стройте огромные империи в экономических симуляторах и пробуйте новые хорроры, аниме и спортивные игры вместе с друзьями по всему миру.\n\nВ Roblox постоянно появляются уникальные проекты и высококачественные игры от мирового сообщества разработчиков — от крупных студий до независимых авторов. Каждый день вас ждет что-то новое!\n\nОткройте самые популярные игры Roblox: Dress to Impress, RIVALS, Steal a Brainrot, Brookhaven RP, «Забери меня к себе!» и не только.\n\nЧТО МОЖНО ДЕЛАТЬ В ROBLOX?\n\nИГРАТЬ В МНОГОПОЛЬЗОВАТЕЛЬСКИЕ ИГРЫ\n— Миры RPG, реалистичные симуляторы, динамичные приключения и другие жанры.\n— Каждый день вас ждут популярные проекты и новые игры.\n— Вы можете сражаться в масштабных многопользовательских битвах, управлять собственным виртуальным бизнесом или отправиться на захватывающие подвиги.\n— Игры могут предлагать дополнительные внутриигровые покупки, включая лутбоксы и другие предметы.\n\nСОЗДАТЬ СОБСТВЕННЫЙ АВАТАР\n— Подбирайте одежду, аксессуары и реалистичные прически.\n— Исследуйте огромный выбор 3D-предметов для аватара от сообщества в Marketplace.\n— Выражайте себя с помощью уникальных эмоций и стильных образов.\n\nОБЩАТЬСЯ, СОРЕВНОВАТЬСЯ И ИССЛЕДОВАТЬ МИР ВМЕСТЕ — ГДЕ И КОГДА УГОДНО\n— Общайтесь и играйте с друзьями в кроссплатформенных играх на телефонах, планшетах, ПК, консолях и VR-гарнитурах.\n— Вступайте в команду и играйте вместе.\n— После подтверждения возраста становятся доступны голосовой и текстовый чаты в реальном времени.\n\nСОЗДАВАТЬ, ИГРАТЬ И ДЕЛИТЬСЯ СВОИМИ ПРОЕКТАМИ В ROBLOX\n— Создавайте качественные игры и виртуальные миры с помощью Roblox Studio на Windows и Mac.\n— Публикуйте свои проекты и становитесь частью международного сообщества авторов.\n— Погружайтесь в увлекательные 3D-миры и комфортную среду, созданную для игроков любого возраста.\n— Наслаждайтесь постоянным потоком нового контента и делитесь своими творениями с миллионами игроков.\n\nБОЛЬШЕ ВОЗМОЖНОСТЕЙ С ROBLOX PLUS\n— Получайте скидки до 20% на внутриигровые предметы, переводите Robux без комиссии и получите особый значок профиля.\n— Создавайте неограниченное количество бесплатных частных серверов для друзей.\n— Размещайте, продавайте и обменивайте уникальные предметы для аватара в Marketplace.\n\nПЕРЕДОВЫЕ СТАНДАРТЫ БЕЗОПАСНОСТИ, КОНФИДЕНЦИАЛЬНОСТИ И КОМФОРТНОГО ОБЩЕНИЯ\n— Современные системы фильтрации контента и возрастная модерация.\n— Открывайте специальные пространства с подтверждением возраста и управляйте настройками конфиденциальности через Roblox Kids и выбор аккаунта.\n— Понятные правила сообщества, поддерживающие уважительное взаимодействие между игроками.\n— Команды доверия и безопасности круглосуточно следят за платформой.\n\nСОЗДАТЬ СВОИ ИГРЫ: https://www.roblox.com/develop\nПОДДЕРЖКА: https://en.help.roblox.com/hc/en-us\nКОНТАКТЫ: https://corp.roblox.com/contact/\nПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ: https://www.roblox.com/info/privacy\nИНФОРМАЦИЯ ДЛЯ РОДИТЕЛЕЙ: https://corp.roblox.com/parents/\nУСЛОВИЯ ИСПОЛЬЗОВАНИЯ: https://en.help.roblox.com/hc/en-us/articles/115004647846\n\nВАЖНО: для игры требуется подключение к интернету. Roblox лучше всего работает через Wi-Fi.",
-      "subtitle": "ROBLOX — МИЛЛИОНЫ ИГР САМЫХ РАЗНЫХ ЖАНРОВ. ИГРАЙТЕ БЕСПЛАТНО!",
-      "tintColor": "3C94FC",
-      "category": "games",
-      "pinnedCategory": "games",
-      "website": "http://www.roblox.com/",
-      "versions": [
-        {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Roblox.ipa",
-          "size": 120205446,
-          "version": "2.733.988",
-          "buildVersion": "2.733.988",
-          "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "14.0"
-        }
-      ],
-      "version": "2.733.988",
-      "versionDate": "2026-09-18T00:00:00Z",
-      "size": 120205446,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Roblox.ipa",
-      "rating": 4.46774,
-      "ratingCount": 1330202,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1b/98/ae1b986e-7ca3-ac9e-58e3-8b04f988739a/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC1-RIVALS.jpg/1242x2688bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/b7/d0/b4b7d06d-7108-6aec-8d2d-39fdd1180440/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC2-C.jpg/1242x2688bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/8e/10/e78e1043-69d8-35c8-eec4-f66fa58038f7/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC3.jpg/1242x2688bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/76/70/ac7670cb-8e3b-09a1-bbb5-7b6389e18712/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC4.jpg/1242x2688bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/fb/65/80fb6519-4acb-47a6-2d6d-3518f62c94e3/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC6.jpg/1242x2688bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/c2/cb/01c2cbd6-292f-1dd6-9773-e814c5345c4c/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC7-A.jpg/1242x2688bb.jpg"
-      ],
-      "appStoreURL": "https://apps.apple.com/ru/app/roblox/id431946152?uo=4"
-    },
-    {
-      "name": "Общайтесь и играйте с Discord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "Discord Inc.",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Discord.png",
-      "localizedDescription": "Discord создан для игр и отлично подходит для того, чтобы расслабиться с друзьями или пообщаться с единомышленниками. Настройте своё пространство под себя и болтайте с друзьями, пока играете в любимые видеоигры — или когда у вас просто есть настроение поговорить!\n\nИДЕАЛЬНЫЙ ГРУППОВОЙ ЧАТ ДЛЯ ИГР\n∙ Discord идеально подходит не только для игр и общения с друзьями, но и для создания международных сообществ единомышленников! Настройте своё пространство — и вперёд, общаться, играть и отдыхать!\n\nВ ЭТИХ ЧАТАХ НЕ СОСКУЧИШЬСЯ\n∙ Пользовательские эмодзи, стикеры, звуковые эффекты и множество других функций добавят индивидуальности вашим голосовым, видео- или текстовым чатам. Подчеркните свою уникальность с помощью настраиваемых аватара, статуса и текста профиля!\n\nСТРИМЬТЕ ТАК, БУДТО ВЫ С ДРУЗЬЯМИ В ОДНОЙ КОМНАТЕ\n∙ Высокое качество и низкая задержка стрима создают ощущение, что вы с друзьями играете в игру, смотрите сериал, перебираете фотографии или там, я не знаю, домашку делаете на одном диване.\n\nНЕ ЗВОНИТЕ, ПРОСТО ЗАХОДИТЕ\n∙ Вам не нужно никому звонить или с кем-то договариваться: входить в голосовые и текстовые чаты и выходить из них удивительно легко — теперь вы можете запросто общаться с друзьями до, во время и после игры.\n\nПОЛНАЯ ОТДЫХАТЕЛЬНАЯ ГОТОВНОСТЬ\n∙ Вы видите, кто из друзей сейчас в сети, играет в игры или просто отдыхает. А если игра поддерживается Discord, то вы даже узнаете, в каком режиме или каким персонажем играет ваш друг — и сможете присоединиться к нему прямо из приложения!\n\nВСЕГДА ЕСТЬ ЧЕМ ЗАНЯТЬСЯ С ДРУЗЬЯМИ\n∙ Смотрите видео, играйте во встроенные игры, слушайте музыку или просто сидите вместе в интернете и перебрасывайтесь мемасиками. Бесшовное общение текстом, голосом и по видеосвязи, а также совместные игры — всё это доступно вам в одном групповом чате.\n\nИГРА — НЕ ПОВОД ОТКЛАДЫВАТЬ ОБЩЕНИЕ\n∙ Вы можете играть на ПК, телефоне или консоли и продолжать общаться в Discord. Легко переключайтесь между устройствами и используйте инструменты для управления несколькими групповыми чатами с друзьями.",
-      "subtitle": "Discord создан для игр и отлично подходит для того, чтобы расслабиться с друзьями или пообщаться с единомышленниками. На",
-      "tintColor": "3C94FC",
-      "category": "social",
-      "pinnedCategory": "social",
-      "website": "https://discord.com/",
-      "versions": [
-        {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Discord.ipa",
-          "size": 103840289,
-          "version": "340.0",
-          "buildVersion": "107571",
-          "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "16.0"
-        }
-      ],
-      "version": "340.0",
-      "versionDate": "2026-09-18T00:00:00Z",
-      "size": 103840289,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Discord.ipa",
-      "rating": 4.69653,
-      "ratingCount": 216555,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/42/244c42b9-0433-6108-6801-d3163d22c4cc/86d98c10-0014-4bcb-89a5-39c7776e014e_1_GroupChat_Tile_EN_5-5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/78/09/637809c2-08ec-3525-6deb-81bc8cfa258d/5cc22caa-9cad-409f-9de8-f852cabe5d08_2_Stream_Tile_EN_5-5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/c6/01/7bc601c6-3616-ee25-7344-47a422a76729/4440dc86-9288-47c3-afe2-cd9b804c8700_3_SeeWhos_Tile_EN_5-5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/e9/a8/5de9a80f-f644-5b14-cb4d-e6a9e6f3dc55/ee397381-34db-4de9-a43f-d4ab27989e36_4_HopIn_Tile_EN_5-5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/4c/de/e54cde6f-01ae-6a35-17b8-b4bc3b3dee08/5e8db952-8709-48b5-abd9-c026ef82f629_5_ToDo_Tile_EN_5-5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/53/b6/2953b6e5-3b04-bcfe-839d-9b3bea691374/Hero_Image__U0028for_Apple_store_U0029_Server__U0028no_members_list_U0029_1242x2208_EN.png/392x696bb.png"
-      ],
-      "appStoreURL": "https://apps.apple.com/ru/app/%D0%BE%D0%B1%D1%89%D0%B0%D0%B9%D1%82%D0%B5%D1%81%D1%8C-%D0%B8-%D0%B8%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B5-%D1%81-discord/id985746746?uo=4"
     },
     {
       "name": "Яндекс — с Алисой AI",
@@ -399,44 +396,105 @@
       ]
     },
     {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Spotify.png",
-      "localizedDescription": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-crafted artist playlists\n• Easily search for your favorite songs, albums, artists, and podcasts\n• Discover personalized music recommendations tailored to your unique taste\n• Subscribe to your favorite free podcasts so you never miss an episode, and even curate your own podcast library\n\nSpotify Free is more than a music player - find the sounds you love and stream music and podcasts online, for free. Enjoy personalized playlists or curate and share your own, discover the hottest new releases, explore upcoming events from your favorites, and more.\n\n• Stream millions of free songs and podcasts\n• Create playlists with your favorite music\n• Share songs and playlists with friends and family (feature restrictions may apply in some regions)\n• Discover personalized playlists made just for you, and collaborate on playlists with your friends\n• Enjoy your personal Discover Weekly playlist every week\n• Stay in the know with the Release Radar and New Music Friday playlists\n• Find nearby events and gigs by your favorite artists\n• See your most played songs, genres, artists, and more with yearly Spotify Wrapped\n• Stream music across your devices with Spotify\n• Use Spotify Connect and enjoy listening on smart speakers, desktop, laptop, smart TV, Chromecast, PlayStation®, Xbox®, smartwatch, in your car, and more - limited number of device models apply\n\nSpotify Premium - a great way to enjoy the benefits of an offline music player, and stream music without WiFi. By pressing download, you can access your songs, playlists, podcasts, and audiobooks offline, wherever you are.\n• Listen to music, podcasts, and audiobooks - all in one place\n• Ad-free music listening: enjoy your music with no ad interruptions\n• Enjoy full on-demand playback\n• Audiobooks in Premium are currently available in the US, UK, Australia, Ireland, New Zealand, and Canada. Discover 250,000+ audiobook titles with 15 hours/month of available listening for Premium Individual subscribers and Duo & Family plan managers.\n• Superior sound quality on supported devices\n• AI DJ: a personalized guide that knows your music taste so well it can choose what to play for you\n• Enjoy on desktop, phone, tablet, computer, smartwatch, and in your car\n• Listen and control the listening session together by hosting a Jam in real time with friends\n• Download songs, podcasts, and audiobooks for offline listening, without an internet connection\n• No contract required - cancel your subscription whenever you want\n\nSpotify lets you play music wherever you are. Listen to your favorite songs and discover new music, podcasts, and audiobooks with the Spotify app!\n\nLOVE SPOTIFY?\nFollow us on Instagram: https://www.instagram.com/spotify\nFollow us on TikTok: https://www.tiktok.com/@spotify",
-      "subtitle": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and",
+      "name": "VK Мессенджер: общение и звонки, контакты и чаты",
+      "bundleIdentifier": "com.vk.vkme",
+      "developerName": "VK",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/com.vk.im",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VKMessenger.png",
+      "localizedDescription": "VK Мессенджер — бесплатное и быстрое приложение для общения. Здесь можно найти друзей по контактам и общаться с близкими в мессенджере и видеозвонках. Попробуйте удобный сервис для обмена голосовыми сообщениями, общения в групповых видеочатах или в переписке вдвоём.\n\n• Обменивайтесь в мессенджере голосовыми сообщениями, текстом и видеосообщениями\nВ переписке можно отправлять друзьям стикеры, музыку, фото, видео и записи из ВКонтакте. У голосовых и видеосообщений есть расшифровка — чтобы читать, когда неудобно слушать. А для чатов — яркие темы оформления.\n\n• Совершайте звонки онлайн без ограничений по времени и числу участников\nМожно собрать групповой видеочат и общаться сколько угодно, включив камеры и микрофоны.\n\n• Контакты в быстром доступе: из телефонной книги и ВКонтакте\nВойдите в свой аккаунт — и сразу увидите в мессенджере друзей. А ещё можно добавить контакт из телефона: для общения с теми, с кем при знакомстве обменялись номерами.\n\n• Отправляйте исчезающие сообщения\nКогда хочется пошутить в серьёзной беседе, не засоряя её. А для быстрых вопросов можно создавать фантомные чаты — в них история очистится через некоторое время.\n\n• Получайте бизнес-уведомления в мессенджере\nСообщения о доставке заказа из магазина или чеки автоматически попадут в специальную папку.\n\nПереписка в чатах, голосовые сообщения, групповые видеочаты, видеосообщения, звонки и многое другое — VK Мессенджер позволяет выбрать любой удобный способ общения!\n\nУсловия использования: vk.com/terms.\nПолитика конфиденциальности: vk.com/privacy.\nПоддержка: https://vk.com/support?act=home_messenger_standalone&from=title&source=rustore_messenger",
+      "subtitle": "Общение: контакты, чаты, мессенджер, сообщения, видеочат",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Spotify.ipa",
-          "size": 126966188,
-          "version": "9.1.60",
-          "buildVersion": "916001969",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMessenger.ipa",
+          "size": 107139451,
+          "version": "1.133",
+          "buildVersion": "1696",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "15.0",
-          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+          "minOSVersion": "10.0",
+          "localizedDescription": "Слышите? Что-то тихонечко шуршит в чатах... Ах, это сообщения — как раз ждут, когда вы заглянете в обновлённый мессенджер."
         }
       ],
-      "version": "9.1.60",
+      "version": "1.133",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 126966188,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Spotify.ipa",
-      "rating": 4.77343,
-      "ratingCount": 42141707,
+      "size": 107139451,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMessenger.ipa",
+      "rating": 4.17,
+      "ratingCount": 21437,
+      "downloads": 11000000,
+      "downloadsText": "11 млн +",
+      "versionDescription": "Слышите? Что-то тихонечко шуршит в чатах... Ах, это сообщения — как раз ждут, когда вы заглянете в обновлённый мессенджер.",
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
+        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/1801748a-a953-44f0-9a38-abae962cb552.jpg",
+        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/5cbec7c9-478f-47d0-a95b-c55e9f8b429f.jpg",
+        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/7ad4b0da-203c-4bb5-a6cc-7ec75be3828c.jpg",
+        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/1c727f9a-e93f-4e63-86e4-bb3474dae75e.jpg",
+        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/2499322c-f2e9-4058-a0b8-cb481ea3035e.jpg",
+        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/4f5c413d-ca9a-4a95-bc24-765a6e23fb0a.jpg"
       ],
-      "website": "https://www.spotify.com/",
-      "appStoreURL": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?uo=4"
+      "ageRating": "12+",
+      "website": "https://vk.com",
+      "privacyURL": "https://vk.com/privacy",
+      "reviews": [
+        {
+          "id": "Лика-18 сен 2026-0",
+          "title": "Тупит, тормозит, еле грузится при открытии,",
+          "author": "Лика",
+          "text": "Тупит, тормозит, еле грузится при открытии, отвратительно",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Александр-18 сен 2026-1",
+          "title": "Легкий.",
+          "author": "Александр",
+          "text": "Легкий. Когда нужен именно мессенджер без прочей мути — самое оно",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Виталий-18 сен 2026-2",
+          "title": "Простота",
+          "author": "Виталий",
+          "text": "Простота",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Наталья-18 сен 2026-3",
+          "title": "Отлично работает!",
+          "author": "Наталья",
+          "text": "Отлично работает! Удобно пользоваться.",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Данила-18 сен 2026-4",
+          "title": "Очень сильно не хватает «Каналов».",
+          "author": "Данила",
+          "text": "Очень сильно не хватает «Каналов». Пользуюсь только мессенджером, а ВК приходится оставлять исключительно ради Каналов. Будьте добры принять меры.",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Александр-18 сен 2026-5",
+          "title": "Самое худшее приложение, н мог зайти в свой",
+          "author": "Александр",
+          "text": "Самое худшее приложение, н мог зайти в свой акк учебный",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Эвелина-18 сен 2026-6",
+          "title": "VК Мессеннд",
+          "author": "Эвелина",
+          "text": "VК Мессеннд",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Серёга-18 сен 2026-7",
+          "title": "Здравствуйте при прослушивании голосового",
+          "author": "Серёга",
+          "text": "Здравствуйте при прослушивании голосового сообщения долго а иногда и совсем не срабатывает переключение динамика",
+          "date": "18 сен 2026"
+        }
+      ]
     },
     {
       "name": "Яндекс Карты и Навигатор",
@@ -1054,142 +1112,206 @@
       ]
     },
     {
-      "name": "Rakuten Viber Messenger",
-      "bundleIdentifier": "com.viber",
-      "developerName": "Viber Media SARL.",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Viber.png",
-      "localizedDescription": "\"Rakuten Viber – безопасное приложение для общения, связывающее более миллиарда людей по всему миру!\n \nВ Rakuten Viber есть групповые чаты, исчезающие сообщения, напоминания и многое другое:\n \nБесплатные сообщения\nОставаться на связи проще простого! Отправляйте текстовые, голосовые или видеосообщения, фото, стикеры, GIF или файлы бесплатно.\n \nБесплатные голосовые и видеозвонки\nОбщайтесь с кем угодно по всему миру без ограничений. Групповые звонки до 60 участников. Будьте на связи с родными, друзьями и коллегами!\n \nCквозное шифрование\nВсе личные и групповые чаты и звонки шифруются по умолчанию, поэтому вы можете быть уверены, что содержание вашего общения останется тайной. Никто, даже Rakuten Viber, не сможет получить к нему доступ.\n \nЭкономьте на звонках на городские телефоны с Viber Out\nЗвоните на любой стационарный или мобильный телефон с помощью сервиса международной связи Viber Out на выгодных условиях. Подключайте тарифы Viber Out для звонков по выбранному направлению или пополняйте счет и звоните, куда хотите.\n \nСоздавайте групповые чаты\nОставайтесь на связи с друзьями, семьей и коллегами в групповых чатах, где может быть до 250 участников. Используйте опросы, викторины, @упоминания и реакции, чтобы общение было максимально удобным!\n \nВыражайте эмоции с помощью масок, GIF и стикеров\nИспользуйте маски, чтобы примерить новый образ или повеселить друзей смешным фото. Отправляйте готовые GIF и стикеры – в нашей коллекции их больше 55 000 – или создавайте свои!\n \nИсчезающие сообщения\nПросто установите таймер – и сообщения в личных и групповых чатах будут исчезать сами. Решайте сами, cколько времени дать собеседнику на прочтение сообщения: 10 секунд, 1 минуту или целый день!\n \nСообщества и каналы\nСпорт, новости, кулинария, путешествия, развлечения и многое другое – читайте контент по вашим интересам и находите единомышленников. Создавайте собственные сообщества или каналы, делитесь авторским контентом и привлекайте аудиторию!\n \nИспользуйте чат-ботов\nЧат-боты Rakuten Viber на основе ИИ найдут нужную информацию или нарисуют картину по запросу. Познакомьтесь с чат-ботами от наших партнеров, которые расскажут о модных трендах, помогут купить билет или даже оплатить счета!\n \nРеагируйте на сообщения\nВыражайте свое мнение и эмоции в чатах с помощью реакций к сообщениям!\n \nСоздавайте заметки и напоминания\nСохраняйте нужные сообщения и ссылки, добавляйте комментарии к заметкам и устанавливайте напоминания, чтобы не забыть о важных делах и встречах.\n \nRakuten Viber является частью Rakuten Group – мирового лидера в сфере электронной коммерции и финансовых услуг.\n \nУсловия и политика использования: https://www.viber.com/terms/\"",
-      "subtitle": "\"Rakuten Viber – безопасное приложение для общения, связывающее более миллиарда людей по всему миру!",
-      "tintColor": "3C94FC",
-      "category": "social",
-      "pinnedCategory": "social",
-      "website": "http://www.viber.com",
-      "versions": [
-        {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Viber.ipa",
-          "size": 204571932,
-          "version": "28.6.2",
-          "buildVersion": "28.6.2.19",
-          "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "15.2"
-        }
-      ],
-      "version": "28.6.2",
-      "versionDate": "2026-09-18T00:00:00Z",
-      "size": 204571932,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Viber.ipa",
-      "rating": 4.53219,
-      "ratingCount": 442342,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/9c/e9/339ce99b-f441-a1f5-87ac-7b79ebba208e/4068125a-5dff-4186-9455-8a715b49d19b_Viber_AS_Russian_1242x2208_Screen1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/1a/0a/a91a0a29-82db-e85a-a661-92d5384643ff/f839a530-51f3-4dae-b5f8-654cd3cb129d_Viber_AS_Russian_1242x2208_Screen2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fd/f1/88fdf14b-c8ea-87f1-e267-86b48ff754cb/b932512d-bd8c-4287-b4f4-c4c238610d5f_Viber_AS_Russian_1242x2208_Screen3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/43/ce/8843ce54-41a4-eb04-6ff9-a10e583bf96f/cff302de-c92a-4d62-99ef-c3b82fa063fd_Viber_AS_Russian_1242x2208_Screen4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/0b/96/740b968c-ee74-befe-6d77-2af549eb1701/5810cce8-46bf-4827-b9d1-d58920885985_Viber_AS_Russian_1242x2208_Screen5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/18/92/e81892a9-f646-cef7-c5cd-afd0a38b6b49/ed6c2588-96ef-425a-b4be-62e6c071ef50_Viber_AS_Russian_1242x2208_Screen6.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b5/40/01b5400a-8ffb-4821-8fb6-e1996c0fa1b6/dc3c64d9-7a58-4a44-8162-d6dde8b2ecdc_Viber_AS_Russian_1242x2208_Screen7.jpg/392x696bb.jpg"
-      ],
-      "appStoreURL": "https://apps.apple.com/ru/app/rakuten-viber-messenger/id382617920?uo=4"
-    },
-    {
-      "name": "Дзен",
-      "bundleIdentifier": "ru.yandex.mobile.zen",
+      "name": "VK WorkSpace для бизнеса",
+      "bundleIdentifier": "ru.mail.messenger-biz-avocado",
       "developerName": "VK",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.zen.android",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/dzen.png",
-      "localizedDescription": "Дзен — приложение для просмотра и создания контента. \nЗдесь сотни тысяч авторов делятся постами, статьями, видео и короткими роликами. А умные алгоритмы подстраивают ленту под ваши интересы. \n\n— Всевозможные темы\nПравило Дзена №1: если это существует, то об этом уже есть публикации. Музыка, гастрономия, путешествия, юмор, искусство, лайфхаки, отношения, наука и кулинария — в Дзене есть всё. Создавайте свою собственную ленту, основанную именно на ваших интересах: смотрите, читайте, комментируйте, получайте рекомендации новых авторов и подписывайтесь. А ещё — создавайте контент сами.\n\n— Разные форматы\nВ Дзене — четыре формата контента. Так вы всегда найдёте то, что вам подходит. Узнавайте за несколько минут новое, листая посты или короткие ролики. Углубитесь в тему, прочитав статью или посмотрев длинное видео. А если захотите завести свой блог — творить можно во всех четырех форматах сразу.\n\n— Миллионы пользователей\nДзен — огромное сообщество людей, увлечённых всем на свете. Вы найдете здесь свою аудиторию, если вам есть что сказать и показать, а умные алгоритмы вам помогут.\n\n— Монетизация для авторов\nВ Дзене можно монетизировать свой контент: достаточно набрать 100 подписчиков и поработать над их активностью. Ещё один источник доходов — интеграции нативной рекламы.\n\nУсловия использования: https://dzen.ru/legal/ru/termsofuse/index.html\nПолитика конфиденциальности: https://dzen.ru/legal/ru/confidential/index.html\nПоддержка: https://dzen.ru/help/ru/index.html?utm_source=help_rustore",
-      "subtitle": "Дзен сам подберёт статьи и видео для вас",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mail.biz.avocado",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VKWorkSpace.png",
+      "localizedDescription": "VK WorkSpace — защищенная цифровая среда для компаний и госорганизаций. Корпоративный мессенджер, чат и видеозвонки, почта, облако, календарь и документы — все в едином привычном интерфейсе приложения\n\n— Корпоративный мессенджер для команды. Личный и групповой чат для сотрудников, новостные каналы. Отправляйте сообщения с форматированием: списки, цитаты, гиперссылки. Реакции, эмодзи, стикеры. Ветки сообщений, отложенная отправка, расшифровка голосовых, закрепы, папки и архив чатов, гибкие настройки уведомлений. Корпоративный мессенджер позволяет вести переписку и обмениваться сообщениями в защищенной среде.\n\n— Видеозвонки для команды. Аудио- и видеозвонки Full HD: один на один и групповые — без ограничений по времени. Звонки по видео с приглашением гостей по ссылке, режим вебинара с модерацией, демонстрация экрана и запись конференции. Видеозвонки обеспечивают бизнес-связь между сотрудниками компании и внешними участниками: партнерами и клиентами. Звонки по видео доступны в любом формате — от быстрой конференции до полноценного вебинара; организовать видеозвонок можно за пару кликов. Бизнес-связь в формате видео — это удобно и эффективно.\n\n— Корпоративная почта и календарь для работы.Интеграция с доменом компании, треды писем, совместный доступ к папкам и почтовым ящикам. Календарь для работы — пространство для планирования встреч: файлы в событиях, ссылки на звонки, уведомления. Бизнес-связь через почту помогает команде координировать задачи, а календарь дает возможность составлять рабочее расписание и управлять им.\n\n— Диск и документы. Безопасное облачное хранилище для совместной работы с текстовыми файлами, таблицами и презентациями. Облачное хранилище позволяет собрать рабочие документы в едином защищенном пространстве, удобно делиться ими с коллегами. С документами и презентациями могут одновременно работать несколько пользователей. Доступны общие папки в облаке, распределение квот между пользователями, инструменты миграции из других хранилищ. \n \nБезопасность и интеграция\n\n— Хранение информации в зашифрованном контейнере — сообщения, список звонков, почта и другие данные остаются строго внутри приложения \n— Встроенный антивирус, антиспам и антифрод, шифрование данных и трафика, протоколы защиты TLS 1.2/1.3 \n— Удаленное управление сессиями и настройками безопасности пользователей, стирание данных на устройствах \n— Мониторинг всех событий в системе, интеграция с DLP для предотвращения утечек \n— Развертывание на серверах компании или в защищенном облаке \n— Администрирование пользователей и доступ по SSO \n— Соответствие требованиям законодательства РФ\n\nДоступ к VK WorkSpace предоставляет администратор вашей компании. Если вы уже используете платформу, обратитесь в корпоративную техподдержку.\n\nОфициальный сайт: https://workspace.vk.ru/\nУсловия использования: https://workspace.vk.ru/docs/saas/legal/workspace-terms/index.html \nПолитика конфиденциальности: https://workspace.vk.ru/docs/saas/legal/privacy-policy/index.html",
+      "subtitle": "Цифровая среда: мессенджер, видеозвонки и чат, почта, календарь и диск",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
-      "website": "https://dzen.ru",
-      "privacyURL": "https://dzen.ru/legal/ru/confidential/index.html",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/dzen.ipa",
-          "size": 127139930,
-          "version": "26.6.3",
-          "buildVersion": "448",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKWorkSpace.ipa",
+          "size": 135893148,
+          "version": "26.3.10",
+          "buildVersion": "376840",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "10.0",
-          "localizedDescription": "Чтобы осталось время на дела, коротко о самом важном  расскажет Глиф: ваш ИИ-ассистент в Дзене дважды в день собирает новостной дайджест — со ссылками на источники."
+          "minOSVersion": "16.0",
+          "localizedDescription": "Исправления и улучшения"
         }
       ],
-      "version": "26.6.3",
+      "version": "26.3.10",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 127139930,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/dzen.ipa",
-      "rating": 4.24,
-      "ratingCount": 15685,
-      "downloads": 9000000,
-      "downloadsText": "9 млн +",
-      "versionDescription": "Чтобы осталось время на дела, коротко о самом важном  расскажет Глиф: ваш ИИ-ассистент в Дзене дважды в день собирает новостной дайджест — со ссылками на источники.",
+      "size": 135893148,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKWorkSpace.ipa",
+      "rating": 4.55,
+      "ratingCount": 2473,
+      "downloads": 200000,
+      "downloadsText": "200 тыс +",
+      "versionDescription": "Исправления и улучшения",
       "screenshotURLs": [
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/e5e18df7-d4a1-418e-87e8-63ac44089119.jpg",
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/2c28b8bd-5f12-4f0d-ada0-454d39b01803.jpg",
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/8865f2d8-462b-45ac-8b7e-6155097b5f75.jpg",
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/cab66621-c3c5-49e7-b89d-42d7e5f89fe4.jpg",
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/cbb4f1ae-5030-4153-9acc-5a6dee7989fa.jpg",
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/8b65bc03-72c0-4672-be31-0bbd50087c75.jpg",
-        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/eb10cc0c-886a-4650-8700-ddb5b1f8313f.jpg"
+        "https://static.rustore.ru/2026/3/16/28/apk/2912191/content/SCREENSHOT/145060e6-47f9-4775-80a4-daf86ad39ddf.jpg",
+        "https://static.rustore.ru/2026/3/16/d9/apk/2912191/content/SCREENSHOT/55125cd2-cb06-4fb1-8c93-35599923feb3.jpg",
+        "https://static.rustore.ru/2026/8/7/ec/apk/2912191/content/SCREENSHOT/13d59595-8437-4251-94db-624044eaade0.png",
+        "https://static.rustore.ru/2026/3/16/02/apk/2912191/content/SCREENSHOT/42b21746-4c75-46dd-958c-919359b5fec9.jpg",
+        "https://static.rustore.ru/2026/3/16/83/apk/2912191/content/SCREENSHOT/2663b8e0-752a-423b-9f97-c7ec6cba147e.jpg",
+        "https://static.rustore.ru/2026/3/16/f3/apk/2912191/content/SCREENSHOT/2a824446-8dc3-4171-be18-10e08ea3d0f9.jpg"
       ],
-      "ageRating": "12+",
+      "ageRating": "0+",
+      "website": "https://vk.com",
+      "privacyURL": "https://vk.com/privacy",
       "reviews": [
         {
-          "id": "Наталия-18 сен 2026-0",
-          "title": "Ваша траурная заставка при открытии Дзен",
-          "author": "Наталия",
-          "text": "Ваша траурная заставка при открытии Дзен ужасно раздражает, даже открывать не хочется, или приходится закрывать глаза",
+          "id": "Мария-18 сен 2026-0",
+          "title": "Когда человек, который ведет трансляцию,",
+          "author": "Мария",
+          "text": "Когда человек, который ведет трансляцию, меняет слайд - на экране слушателя картинка не меняется. Так же, если просто пройтись рукой мимо динамика или издать минимальное звучание, шорох около него - то звук трансляции сразу глушится для слушателя. Это создает определенные неудобства, не советую данное приложение для проведения трансляций, лекций и чего-то подобного.",
           "date": "18 сен 2026"
         },
         {
-          "id": "Игорь-18 сен 2026-1",
-          "title": "Все на 5+++!",
-          "author": "Игорь",
-          "text": "Все на 5+++! Отличная работа👌👍👏!!!",
+          "id": "Дмитрий-15 сен 2026-1",
+          "title": "параша",
+          "author": "Дмитрий",
+          "text": "параша",
+          "date": "15 сен 2026"
+        },
+        {
+          "id": "Дим-15 сен 2026-2",
+          "title": "После ввода кода 2F вылетает на экран входа.",
+          "author": "Дим",
+          "text": "После ввода кода 2F вылетает на экран входа. Поддержка уже неделю не отвечает. Крайне не советую В браузере сообщения не прогружаются, фото отмечены битыми Такое ощущение, что это было написано джунами в качестве pet-проекта Почти в каждом действии можно найти какой-то баг и нестабильность",
+          "date": "15 сен 2026"
+        },
+        {
+          "id": "Удаленный пользователь-14 сен 2026-3",
+          "title": "26.3.81 постоянно стала слетать авторизация",
+          "author": "Удаленный пользователь",
+          "text": "26.3.81 постоянно стала слетать авторизация",
+          "date": "14 сен 2026"
+        },
+        {
+          "id": "Сергей-12 сен 2026-4",
+          "title": "Перестал работать виждет Календать на",
+          "author": "Сергей",
+          "text": "Перестал работать виждет Календать на Андроид 16. Пишет Обновить и не реагирует на действия",
+          "date": "12 сен 2026"
+        },
+        {
+          "id": "Дмитрий-11 сен 2026-5",
+          "title": "Хорошее приложение для работы.",
+          "author": "Дмитрий",
+          "text": "Хорошее приложение для работы. Интерфейс понравился, звуковые уведомления приятные.",
+          "date": "11 сен 2026"
+        },
+        {
+          "id": "Татьяна-10 сен 2026-6",
+          "title": "Удобная программа для работы.",
+          "author": "Татьяна",
+          "text": "Удобная программа для работы. Очень напоминает скайп в части некоторого функционала. Но предоставляет больше функций. Поддерживается и обновляется - это огромный плюс.",
+          "date": "10 сен 2026"
+        },
+        {
+          "id": "Гаянэ-10 сен 2026-7",
+          "title": "Подвисает часто",
+          "author": "Гаянэ",
+          "text": "Подвисает часто",
+          "date": "10 сен 2026"
+        }
+      ]
+    },
+    {
+      "name": "VK Музыка: аудиокниги, песни, подкасты",
+      "bundleIdentifier": "com.music.vk",
+      "developerName": "VK",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/com.uma.musicvk",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VKMusic.png",
+      "localizedDescription": "Музыка без интернета: оформите подписку, скачайте песни прямо в приложении и слушайте офлайн. \n\nVK Музыка — это стриминговый сервис, где есть миллионы треков, подкасты, аудиокниги и радио. В приложении для музыки можно слушать любимые треки и открывать новые — благодаря сниппетам, плейлистам настроений и рекомендациям от алгоритмов, пользователей, сообществ и редакции. \n\n• Рекомендации под ваш вкус. \n• Сниппеты — удобный способ поиска музыки.\n• Не только музыка: подкасты, аудиокниги и радио.\n• Новые книги для бесплатного прослушивания каждый месяц.\n• Плейлисты по настроению, исполнителям, жанрам и песням.\n• Музыка без интернета: скачивайте песни и слушайте офлайн.\n\nТочные рекомендации музыки\nVK Микс — обновлённая система рекомендаций. Это бесконечный плейлист треков в вашем вкусе, который генерируют алгоритмы. Выбирайте настроение, узнаваемость и язык, применяйте настройки и включайте свой VK Микс. \n\nВозможность открывать новую музыку\n• «Сниппеты» — лёгкий способ найти музыку. Зажмите трек, чтобы послушать яркий фрагмент и оценить, нравится вам песня или нет.  \n• «Какой сейчас вайб» — плейлисты настроений от алгоритмов на основе треков, которые вам нравятся.\n• В разделе «Обзор» собраны эксклюзивные релизы, новинки, чарт треков и альбомов, подборки от редакции. \n• В разделе «Слушайте друг друга» можно найти новые песни и тех, с кем у вас совпадает музыкальный вкус.\n• Меломаны оценят миксы по жанрам и артистам — плейлисты со знакомыми треками и похожими на то, что вы часто слушаете.  \n\nУдобный плеер\nВключайте трек, открывайте плеер и управляйте музыкой. Прямо здесь доступна очередь треков и тексты к ним. Если музыка нравится — добавляйте в коллекцию, если нет — отмечайте дизлайком. Попробуйте «Микс по треку» — подборку музыки, похожей на трек, который сейчас слушаете. С подпиской можно также скачать песни и слушать музыку без интернета.\n\nМузыка бесплатно\nВы можете слушать музыку бесплатно или оформить подписку, чтобы убрать все ограничения: книги и музыка без интернета, без рекламы и с выключенным экраном. Для новых пользователей доступен бесплатный пробный период на 30 дней.\n\nПодкасты в VK Музыке\nВ разделе «Книги и шоу» собраны сотни подкастов обо всём на свете: научпоп, психология, культура, юмор и многое другое. Слушайте подкасты на русском языке и узнавайте новое о мире вокруг.\n\nРадио в VK Музыке\nВам доступны десятки радиостанций с разной музыкой — включайте любимое радио и слушайте без помех и перерывов.\n\nАудиокниги в VK Музыке\nВ разделе «Книги и шоу» вы найдёте множество книг разных жанров в аудиоформате: от классики до new adult.\n\nМузыка без интернета\nВ самолёте, в тундре, на дне Марианской впадины — там, где сложности с интернетом. Плеер для музыки работает везде: достаточно просто скачать песни в своём любимом приложении для музыки и наслаждаться качественным звуком среди подводных жителей. Только потребуется подписка.\n\nПодписка позволяет убрать все ограничения в приложении:\n\n• Музыка без интернета — можно скачать песни и включать плеер для музыки даже там, где нет сети.\n• Никакой рекламы и перерывов на самом интересном.\n• Музыка с выключенным экраном — ничего не остановится, когда вы свернёте приложение или заблокируете экран.\n• Доступ к полной коллекции аудиокниг — классика, новинки, бестселлеры и эксклюзивы.\n\nПодписка на VK Музыку\n• Подписка продлевается автоматически. Если хотите отменить подписку, это нужно сделать не менее чем за 24 часа до того, как она продлится на новый месяц.\n• Если удалить приложение, подписка сохранится: отменить её можно только вручную. \n\nПоддержка: https://vk.com/support?act=home_music_standalone&from=title&source=rustore_music\nУсловия использования: https://vk.com/terms/music\nПолитика конфиденциальности: https://vk.com/legal/vkmusic_privacy\n\nКниги, подкасты, радио и музыка без интернета, без рекламы и в фоновом режиме.\n\n Любимые радиостанции, песни без интернета, аудиокниги, подкасты в одном приложении. Музыка бесплатно и дополнительные возможности по подписке.",
+      "subtitle": "Музыка без интернета и рекламы, аудиокниги, песни, подкасты и радио",
+      "tintColor": "3C94FC",
+      "category": "social",
+      "pinnedCategory": "social",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMusic.ipa",
+          "size": 105242783,
+          "version": "8.30",
+          "buildVersion": "1101",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Теперь приложение звучит лучше! Сделали его стабильнее — обновляйтесь и открывайте для себя много новой музыки."
+        }
+      ],
+      "version": "8.30",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 105242783,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMusic.ipa",
+      "rating": 4.08,
+      "ratingCount": 23065,
+      "downloads": 9000000,
+      "downloadsText": "9 млн +",
+      "versionDescription": "Теперь приложение звучит лучше! Сделали его стабильнее — обновляйтесь и открывайте для себя много новой музыки.",
+      "screenshotURLs": [
+        "https://static.rustore.ru/2026/2/10/03/apk/313279/content/SCREENSHOT/04a604de-d9be-4df5-b4e8-6b2f37943fef.jpg",
+        "https://static.rustore.ru/2026/2/10/1a/apk/313279/content/SCREENSHOT/aa512330-76f0-4f08-9a59-236b21a9373e.jpg",
+        "https://static.rustore.ru/2026/2/10/8e/apk/313279/content/SCREENSHOT/c390bf01-b754-41fc-817e-676fd9901fd7.jpg",
+        "https://static.rustore.ru/2026/2/10/f2/apk/313279/content/SCREENSHOT/78a2d4a9-f846-4712-bdee-e1ba5cad6ff8.jpg",
+        "https://static.rustore.ru/2026/2/10/46/apk/313279/content/SCREENSHOT/f4be5ebc-9029-4bca-9fcf-bdc7e8237f28.jpg",
+        "https://static.rustore.ru/2026/2/10/df/apk/313279/content/SCREENSHOT/995141df-f1ea-43ab-860f-39924a518638.jpg",
+        "https://static.rustore.ru/2026/2/10/9e/apk/313279/content/SCREENSHOT/92af9788-04ab-4041-a4d9-4743191f6b13.jpg",
+        "https://static.rustore.ru/2026/2/10/7b/apk/313279/content/SCREENSHOT/5b6d7cac-5c04-4939-bdc1-9a2a65cbb09f.jpg"
+      ],
+      "ageRating": "12+",
+      "website": "https://vk.com",
+      "privacyURL": "https://vk.com/privacy",
+      "reviews": [
+        {
+          "id": "Юрий-18 сен 2026-0",
+          "title": "Мне всё очень нравится спасибо за такую",
+          "author": "Юрий",
+          "text": "Мне всё очень нравится спасибо за такую музыку 🎤🎹🎸👍",
           "date": "18 сен 2026"
         },
         {
-          "id": "Иван-18 сен 2026-2",
-          "title": "Скучный.",
-          "author": "Иван",
-          "text": "Скучный. Модераторам Дзена со своими блокировками гореть в топке!",
+          "id": "Рамзиль-18 сен 2026-1",
+          "title": "В общем, если захотите пользоваться вк",
+          "author": "Рамзиль",
+          "text": "В общем, если захотите пользоваться вк музыкой, вам придется смириться с тем что треки будут ставиться на паузу сами через минут 15-20 прослушивания, и второе это постоянные баги, вылеты, то что музыка не будет скачиваться и зависать в режиме скачивания, будет то удаляться, то добавляться в любимые сразу 5 одинаковых треков, в общем ребят, если хотите гемора и больше ненужной возни, ваш вариант))",
           "date": "18 сен 2026"
         },
         {
-          "id": "Рустам-18 сен 2026-3",
-          "title": "Назаров",
-          "author": "Рустам",
-          "text": "Назаров",
+          "id": "Елена-18 сен 2026-2",
+          "title": "В последнее время наверное самое",
+          "author": "Елена",
+          "text": "В последнее время наверное самое Отвратительное приложение!!! Через песню, начинает тормозить(хотя прослушивание через скачивание) Смысл платить за то, что не работает!?!?",
           "date": "18 сен 2026"
         },
         {
-          "id": "Игорь-18 сен 2026-4",
-          "title": "После последних обновлений невозможно зайти",
-          "author": "Игорь",
-          "text": "После последних обновлений невозможно зайти в раздел\"Моё\"",
+          "id": "Eva-18 сен 2026-3",
+          "title": "Весь вечер зависает музыка.",
+          "author": "Eva",
+          "text": "Весь вечер зависает музыка. Приложение обновлено, подписка есть, интернет летает. Невозможно слушать музыку, с учётом того, что она сохранена на устройство. Ощущение, что ВК делает все, чтобы перестали им пользоваться.",
           "date": "18 сен 2026"
         },
         {
-          "id": "Андрей-18 сен 2026-5",
-          "title": "5балов",
+          "id": "Дмитрий-18 сен 2026-4",
+          "title": "Оплачиваю каждый месец проблемо в том что я",
+          "author": "Дмитрий",
+          "text": "Оплачиваю каждый месец проблемо в том что я не люблю певцов которые петь не умеют армяни и т. Д я их не слушал и не слушаю но почему-то это нытьё или что они поют про русских девушек попадает мне в плей лист маразм чуханские песни",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Дмитрий-18 сен 2026-5",
+          "title": "Вставлю свои две копейки.",
+          "author": "Дмитрий",
+          "text": "Вставлю свои две копейки. Глобально идея ВК музыки интересна. НО! Создав плейлист из избранной музыки, допустим 100 песен, через месяц от него в лучшем случае останется песен 30. Думаю, что это связано с тем, что пользовательи ВК, на песни которых алгоритм поиска сервиса ВК музыка сослался, их просто удалили со своей страницы, что подразумевает через определенное время обновлять свой плейлист, проходя заново поиск любимых песен. Реклама тем не менее через каждые две песни!",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Анна-18 сен 2026-6",
+          "title": "Былодаэтого",
+          "author": "Анна",
+          "text": "Былодаэтого",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Андрей-18 сен 2026-7",
+          "title": "Задолбало, каждый трек останавливаться,",
           "author": "Андрей",
-          "text": "5балов",
+          "text": "Задолбало, каждый трек останавливаться, нафиг надо такая подписка которая делает нервы",
           "date": "18 сен 2026"
-        },
-        {
-          "id": "Валентин-17 сен 2026-6",
-          "title": "Всё!",
-          "author": "Валентин",
-          "text": "Всё!",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Виктор-17 сен 2026-7",
-          "title": "Грустная не оптимизированная программа с",
-          "author": "Виктор",
-          "text": "Грустная не оптимизированная программа с плохим поиском и слабым контентом.",
-          "date": "17 сен 2026"
         }
       ]
     },
@@ -1297,105 +1419,41 @@
       ]
     },
     {
-      "name": "RuTube",
-      "bundleIdentifier": "com.slicingdice.game",
-      "developerName": "ООО \"РУФОРМ\"",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.rutube.app",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/rutube.png",
-      "localizedDescription": "Контент на любой вкус онлайн 24/7\n\nВидеохостинг RUTUBE — стремительно растущая платформа для любителей и создателей контента. Смотрите видео, трансляции, сериалы, фильмы от крупнейших онлайн-кинотеатров — «Иви», PREMIER, START — и ТВ онлайн. Делитесь собственными видео с миллионами зрителей, развивайте свой канал и зарабатывайте на своём творчестве!\n\nСмотреть любимые видео, трансляции и прямые эфиры в приложении RUTUBE просто и привычно: оно легко заменит ваш любимый онлайн-кинотеатр. Скачайте его, чтобы смотреть фильмы, когда и где вам удобно. А с подпиской RUTUBE можно скачивать видео, чтобы смотреть их даже без интернета.\n\nНа RUTUBE есть все форматы контента: видео и трансляции блогеров, подкасты, прямые эфиры телеканалов, кино и сериалы, а также оригинальные шоу собственного производства. А главное — любой контент можно слушать в фоне, даже когда телефон заблокирован.\n\nЗдесь вы найдёте развлекательный и обучающий контент, документальные фильмы, концерты, обзоры видеоигр, трансляции с важных событий, лайфхаки, рецепты, музыку, спортивные игры, мультсериалы, трейлеры, телешоу — выбирайте контент на свой вкус.\n\nЧтобы начать, зарегистрируйтесь на RUTUBE по номеру телефона. Подписывайтесь на каналы и сохраняйте видео в «Смотреть позже».\n\nСмотреть видео, трансляции, прямые эфиры и шоу можно с любых устройств: смартфонов, планшетов, компьютеров или Smart TV. Всё, что вы сохраните в «Смотреть позже» или опубликуете на своём канале, будет храниться в разделе «Моё».\n\nВы можете смотреть фильмы и сериалы онлайн в приложении RUTUBE бесплатно или с одной из платных подписок: RUTUBE, RUTUBE x PREMIER, НТВ+, Настрой кино!, viju и другими.\n\nПубликуйте видео на своём канале, привлекайте аудиторию смотреть контент и набирайте популярность. Стать блогером теперь ещё проще благодаря удобному интерфейсу загрузки видео в приложении.\n\nRUTUBE — это:\n\n- десятки оригинальных и эксклюзивных шоу и программ: «Злые языки», «МУЗLOFT», «Экстрасенсы. Битва сильнейших», шоу «Титаны», «Шоу Воли» и многие другие;\n- зарубежные и российские фильмы и сериалы;\n- контент от популярных и начинающих блогеров;\n- видео, трансляции и киберспортивные стримы;\n- прямые эфиры ТВ-каналов: ТНТ, Пятница, НТВ, ТВ-3, Матч ТВ, 2х2 и других;\n- спортивные трансляции;\n- свежие подборки контента каждый день;\n- мультфильмы, сериалы, детские передачи, шоу и семейные блогеры.\n\nСмотрите то, что любите!",
-      "subtitle": "Онлайн-контент для всех: ТВ-каналы, кино, клипы, мультфильмы и многое другое!",
+      "name": "Общайтесь и играйте с Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Discord Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Discord.png",
+      "localizedDescription": "Discord создан для игр и отлично подходит для того, чтобы расслабиться с друзьями или пообщаться с единомышленниками. Настройте своё пространство под себя и болтайте с друзьями, пока играете в любимые видеоигры — или когда у вас просто есть настроение поговорить!\n\nИДЕАЛЬНЫЙ ГРУППОВОЙ ЧАТ ДЛЯ ИГР\n∙ Discord идеально подходит не только для игр и общения с друзьями, но и для создания международных сообществ единомышленников! Настройте своё пространство — и вперёд, общаться, играть и отдыхать!\n\nВ ЭТИХ ЧАТАХ НЕ СОСКУЧИШЬСЯ\n∙ Пользовательские эмодзи, стикеры, звуковые эффекты и множество других функций добавят индивидуальности вашим голосовым, видео- или текстовым чатам. Подчеркните свою уникальность с помощью настраиваемых аватара, статуса и текста профиля!\n\nСТРИМЬТЕ ТАК, БУДТО ВЫ С ДРУЗЬЯМИ В ОДНОЙ КОМНАТЕ\n∙ Высокое качество и низкая задержка стрима создают ощущение, что вы с друзьями играете в игру, смотрите сериал, перебираете фотографии или там, я не знаю, домашку делаете на одном диване.\n\nНЕ ЗВОНИТЕ, ПРОСТО ЗАХОДИТЕ\n∙ Вам не нужно никому звонить или с кем-то договариваться: входить в голосовые и текстовые чаты и выходить из них удивительно легко — теперь вы можете запросто общаться с друзьями до, во время и после игры.\n\nПОЛНАЯ ОТДЫХАТЕЛЬНАЯ ГОТОВНОСТЬ\n∙ Вы видите, кто из друзей сейчас в сети, играет в игры или просто отдыхает. А если игра поддерживается Discord, то вы даже узнаете, в каком режиме или каким персонажем играет ваш друг — и сможете присоединиться к нему прямо из приложения!\n\nВСЕГДА ЕСТЬ ЧЕМ ЗАНЯТЬСЯ С ДРУЗЬЯМИ\n∙ Смотрите видео, играйте во встроенные игры, слушайте музыку или просто сидите вместе в интернете и перебрасывайтесь мемасиками. Бесшовное общение текстом, голосом и по видеосвязи, а также совместные игры — всё это доступно вам в одном групповом чате.\n\nИГРА — НЕ ПОВОД ОТКЛАДЫВАТЬ ОБЩЕНИЕ\n∙ Вы можете играть на ПК, телефоне или консоли и продолжать общаться в Discord. Легко переключайтесь между устройствами и используйте инструменты для управления несколькими групповыми чатами с друзьями.",
+      "subtitle": "Discord создан для игр и отлично подходит для того, чтобы расслабиться с друзьями или пообщаться с единомышленниками. На",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
+      "website": "https://discord.com/",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/rutube.ipa",
-          "size": 36549740,
-          "version": "1.1.0",
-          "buildVersion": "1",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Discord.ipa",
+          "size": 103840289,
+          "version": "340.0",
+          "buildVersion": "107571",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "10.0",
-          "localizedDescription": "Техническое обновление, чтобы приложение работало ещё лучше"
+          "minOSVersion": "16.0"
         }
       ],
-      "version": "1.1.0",
+      "version": "340.0",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 36549740,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/rutube.ipa",
-      "rating": 3.41,
-      "ratingCount": 92658,
-      "downloads": 30000000,
-      "downloadsText": "30 млн +",
-      "versionDescription": "Техническое обновление, чтобы приложение работало ещё лучше",
+      "size": 103840289,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Discord.ipa",
+      "rating": 4.69653,
+      "ratingCount": 216555,
       "screenshotURLs": [
-        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/30aad19a-6bd9-4712-b28b-ec67c1bff903.jpg",
-        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/899b2b79-19db-43cd-9469-4b58e201da34.jpg",
-        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/21fd8e12-ca86-47c8-a5e5-ff85356512ff.jpg",
-        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/2079f60e-29b1-40cf-a880-d58acd59a512.jpg",
-        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/c3e6417f-fcbb-4627-8546-7cd4044bf213.jpg",
-        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/38be59fd-861d-4fa3-a84f-829d86d23d65.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/42/244c42b9-0433-6108-6801-d3163d22c4cc/86d98c10-0014-4bcb-89a5-39c7776e014e_1_GroupChat_Tile_EN_5-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/78/09/637809c2-08ec-3525-6deb-81bc8cfa258d/5cc22caa-9cad-409f-9de8-f852cabe5d08_2_Stream_Tile_EN_5-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/c6/01/7bc601c6-3616-ee25-7344-47a422a76729/4440dc86-9288-47c3-afe2-cd9b804c8700_3_SeeWhos_Tile_EN_5-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/e9/a8/5de9a80f-f644-5b14-cb4d-e6a9e6f3dc55/ee397381-34db-4de9-a43f-d4ab27989e36_4_HopIn_Tile_EN_5-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/4c/de/e54cde6f-01ae-6a35-17b8-b4bc3b3dee08/5e8db952-8709-48b5-abd9-c026ef82f629_5_ToDo_Tile_EN_5-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/53/b6/2953b6e5-3b04-bcfe-839d-9b3bea691374/Hero_Image__U0028for_Apple_store_U0029_Server__U0028no_members_list_U0029_1242x2208_EN.png/392x696bb.png"
       ],
-      "ageRating": "12+",
-      "website": "https://rutube.ru",
-      "privacyURL": "https://rutube.ru/info/privacy",
-      "reviews": [
-        {
-          "id": "Асланбек-18 сен 2026-0",
-          "title": "Пишет, надо обновить приложение телевизор",
-          "author": "Асланбек",
-          "text": "Пишет, надо обновить приложение телевизор Haier, не дает, нажимаю обновить, не обновляется, удалил приложение, снова скачал, снова пишет обновить, но, не хочет. Поддержки нет в приложении. Жду ответки от разработчика!!!",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Даниил-18 сен 2026-1",
-          "title": "Интересный факт, при требовании обновления",
-          "author": "Даниил",
-          "text": "Интересный факт, при требовании обновления замедляют приложение, он вдруг перестает видеть интернет. А также ненормальное количество рекламы. Я, конечно, понимаю для чего реклама, но в таком количестве - ну это же бред, никто из ваших конкурентов не имеет такого количества. Ну и по конкуренцию, как же тяжело жить в закрытом поле для серьезной конкуренции, как же тяжело",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Александр-18 сен 2026-2",
-          "title": "Актуальная информация, фильмы, блоги,",
-          "author": "Александр",
-          "text": "Актуальная информация, фильмы, блоги, новости и т. д. .",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Сергей-18 сен 2026-3",
-          "title": "А есть такая платная подписка, чтоб",
-          "author": "Сергей",
-          "text": "А есть такая платная подписка, чтоб СОВСЕМ-СОВСЕМ не было всплывающих окон и рекламы?",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Антон-18 сен 2026-4",
-          "title": "Реклама на рекламе.",
-          "author": "Антон",
-          "text": "Реклама на рекламе. За 4х минутное видео, можно 4е рекламы посмотреть. Жадный рутуб",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Артур-18 сен 2026-5",
-          "title": "Нет субтитров в большинстве фильмов",
-          "author": "Артур",
-          "text": "Нет субтитров в большинстве фильмов",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Глеб-18 сен 2026-6",
-          "title": "Лучше чем vk видио.",
-          "author": "Глеб",
-          "text": "Лучше чем vk видио.",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Александр-18 сен 2026-7",
-          "title": "проделанная вами работа радует ...",
-          "author": "Александр",
-          "text": "проделанная вами работа радует ... неожидал ... спасибо команде роботам тех.утех",
-          "date": "18 сен 2026"
-        }
-      ]
+      "appStoreURL": "https://apps.apple.com/ru/app/%D0%BE%D0%B1%D1%89%D0%B0%D0%B9%D1%82%D0%B5%D1%81%D1%8C-%D0%B8-%D0%B8%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B5-%D1%81-discord/id985746746?uo=4"
     },
     {
       "name": "Яндекс Маркет: онлайн-магазин",
@@ -2512,76 +2570,144 @@
       ]
     },
     {
-      "name": "Pinterest",
-      "bundleIdentifier": "com.burbn.pint",
-      "developerName": "Pinterest, Inc.",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Pinterest.png",
-      "localizedDescription": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? \n\nIt's Possible.",
-      "subtitle": "Pinterest is a place of endless possibilities. You can:",
+      "name": "Дзен",
+      "bundleIdentifier": "ru.yandex.mobile.zen",
+      "developerName": "VK",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.zen.android",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/dzen.png",
+      "localizedDescription": "Дзен — приложение для просмотра и создания контента. \nЗдесь сотни тысяч авторов делятся постами, статьями, видео и короткими роликами. А умные алгоритмы подстраивают ленту под ваши интересы. \n\n— Всевозможные темы\nПравило Дзена №1: если это существует, то об этом уже есть публикации. Музыка, гастрономия, путешествия, юмор, искусство, лайфхаки, отношения, наука и кулинария — в Дзене есть всё. Создавайте свою собственную ленту, основанную именно на ваших интересах: смотрите, читайте, комментируйте, получайте рекомендации новых авторов и подписывайтесь. А ещё — создавайте контент сами.\n\n— Разные форматы\nВ Дзене — четыре формата контента. Так вы всегда найдёте то, что вам подходит. Узнавайте за несколько минут новое, листая посты или короткие ролики. Углубитесь в тему, прочитав статью или посмотрев длинное видео. А если захотите завести свой блог — творить можно во всех четырех форматах сразу.\n\n— Миллионы пользователей\nДзен — огромное сообщество людей, увлечённых всем на свете. Вы найдете здесь свою аудиторию, если вам есть что сказать и показать, а умные алгоритмы вам помогут.\n\n— Монетизация для авторов\nВ Дзене можно монетизировать свой контент: достаточно набрать 100 подписчиков и поработать над их активностью. Ещё один источник доходов — интеграции нативной рекламы.\n\nУсловия использования: https://dzen.ru/legal/ru/termsofuse/index.html\nПолитика конфиденциальности: https://dzen.ru/legal/ru/confidential/index.html\nПоддержка: https://dzen.ru/help/ru/index.html?utm_source=help_rustore",
+      "subtitle": "Дзен сам подберёт статьи и видео для вас",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
+      "website": "https://dzen.ru",
+      "privacyURL": "https://dzen.ru/legal/ru/confidential/index.html",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Pinterest.ipa",
-          "size": 122919339,
-          "version": "13.43",
-          "buildVersion": "2",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/dzen.ipa",
+          "size": 127139930,
+          "version": "26.6.3",
+          "buildVersion": "448",
           "date": "2026-09-18T00:00:00Z",
           "minOSVersion": "10.0",
-          "localizedDescription": "Мы еженедельно совершенствуем приложение Pinterest, чтобы сделать его еще быстрее и лучше."
+          "localizedDescription": "Чтобы осталось время на дела, коротко о самом важном  расскажет Глиф: ваш ИИ-ассистент в Дзене дважды в день собирает новостной дайджест — со ссылками на источники."
         }
       ],
-      "version": "13.43",
+      "version": "26.6.3",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 122919339,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Pinterest.ipa",
-      "rating": 4.77765,
-      "ratingCount": 5770893,
+      "size": 127139930,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/dzen.ipa",
+      "rating": 4.24,
+      "ratingCount": 15685,
+      "downloads": 9000000,
+      "downloadsText": "9 млн +",
+      "versionDescription": "Чтобы осталось время на дела, коротко о самом важном  расскажет Глиф: ваш ИИ-ассистент в Дзене дважды в день собирает новостной дайджест — со ссылками на источники.",
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/ac/07/e6ac07c3-2101-c83d-54b8-cf47404b30c9/iPhone-5.5_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/cf/6f/8dcf6f2a-1e60-657e-31d4-4ff5b1dd962a/iPhone-5.5_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/16/a8/eb16a87e-4395-bc4d-5783-7a7d3d2198f5/iPhone-5.5_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/57/a8/9057a890-b24a-6836-3a1c-d16d8988c253/iPhone-5.5_6.png/392x696bb.png"
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/e5e18df7-d4a1-418e-87e8-63ac44089119.jpg",
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/2c28b8bd-5f12-4f0d-ada0-454d39b01803.jpg",
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/8865f2d8-462b-45ac-8b7e-6155097b5f75.jpg",
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/cab66621-c3c5-49e7-b89d-42d7e5f89fe4.jpg",
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/cbb4f1ae-5030-4153-9acc-5a6dee7989fa.jpg",
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/8b65bc03-72c0-4672-be31-0bbd50087c75.jpg",
+        "https://static.rustore.ru/apk/3054783/content/SCREENSHOT/eb10cc0c-886a-4650-8700-ddb5b1f8313f.jpg"
       ],
-      "website": "http://www.pinterest.com",
-      "appStoreURL": "https://apps.apple.com/us/app/pinterest/id429047995?uo=4"
+      "ageRating": "12+",
+      "reviews": [
+        {
+          "id": "Наталия-18 сен 2026-0",
+          "title": "Ваша траурная заставка при открытии Дзен",
+          "author": "Наталия",
+          "text": "Ваша траурная заставка при открытии Дзен ужасно раздражает, даже открывать не хочется, или приходится закрывать глаза",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Игорь-18 сен 2026-1",
+          "title": "Все на 5+++!",
+          "author": "Игорь",
+          "text": "Все на 5+++! Отличная работа👌👍👏!!!",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Иван-18 сен 2026-2",
+          "title": "Скучный.",
+          "author": "Иван",
+          "text": "Скучный. Модераторам Дзена со своими блокировками гореть в топке!",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Рустам-18 сен 2026-3",
+          "title": "Назаров",
+          "author": "Рустам",
+          "text": "Назаров",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Игорь-18 сен 2026-4",
+          "title": "После последних обновлений невозможно зайти",
+          "author": "Игорь",
+          "text": "После последних обновлений невозможно зайти в раздел\"Моё\"",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Андрей-18 сен 2026-5",
+          "title": "5балов",
+          "author": "Андрей",
+          "text": "5балов",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Валентин-17 сен 2026-6",
+          "title": "Всё!",
+          "author": "Валентин",
+          "text": "Всё!",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Виктор-17 сен 2026-7",
+          "title": "Грустная не оптимизированная программа с",
+          "author": "Виктор",
+          "text": "Грустная не оптимизированная программа с плохим поиском и слабым контентом.",
+          "date": "17 сен 2026"
+        }
+      ]
     },
     {
-      "name": "WhatsApp Business",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "developerName": "WhatsApp Inc.",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/WhatsAppBusiness.png",
-      "localizedDescription": "Об этом приложении\n\nВсё, что вы любите в WhatsApp, плюс инструменты для бизнеса\nБесплатное приложение WhatsApp Business повысит эффективность вашей работы, поможет завоевать доверие клиентов и развивать компанию. \n\nВ приложении доступны бесплатные звонки* и бесплатный обмен сообщениями с пользователями из-за рубежа*, а также бизнес-функции для повышения результативности переписок.\n\nУстановите приложение и получите преимущества для бизнеса:\n\nЭффективность. Экономьте время. Пусть приложение работает за вас! Автоматически отправляйте быстрые ответы и сообщения “Нет на месте”, чтобы не упустить ни одной возможности. Упорядочивайте, фильтруйте и находите переписки с помощью ярлыков. Публикуйте специальные предложения и новости в статусе и принимайте заказы и платежи** прямо в приложении, чтобы повысить качество обслуживания. \nДоверие клиентов. Профиль компании вызывает больше доверия, если он создан на безопасной платформе и выглядит профессионально. В приложении можно быстро отвечать на вопросы и выстраивать долговременные отношения с клиентами. Рекомендуем оформить подписку Meta Verified***, чтобы подтвердить подлинность компании.\nПовышение продаж и развитие. Привлекайте внимание, размещайте рекламу и находите больше ценных клиентов. Повышайте продажи за счет таргетинга на конкретную аудиторию, создавайте объявления с переходом в WhatsApp и демонстрируйте каталог товаров. Упростите для клиентов оформление заказов и платежей**.\n\nЧасто задаваемые вопросы\nВсе ли функции бесплатны?\nЗа установку и использование приложения платить не нужно, но некоторые функции в нем платные.\n\nСмогу ли я по-прежнему использовать личный аккаунт WhatsApp?\nДа. Если у вас два номера телефона, вы сможете использовать личный и бизнес-аккаунт на одном устройстве.\n\nСмогу ли я перенести историю чатов?\nДа. Чтобы перенести сообщения, медиафайлы и контакты в бизнес-аккаунт, настройте приложение WhatsApp Business и восстановите резервную копию аккаунта WhatsApp.\n\nСколько устройств можно подключить?\nК аккаунту можно подключить не более пяти веб-устройств или мобильных телефонов (их количество увеличится до 10, если вы оформите подписку Meta Verified***).\n\n* За передачу данных может взиматься плата. Обратитесь за информацией к своему оператору.\n** Доступно не во всех странах.\n*** Скоро будет доступно во всем мире.",
-      "subtitle": "Об этом приложении",
+      "name": "Rakuten Viber Messenger",
+      "bundleIdentifier": "com.viber",
+      "developerName": "Viber Media SARL.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Viber.png",
+      "localizedDescription": "\"Rakuten Viber – безопасное приложение для общения, связывающее более миллиарда людей по всему миру!\n \nВ Rakuten Viber есть групповые чаты, исчезающие сообщения, напоминания и многое другое:\n \nБесплатные сообщения\nОставаться на связи проще простого! Отправляйте текстовые, голосовые или видеосообщения, фото, стикеры, GIF или файлы бесплатно.\n \nБесплатные голосовые и видеозвонки\nОбщайтесь с кем угодно по всему миру без ограничений. Групповые звонки до 60 участников. Будьте на связи с родными, друзьями и коллегами!\n \nCквозное шифрование\nВсе личные и групповые чаты и звонки шифруются по умолчанию, поэтому вы можете быть уверены, что содержание вашего общения останется тайной. Никто, даже Rakuten Viber, не сможет получить к нему доступ.\n \nЭкономьте на звонках на городские телефоны с Viber Out\nЗвоните на любой стационарный или мобильный телефон с помощью сервиса международной связи Viber Out на выгодных условиях. Подключайте тарифы Viber Out для звонков по выбранному направлению или пополняйте счет и звоните, куда хотите.\n \nСоздавайте групповые чаты\nОставайтесь на связи с друзьями, семьей и коллегами в групповых чатах, где может быть до 250 участников. Используйте опросы, викторины, @упоминания и реакции, чтобы общение было максимально удобным!\n \nВыражайте эмоции с помощью масок, GIF и стикеров\nИспользуйте маски, чтобы примерить новый образ или повеселить друзей смешным фото. Отправляйте готовые GIF и стикеры – в нашей коллекции их больше 55 000 – или создавайте свои!\n \nИсчезающие сообщения\nПросто установите таймер – и сообщения в личных и групповых чатах будут исчезать сами. Решайте сами, cколько времени дать собеседнику на прочтение сообщения: 10 секунд, 1 минуту или целый день!\n \nСообщества и каналы\nСпорт, новости, кулинария, путешествия, развлечения и многое другое – читайте контент по вашим интересам и находите единомышленников. Создавайте собственные сообщества или каналы, делитесь авторским контентом и привлекайте аудиторию!\n \nИспользуйте чат-ботов\nЧат-боты Rakuten Viber на основе ИИ найдут нужную информацию или нарисуют картину по запросу. Познакомьтесь с чат-ботами от наших партнеров, которые расскажут о модных трендах, помогут купить билет или даже оплатить счета!\n \nРеагируйте на сообщения\nВыражайте свое мнение и эмоции в чатах с помощью реакций к сообщениям!\n \nСоздавайте заметки и напоминания\nСохраняйте нужные сообщения и ссылки, добавляйте комментарии к заметкам и устанавливайте напоминания, чтобы не забыть о важных делах и встречах.\n \nRakuten Viber является частью Rakuten Group – мирового лидера в сфере электронной коммерции и финансовых услуг.\n \nУсловия и политика использования: https://www.viber.com/terms/\"",
+      "subtitle": "\"Rakuten Viber – безопасное приложение для общения, связывающее более миллиарда людей по всему миру!",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
-      "website": "https://www.whatsapp.com/business/",
+      "website": "http://www.viber.com",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/WhatsAppBusiness.ipa",
-          "size": 163014112,
-          "version": "26.36.74",
-          "buildVersion": "1067315575",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Viber.ipa",
+          "size": 204571932,
+          "version": "28.6.2",
+          "buildVersion": "28.6.2.19",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "15.1"
+          "minOSVersion": "15.2"
         }
       ],
-      "version": "26.36.74",
+      "version": "28.6.2",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 163014112,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/WhatsAppBusiness.ipa",
-      "rating": 4.76454,
-      "ratingCount": 265484,
+      "size": 204571932,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Viber.ipa",
+      "rating": 4.53219,
+      "ratingCount": 442342,
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/96/e3/df96e30b-346f-8815-9689-53cc22ac8039/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/fa/55/bafa5515-bbf9-b403-e20b-b0a38a453464/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/83/ab/93/83ab932f-7281-2ed3-2954-fa9af1b59c07/pr_source.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/9c/e9/339ce99b-f441-a1f5-87ac-7b79ebba208e/4068125a-5dff-4186-9455-8a715b49d19b_Viber_AS_Russian_1242x2208_Screen1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/1a/0a/a91a0a29-82db-e85a-a661-92d5384643ff/f839a530-51f3-4dae-b5f8-654cd3cb129d_Viber_AS_Russian_1242x2208_Screen2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fd/f1/88fdf14b-c8ea-87f1-e267-86b48ff754cb/b932512d-bd8c-4287-b4f4-c4c238610d5f_Viber_AS_Russian_1242x2208_Screen3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/43/ce/8843ce54-41a4-eb04-6ff9-a10e583bf96f/cff302de-c92a-4d62-99ef-c3b82fa063fd_Viber_AS_Russian_1242x2208_Screen4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/0b/96/740b968c-ee74-befe-6d77-2af549eb1701/5810cce8-46bf-4827-b9d1-d58920885985_Viber_AS_Russian_1242x2208_Screen5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/18/92/e81892a9-f646-cef7-c5cd-afd0a38b6b49/ed6c2588-96ef-425a-b4be-62e6c071ef50_Viber_AS_Russian_1242x2208_Screen6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b5/40/01b5400a-8ffb-4821-8fb6-e1996c0fa1b6/dc3c64d9-7a58-4a44-8162-d6dde8b2ecdc_Viber_AS_Russian_1242x2208_Screen7.jpg/392x696bb.jpg"
       ],
-      "appStoreURL": "https://apps.apple.com/ru/app/whatsapp-business/id1386412985?uo=4"
+      "appStoreURL": "https://apps.apple.com/ru/app/rakuten-viber-messenger/id382617920?uo=4"
     },
     {
       "name": "Госуслуги",
@@ -5743,405 +5869,399 @@
       ]
     },
     {
-      "name": "VK Мессенджер: общение и звонки, контакты и чаты",
-      "bundleIdentifier": "com.vk.vkme",
-      "developerName": "VK",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/com.vk.im",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VKMessenger.png",
-      "localizedDescription": "VK Мессенджер — бесплатное и быстрое приложение для общения. Здесь можно найти друзей по контактам и общаться с близкими в мессенджере и видеозвонках. Попробуйте удобный сервис для обмена голосовыми сообщениями, общения в групповых видеочатах или в переписке вдвоём.\n\n• Обменивайтесь в мессенджере голосовыми сообщениями, текстом и видеосообщениями\nВ переписке можно отправлять друзьям стикеры, музыку, фото, видео и записи из ВКонтакте. У голосовых и видеосообщений есть расшифровка — чтобы читать, когда неудобно слушать. А для чатов — яркие темы оформления.\n\n• Совершайте звонки онлайн без ограничений по времени и числу участников\nМожно собрать групповой видеочат и общаться сколько угодно, включив камеры и микрофоны.\n\n• Контакты в быстром доступе: из телефонной книги и ВКонтакте\nВойдите в свой аккаунт — и сразу увидите в мессенджере друзей. А ещё можно добавить контакт из телефона: для общения с теми, с кем при знакомстве обменялись номерами.\n\n• Отправляйте исчезающие сообщения\nКогда хочется пошутить в серьёзной беседе, не засоряя её. А для быстрых вопросов можно создавать фантомные чаты — в них история очистится через некоторое время.\n\n• Получайте бизнес-уведомления в мессенджере\nСообщения о доставке заказа из магазина или чеки автоматически попадут в специальную папку.\n\nПереписка в чатах, голосовые сообщения, групповые видеочаты, видеосообщения, звонки и многое другое — VK Мессенджер позволяет выбрать любой удобный способ общения!\n\nУсловия использования: vk.com/terms.\nПолитика конфиденциальности: vk.com/privacy.\nПоддержка: https://vk.com/support?act=home_messenger_standalone&from=title&source=rustore_messenger",
-      "subtitle": "Общение: контакты, чаты, мессенджер, сообщения, видеочат",
+      "name": "Pinterest",
+      "bundleIdentifier": "com.burbn.pint",
+      "developerName": "Pinterest, Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Pinterest.png",
+      "localizedDescription": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? \n\nIt's Possible.",
+      "subtitle": "Pinterest is a place of endless possibilities. You can:",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMessenger.ipa",
-          "size": 107139451,
-          "version": "1.133",
-          "buildVersion": "1696",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Pinterest.ipa",
+          "size": 122919339,
+          "version": "13.43",
+          "buildVersion": "2",
           "date": "2026-09-18T00:00:00Z",
           "minOSVersion": "10.0",
-          "localizedDescription": "Слышите? Что-то тихонечко шуршит в чатах... Ах, это сообщения — как раз ждут, когда вы заглянете в обновлённый мессенджер."
+          "localizedDescription": "Мы еженедельно совершенствуем приложение Pinterest, чтобы сделать его еще быстрее и лучше."
         }
       ],
-      "version": "1.133",
+      "version": "13.43",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 107139451,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMessenger.ipa",
-      "rating": 4.17,
-      "ratingCount": 21437,
-      "downloads": 11000000,
-      "downloadsText": "11 млн +",
-      "versionDescription": "Слышите? Что-то тихонечко шуршит в чатах... Ах, это сообщения — как раз ждут, когда вы заглянете в обновлённый мессенджер.",
+      "size": 122919339,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Pinterest.ipa",
+      "rating": 4.77765,
+      "ratingCount": 5770893,
       "screenshotURLs": [
-        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/1801748a-a953-44f0-9a38-abae962cb552.jpg",
-        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/5cbec7c9-478f-47d0-a95b-c55e9f8b429f.jpg",
-        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/7ad4b0da-203c-4bb5-a6cc-7ec75be3828c.jpg",
-        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/1c727f9a-e93f-4e63-86e4-bb3474dae75e.jpg",
-        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/2499322c-f2e9-4058-a0b8-cb481ea3035e.jpg",
-        "https://static.rustore.ru/apk/938687/content/SCREENSHOT/4f5c413d-ca9a-4a95-bc24-765a6e23fb0a.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/ac/07/e6ac07c3-2101-c83d-54b8-cf47404b30c9/iPhone-5.5_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/cf/6f/8dcf6f2a-1e60-657e-31d4-4ff5b1dd962a/iPhone-5.5_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/16/a8/eb16a87e-4395-bc4d-5783-7a7d3d2198f5/iPhone-5.5_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/57/a8/9057a890-b24a-6836-3a1c-d16d8988c253/iPhone-5.5_6.png/392x696bb.png"
+      ],
+      "website": "http://www.pinterest.com",
+      "appStoreURL": "https://apps.apple.com/us/app/pinterest/id429047995?uo=4"
+    },
+    {
+      "name": "RuTube",
+      "bundleIdentifier": "com.slicingdice.game",
+      "developerName": "ООО \"РУФОРМ\"",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.rutube.app",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/rutube.png",
+      "localizedDescription": "Контент на любой вкус онлайн 24/7\n\nВидеохостинг RUTUBE — стремительно растущая платформа для любителей и создателей контента. Смотрите видео, трансляции, сериалы, фильмы от крупнейших онлайн-кинотеатров — «Иви», PREMIER, START — и ТВ онлайн. Делитесь собственными видео с миллионами зрителей, развивайте свой канал и зарабатывайте на своём творчестве!\n\nСмотреть любимые видео, трансляции и прямые эфиры в приложении RUTUBE просто и привычно: оно легко заменит ваш любимый онлайн-кинотеатр. Скачайте его, чтобы смотреть фильмы, когда и где вам удобно. А с подпиской RUTUBE можно скачивать видео, чтобы смотреть их даже без интернета.\n\nНа RUTUBE есть все форматы контента: видео и трансляции блогеров, подкасты, прямые эфиры телеканалов, кино и сериалы, а также оригинальные шоу собственного производства. А главное — любой контент можно слушать в фоне, даже когда телефон заблокирован.\n\nЗдесь вы найдёте развлекательный и обучающий контент, документальные фильмы, концерты, обзоры видеоигр, трансляции с важных событий, лайфхаки, рецепты, музыку, спортивные игры, мультсериалы, трейлеры, телешоу — выбирайте контент на свой вкус.\n\nЧтобы начать, зарегистрируйтесь на RUTUBE по номеру телефона. Подписывайтесь на каналы и сохраняйте видео в «Смотреть позже».\n\nСмотреть видео, трансляции, прямые эфиры и шоу можно с любых устройств: смартфонов, планшетов, компьютеров или Smart TV. Всё, что вы сохраните в «Смотреть позже» или опубликуете на своём канале, будет храниться в разделе «Моё».\n\nВы можете смотреть фильмы и сериалы онлайн в приложении RUTUBE бесплатно или с одной из платных подписок: RUTUBE, RUTUBE x PREMIER, НТВ+, Настрой кино!, viju и другими.\n\nПубликуйте видео на своём канале, привлекайте аудиторию смотреть контент и набирайте популярность. Стать блогером теперь ещё проще благодаря удобному интерфейсу загрузки видео в приложении.\n\nRUTUBE — это:\n\n- десятки оригинальных и эксклюзивных шоу и программ: «Злые языки», «МУЗLOFT», «Экстрасенсы. Битва сильнейших», шоу «Титаны», «Шоу Воли» и многие другие;\n- зарубежные и российские фильмы и сериалы;\n- контент от популярных и начинающих блогеров;\n- видео, трансляции и киберспортивные стримы;\n- прямые эфиры ТВ-каналов: ТНТ, Пятница, НТВ, ТВ-3, Матч ТВ, 2х2 и других;\n- спортивные трансляции;\n- свежие подборки контента каждый день;\n- мультфильмы, сериалы, детские передачи, шоу и семейные блогеры.\n\nСмотрите то, что любите!",
+      "subtitle": "Онлайн-контент для всех: ТВ-каналы, кино, клипы, мультфильмы и многое другое!",
+      "tintColor": "3C94FC",
+      "category": "social",
+      "pinnedCategory": "social",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/rutube.ipa",
+          "size": 36549740,
+          "version": "1.1.0",
+          "buildVersion": "1",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Техническое обновление, чтобы приложение работало ещё лучше"
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 36549740,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/rutube.ipa",
+      "rating": 3.41,
+      "ratingCount": 92658,
+      "downloads": 30000000,
+      "downloadsText": "30 млн +",
+      "versionDescription": "Техническое обновление, чтобы приложение работало ещё лучше",
+      "screenshotURLs": [
+        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/30aad19a-6bd9-4712-b28b-ec67c1bff903.jpg",
+        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/899b2b79-19db-43cd-9469-4b58e201da34.jpg",
+        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/21fd8e12-ca86-47c8-a5e5-ff85356512ff.jpg",
+        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/2079f60e-29b1-40cf-a880-d58acd59a512.jpg",
+        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/c3e6417f-fcbb-4627-8546-7cd4044bf213.jpg",
+        "https://static.rustore.ru/apk/246207/content/SCREENSHOT/38be59fd-861d-4fa3-a84f-829d86d23d65.jpg"
       ],
       "ageRating": "12+",
-      "website": "https://vk.com",
-      "privacyURL": "https://vk.com/privacy",
+      "website": "https://rutube.ru",
+      "privacyURL": "https://rutube.ru/info/privacy",
       "reviews": [
         {
-          "id": "Лика-18 сен 2026-0",
-          "title": "Тупит, тормозит, еле грузится при открытии,",
-          "author": "Лика",
-          "text": "Тупит, тормозит, еле грузится при открытии, отвратительно",
+          "id": "Асланбек-18 сен 2026-0",
+          "title": "Пишет, надо обновить приложение телевизор",
+          "author": "Асланбек",
+          "text": "Пишет, надо обновить приложение телевизор Haier, не дает, нажимаю обновить, не обновляется, удалил приложение, снова скачал, снова пишет обновить, но, не хочет. Поддержки нет в приложении. Жду ответки от разработчика!!!",
           "date": "18 сен 2026"
         },
         {
-          "id": "Александр-18 сен 2026-1",
-          "title": "Легкий.",
+          "id": "Даниил-18 сен 2026-1",
+          "title": "Интересный факт, при требовании обновления",
+          "author": "Даниил",
+          "text": "Интересный факт, при требовании обновления замедляют приложение, он вдруг перестает видеть интернет. А также ненормальное количество рекламы. Я, конечно, понимаю для чего реклама, но в таком количестве - ну это же бред, никто из ваших конкурентов не имеет такого количества. Ну и по конкуренцию, как же тяжело жить в закрытом поле для серьезной конкуренции, как же тяжело",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Александр-18 сен 2026-2",
+          "title": "Актуальная информация, фильмы, блоги,",
           "author": "Александр",
-          "text": "Легкий. Когда нужен именно мессенджер без прочей мути — самое оно",
+          "text": "Актуальная информация, фильмы, блоги, новости и т. д. .",
           "date": "18 сен 2026"
         },
         {
-          "id": "Виталий-18 сен 2026-2",
-          "title": "Простота",
-          "author": "Виталий",
-          "text": "Простота",
+          "id": "Сергей-18 сен 2026-3",
+          "title": "А есть такая платная подписка, чтоб",
+          "author": "Сергей",
+          "text": "А есть такая платная подписка, чтоб СОВСЕМ-СОВСЕМ не было всплывающих окон и рекламы?",
           "date": "18 сен 2026"
         },
         {
-          "id": "Наталья-18 сен 2026-3",
-          "title": "Отлично работает!",
-          "author": "Наталья",
-          "text": "Отлично работает! Удобно пользоваться.",
+          "id": "Антон-18 сен 2026-4",
+          "title": "Реклама на рекламе.",
+          "author": "Антон",
+          "text": "Реклама на рекламе. За 4х минутное видео, можно 4е рекламы посмотреть. Жадный рутуб",
           "date": "18 сен 2026"
         },
         {
-          "id": "Данила-18 сен 2026-4",
-          "title": "Очень сильно не хватает «Каналов».",
-          "author": "Данила",
-          "text": "Очень сильно не хватает «Каналов». Пользуюсь только мессенджером, а ВК приходится оставлять исключительно ради Каналов. Будьте добры принять меры.",
+          "id": "Артур-18 сен 2026-5",
+          "title": "Нет субтитров в большинстве фильмов",
+          "author": "Артур",
+          "text": "Нет субтитров в большинстве фильмов",
           "date": "18 сен 2026"
         },
         {
-          "id": "Александр-18 сен 2026-5",
-          "title": "Самое худшее приложение, н мог зайти в свой",
+          "id": "Глеб-18 сен 2026-6",
+          "title": "Лучше чем vk видио.",
+          "author": "Глеб",
+          "text": "Лучше чем vk видио.",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Александр-18 сен 2026-7",
+          "title": "проделанная вами работа радует ...",
           "author": "Александр",
-          "text": "Самое худшее приложение, н мог зайти в свой акк учебный",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Эвелина-18 сен 2026-6",
-          "title": "VК Мессеннд",
-          "author": "Эвелина",
-          "text": "VК Мессеннд",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Серёга-18 сен 2026-7",
-          "title": "Здравствуйте при прослушивании голосового",
-          "author": "Серёга",
-          "text": "Здравствуйте при прослушивании голосового сообщения долго а иногда и совсем не срабатывает переключение динамика",
+          "text": "проделанная вами работа радует ... неожидал ... спасибо команде роботам тех.утех",
           "date": "18 сен 2026"
         }
       ]
     },
     {
-      "name": "VK WorkSpace для бизнеса",
-      "bundleIdentifier": "ru.mail.messenger-biz-avocado",
-      "developerName": "VK",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mail.biz.avocado",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VKWorkSpace.png",
-      "localizedDescription": "VK WorkSpace — защищенная цифровая среда для компаний и госорганизаций. Корпоративный мессенджер, чат и видеозвонки, почта, облако, календарь и документы — все в едином привычном интерфейсе приложения\n\n— Корпоративный мессенджер для команды. Личный и групповой чат для сотрудников, новостные каналы. Отправляйте сообщения с форматированием: списки, цитаты, гиперссылки. Реакции, эмодзи, стикеры. Ветки сообщений, отложенная отправка, расшифровка голосовых, закрепы, папки и архив чатов, гибкие настройки уведомлений. Корпоративный мессенджер позволяет вести переписку и обмениваться сообщениями в защищенной среде.\n\n— Видеозвонки для команды. Аудио- и видеозвонки Full HD: один на один и групповые — без ограничений по времени. Звонки по видео с приглашением гостей по ссылке, режим вебинара с модерацией, демонстрация экрана и запись конференции. Видеозвонки обеспечивают бизнес-связь между сотрудниками компании и внешними участниками: партнерами и клиентами. Звонки по видео доступны в любом формате — от быстрой конференции до полноценного вебинара; организовать видеозвонок можно за пару кликов. Бизнес-связь в формате видео — это удобно и эффективно.\n\n— Корпоративная почта и календарь для работы.Интеграция с доменом компании, треды писем, совместный доступ к папкам и почтовым ящикам. Календарь для работы — пространство для планирования встреч: файлы в событиях, ссылки на звонки, уведомления. Бизнес-связь через почту помогает команде координировать задачи, а календарь дает возможность составлять рабочее расписание и управлять им.\n\n— Диск и документы. Безопасное облачное хранилище для совместной работы с текстовыми файлами, таблицами и презентациями. Облачное хранилище позволяет собрать рабочие документы в едином защищенном пространстве, удобно делиться ими с коллегами. С документами и презентациями могут одновременно работать несколько пользователей. Доступны общие папки в облаке, распределение квот между пользователями, инструменты миграции из других хранилищ. \n \nБезопасность и интеграция\n\n— Хранение информации в зашифрованном контейнере — сообщения, список звонков, почта и другие данные остаются строго внутри приложения \n— Встроенный антивирус, антиспам и антифрод, шифрование данных и трафика, протоколы защиты TLS 1.2/1.3 \n— Удаленное управление сессиями и настройками безопасности пользователей, стирание данных на устройствах \n— Мониторинг всех событий в системе, интеграция с DLP для предотвращения утечек \n— Развертывание на серверах компании или в защищенном облаке \n— Администрирование пользователей и доступ по SSO \n— Соответствие требованиям законодательства РФ\n\nДоступ к VK WorkSpace предоставляет администратор вашей компании. Если вы уже используете платформу, обратитесь в корпоративную техподдержку.\n\nОфициальный сайт: https://workspace.vk.ru/\nУсловия использования: https://workspace.vk.ru/docs/saas/legal/workspace-terms/index.html \nПолитика конфиденциальности: https://workspace.vk.ru/docs/saas/legal/privacy-policy/index.html",
-      "subtitle": "Цифровая среда: мессенджер, видеозвонки и чат, почта, календарь и диск",
+      "name": "Bigo Live",
+      "bundleIdentifier": "sg.bigo.live",
+      "developerName": "BIGO TECHNOLOGY PTE. LTD.",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/sg.bigo.live.rustore",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/BigoLive.png",
+      "localizedDescription": "BIGO LIVE (биго лайф) это платформа для ведения прямых эфиров. Она позволит вам выходить в прямой эфир, делиться интересными моментами из жизни со своими друзьями, а также совершать видео и аудио звонки.\n\n* Доступно в 150 странах.\n* Более 500 млн скачиваний по всему миру!\n\nПрисоединяйтесь прямо сейчас, делитесь самыми важными моментами своей жизни, находите новых друзей по всему миру!\n\n---------🎈Обновление🎈------- \n\n❤️(Новое) качественное короткое видео Здесь вы сможете увидеть красивые танцы, мелодичные песни, вдохновляющие истории и завести новых друзей~ Смотрите видео и легко получайте вознаграждение!\n\n❤️ (Новый) Центр творчества Публикуйте качественные видео, вы сможете получить поклонников и награды, а свой творческий энтузиазм превратить в денежный доход или даже в карьеру!\n\n❤️ (Новый) Пригласить друга\nПриглашайте старых и новых друзей, наслаждайтесь щедрыми наградами! Новые впечатления, новые достижения - присоединяйтесь к нам!\n\n---------🎈Главные особенности🎈--------\n\n❤️-Прямые эфиры\nПеть, танцевать, кушать, играть в игры, путешествовать… Только 1 касание и вы уже на шаг впереди к работе блогера! BIGO LIVE (биго лайф) поможет вам прокачать свою жизнь в прямом эфире.\n\n❤️Просмотр Онлайн Шоу\n\n# Используйте BIGO LIVE, когда хотите получить заряд положительных эмоций от веселых эфиров пользователей. Миллионы талантливых ведущих, певцов, комиков и т.д. устраивают праздник для вас каждый день! Это новый способ объединить людей со всего мира!\n\n# BIGO LIVE позволит следить за жизнью своих кумиров и общаться с ними. Большое количество звезд зарубежной и российской эстрады, актеры, телеведущие, блогеры, знаменитости транслируют свою жизнь в интернет.\n\n❤️Видеочат и видеозвонки.\n\n# С BIGO LIVE вы сможете общаться в прямом эфире с друзьями и глобальным сообществом.\n\n# В приложении можно искать пользователей по странам. В списке доступных регионов имеется и Россия.\n\n❤️Присоединяйтесь к Multi-guest Live\n\nBIGO LIVE есть возможность создавать multi-guest чат и общаться друг с другом по видео или аудио связи. В добавок, можете устраивать вечеринки или делать стримы любимых игр со своими друзьями.\n\n❤️Игровые стримы\n\nСмотрите игровые эфиры или делайте стримы популярных игр таких, как PUBG, League of Legends, Minecraft, Grand Theft Auto, CSGO, DOTA2, FIFA, RoV, Rules of Survival и др.\n\n❤️Восхитительные подарки\n\nПолучайте и дарите виртуальные подарки такие, как розы, ангелы, суперкары, замки многое другое.\nСтановитесь звездой, получайте подарки от фанатов!",
+      "subtitle": "24/7 прямой эфир, видеочат, 500 млн человек!",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKWorkSpace.ipa",
-          "size": 135893148,
-          "version": "26.3.10",
-          "buildVersion": "376840",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/BigoLive.ipa",
+          "size": 129222036,
+          "version": "6.51.2",
+          "buildVersion": "1966",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "16.0",
-          "localizedDescription": "Исправления и улучшения"
+          "minOSVersion": "15.1",
+          "localizedDescription": "The latest version of PaymentKu has been upgraded."
         }
       ],
-      "version": "26.3.10",
+      "version": "6.51.2",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 135893148,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKWorkSpace.ipa",
-      "rating": 4.55,
-      "ratingCount": 2473,
+      "size": 129222036,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/BigoLive.ipa",
+      "rating": 3.88,
+      "ratingCount": 199,
       "downloads": 200000,
       "downloadsText": "200 тыс +",
-      "versionDescription": "Исправления и улучшения",
+      "versionDescription": "The latest version of PaymentKu has been upgraded.",
       "screenshotURLs": [
-        "https://static.rustore.ru/2026/3/16/28/apk/2912191/content/SCREENSHOT/145060e6-47f9-4775-80a4-daf86ad39ddf.jpg",
-        "https://static.rustore.ru/2026/3/16/d9/apk/2912191/content/SCREENSHOT/55125cd2-cb06-4fb1-8c93-35599923feb3.jpg",
-        "https://static.rustore.ru/2026/8/7/ec/apk/2912191/content/SCREENSHOT/13d59595-8437-4251-94db-624044eaade0.png",
-        "https://static.rustore.ru/2026/3/16/02/apk/2912191/content/SCREENSHOT/42b21746-4c75-46dd-958c-919359b5fec9.jpg",
-        "https://static.rustore.ru/2026/3/16/83/apk/2912191/content/SCREENSHOT/2663b8e0-752a-423b-9f97-c7ec6cba147e.jpg",
-        "https://static.rustore.ru/2026/3/16/f3/apk/2912191/content/SCREENSHOT/2a824446-8dc3-4171-be18-10e08ea3d0f9.jpg"
+        "https://static.rustore.ru/2026/7/28/c2/apk/2063675792/content/SCREENSHOT/380f0d2f-7828-449f-8861-c4ac492ed5da.png",
+        "https://static.rustore.ru/2025/12/10/84/apk/2063675792/content/SCREENSHOT/415d13b0-b349-4b85-badc-ae54d7efc5a7.png",
+        "https://static.rustore.ru/2025/12/24/98/apk/2063675792/content/SCREENSHOT/c608ab9b-03ef-4634-8020-d6790959d208.png",
+        "https://static.rustore.ru/2025/12/24/d4/apk/2063675792/content/SCREENSHOT/c2f4f624-06dc-435a-96a1-14f318bd8f87.png",
+        "https://static.rustore.ru/2025/12/24/4a/apk/2063675792/content/SCREENSHOT/0c43eb88-2a0b-4122-8363-84c1cdab3c34.png"
       ],
-      "ageRating": "0+",
-      "website": "https://vk.com",
-      "privacyURL": "https://vk.com/privacy",
+      "ageRating": "18+",
       "reviews": [
         {
-          "id": "Мария-18 сен 2026-0",
-          "title": "Когда человек, который ведет трансляцию,",
-          "author": "Мария",
-          "text": "Когда человек, который ведет трансляцию, меняет слайд - на экране слушателя картинка не меняется. Так же, если просто пройтись рукой мимо динамика или издать минимальное звучание, шорох около него - то звук трансляции сразу глушится для слушателя. Это создает определенные неудобства, не советую данное приложение для проведения трансляций, лекций и чего-то подобного.",
-          "date": "18 сен 2026"
+          "id": "Александр-17 сен 2026-0",
+          "title": "Непонятно функции кнопок.",
+          "author": "Александр",
+          "text": "Непонятно функции кнопок.",
+          "date": "17 сен 2026"
         },
         {
-          "id": "Дмитрий-15 сен 2026-1",
-          "title": "параша",
-          "author": "Дмитрий",
-          "text": "параша",
+          "id": "Dmitry-17 сен 2026-1",
+          "title": "Настолько плохо то, что я не мог себе, даже",
+          "author": "Dmitry",
+          "text": "Настолько плохо то, что я не мог себе, даже этого представить я захожу в приложение, у меня не показывает ни картинки, я захожу в комнату, у меня что-то показывает, что-то нет, кого-то я не понимаю, когда я подключён, когда нет ф****, в общем, ваш биг лайф.",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Анатолий-17 сен 2026-2",
+          "title": "Кажут чё попало",
+          "author": "Анатолий",
+          "text": "Кажут чё попало",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Сережа-16 сен 2026-3",
+          "title": "Привет Богородицк тульская область",
+          "author": "Сережа",
+          "text": "Привет Богородицк тульская область священники отецы Алексей и Стефан передрались на Пасху все деньги кругом желаю вам крепкого здоровья счастья любви больше в жизни солнечных дней прекрасного настроения чат просто супер красавцы",
+          "date": "16 сен 2026"
+        },
+        {
+          "id": "Хишник-15 сен 2026-4",
+          "title": "почему с биго зрителя нельзя скринить и",
+          "author": "Хишник",
+          "text": "почему с биго зрителя нельзя скринить и куда не зайдешь все матирей трогают",
           "date": "15 сен 2026"
         },
         {
-          "id": "Дим-15 сен 2026-2",
-          "title": "После ввода кода 2F вылетает на экран входа.",
-          "author": "Дим",
-          "text": "После ввода кода 2F вылетает на экран входа. Поддержка уже неделю не отвечает. Крайне не советую В браузере сообщения не прогружаются, фото отмечены битыми Такое ощущение, что это было написано джунами в качестве pet-проекта Почти в каждом действии можно найти какой-то баг и нестабильность",
-          "date": "15 сен 2026"
-        },
-        {
-          "id": "Удаленный пользователь-14 сен 2026-3",
-          "title": "26.3.81 постоянно стала слетать авторизация",
-          "author": "Удаленный пользователь",
-          "text": "26.3.81 постоянно стала слетать авторизация",
+          "id": "Виктор-14 сен 2026-5",
+          "title": "Ok",
+          "author": "Виктор",
+          "text": "Ok",
           "date": "14 сен 2026"
         },
         {
-          "id": "Сергей-12 сен 2026-4",
-          "title": "Перестал работать виждет Календать на",
-          "author": "Сергей",
-          "text": "Перестал работать виждет Календать на Андроид 16. Пишет Обновить и не реагирует на действия",
-          "date": "12 сен 2026"
+          "id": "Anatoi-7 сен 2026-6",
+          "title": "Беспонтовое приложение запутано вообще",
+          "author": "Anatoi",
+          "text": "Беспонтовое приложение запутано вообще пишут лешкие деньги а запутано пипец буду удалять и другим не советовать",
+          "date": "7 сен 2026"
         },
         {
-          "id": "Дмитрий-11 сен 2026-5",
-          "title": "Хорошее приложение для работы.",
-          "author": "Дмитрий",
-          "text": "Хорошее приложение для работы. Интерфейс понравился, звуковые уведомления приятные.",
-          "date": "11 сен 2026"
-        },
-        {
-          "id": "Татьяна-10 сен 2026-6",
-          "title": "Удобная программа для работы.",
-          "author": "Татьяна",
-          "text": "Удобная программа для работы. Очень напоминает скайп в части некоторого функционала. Но предоставляет больше функций. Поддерживается и обновляется - это огромный плюс.",
-          "date": "10 сен 2026"
-        },
-        {
-          "id": "Гаянэ-10 сен 2026-7",
-          "title": "Подвисает часто",
-          "author": "Гаянэ",
-          "text": "Подвисает часто",
-          "date": "10 сен 2026"
+          "id": "Владимир-6 сен 2026-7",
+          "title": "Говно даже зайти не возможно чушь не советую",
+          "author": "Владимир",
+          "text": "Говно даже зайти не возможно чушь не советую",
+          "date": "6 сен 2026"
         }
       ]
     },
     {
-      "name": "VK Музыка: аудиокниги, песни, подкасты",
-      "bundleIdentifier": "com.music.vk",
-      "developerName": "VK",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/com.uma.musicvk",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VKMusic.png",
-      "localizedDescription": "Музыка без интернета: оформите подписку, скачайте песни прямо в приложении и слушайте офлайн. \n\nVK Музыка — это стриминговый сервис, где есть миллионы треков, подкасты, аудиокниги и радио. В приложении для музыки можно слушать любимые треки и открывать новые — благодаря сниппетам, плейлистам настроений и рекомендациям от алгоритмов, пользователей, сообществ и редакции. \n\n• Рекомендации под ваш вкус. \n• Сниппеты — удобный способ поиска музыки.\n• Не только музыка: подкасты, аудиокниги и радио.\n• Новые книги для бесплатного прослушивания каждый месяц.\n• Плейлисты по настроению, исполнителям, жанрам и песням.\n• Музыка без интернета: скачивайте песни и слушайте офлайн.\n\nТочные рекомендации музыки\nVK Микс — обновлённая система рекомендаций. Это бесконечный плейлист треков в вашем вкусе, который генерируют алгоритмы. Выбирайте настроение, узнаваемость и язык, применяйте настройки и включайте свой VK Микс. \n\nВозможность открывать новую музыку\n• «Сниппеты» — лёгкий способ найти музыку. Зажмите трек, чтобы послушать яркий фрагмент и оценить, нравится вам песня или нет.  \n• «Какой сейчас вайб» — плейлисты настроений от алгоритмов на основе треков, которые вам нравятся.\n• В разделе «Обзор» собраны эксклюзивные релизы, новинки, чарт треков и альбомов, подборки от редакции. \n• В разделе «Слушайте друг друга» можно найти новые песни и тех, с кем у вас совпадает музыкальный вкус.\n• Меломаны оценят миксы по жанрам и артистам — плейлисты со знакомыми треками и похожими на то, что вы часто слушаете.  \n\nУдобный плеер\nВключайте трек, открывайте плеер и управляйте музыкой. Прямо здесь доступна очередь треков и тексты к ним. Если музыка нравится — добавляйте в коллекцию, если нет — отмечайте дизлайком. Попробуйте «Микс по треку» — подборку музыки, похожей на трек, который сейчас слушаете. С подпиской можно также скачать песни и слушать музыку без интернета.\n\nМузыка бесплатно\nВы можете слушать музыку бесплатно или оформить подписку, чтобы убрать все ограничения: книги и музыка без интернета, без рекламы и с выключенным экраном. Для новых пользователей доступен бесплатный пробный период на 30 дней.\n\nПодкасты в VK Музыке\nВ разделе «Книги и шоу» собраны сотни подкастов обо всём на свете: научпоп, психология, культура, юмор и многое другое. Слушайте подкасты на русском языке и узнавайте новое о мире вокруг.\n\nРадио в VK Музыке\nВам доступны десятки радиостанций с разной музыкой — включайте любимое радио и слушайте без помех и перерывов.\n\nАудиокниги в VK Музыке\nВ разделе «Книги и шоу» вы найдёте множество книг разных жанров в аудиоформате: от классики до new adult.\n\nМузыка без интернета\nВ самолёте, в тундре, на дне Марианской впадины — там, где сложности с интернетом. Плеер для музыки работает везде: достаточно просто скачать песни в своём любимом приложении для музыки и наслаждаться качественным звуком среди подводных жителей. Только потребуется подписка.\n\nПодписка позволяет убрать все ограничения в приложении:\n\n• Музыка без интернета — можно скачать песни и включать плеер для музыки даже там, где нет сети.\n• Никакой рекламы и перерывов на самом интересном.\n• Музыка с выключенным экраном — ничего не остановится, когда вы свернёте приложение или заблокируете экран.\n• Доступ к полной коллекции аудиокниг — классика, новинки, бестселлеры и эксклюзивы.\n\nПодписка на VK Музыку\n• Подписка продлевается автоматически. Если хотите отменить подписку, это нужно сделать не менее чем за 24 часа до того, как она продлится на новый месяц.\n• Если удалить приложение, подписка сохранится: отменить её можно только вручную. \n\nПоддержка: https://vk.com/support?act=home_music_standalone&from=title&source=rustore_music\nУсловия использования: https://vk.com/terms/music\nПолитика конфиденциальности: https://vk.com/legal/vkmusic_privacy\n\nКниги, подкасты, радио и музыка без интернета, без рекламы и в фоновом режиме.\n\n Любимые радиостанции, песни без интернета, аудиокниги, подкасты в одном приложении. Музыка бесплатно и дополнительные возможности по подписке.",
-      "subtitle": "Музыка без интернета и рекламы, аудиокниги, песни, подкасты и радио",
+      "name": "Minichat",
+      "bundleIdentifier": "com.minichat",
+      "developerName": "SingApp",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/mini.video.chat",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/MiniChat.png",
+      "localizedDescription": "Миничат — это популярное видеочат-приложение, где ежедневно общаются десятки тысяч людей. Оно предлагает простой и быстрый способ познакомиться, найти новых друзей или даже встретить любовь. Приложение работает стабильно, защищено модерацией и доступно бесплатно, что решает основные вопросы безопасности и удобства. Здесь вы находитесь в одном касании от тысяч живых трансляций с реальными людьми. Главный принцип — простота и комфорт.\n\nМиничат — это площадка для увлекательных бесед, предлагающая каждому:\n\nВЗАИМНОСТЬ\n\nВидеочат объединяет людей, стремящихся к общению. Здесь каждый находит интересного собеседника. В Миничате неважно, кто вы и откуда, вы легко познакомитесь с новыми людьми.\n\nУДОВОЛЬСТВИЕ\n\nОбщайтесь с кем угодно: рассказывайте истории, флиртуйте, читайте стихи или просто слушайте. Никогда не поверите, сколько всего можно придумать вдвоем!\n\nАНОНИМНОСТЬ\n\nЗдесь вы — незнакомый человек, пока не встретите того, кто вам понравится. Тогда можно расслабиться и рассказать о себе. Если разговор зашел в тупик, переключайтесь без зазрения совести. В Миничате сказать «прощай» так же легко, как и «привет».\n\nДОСТУПНОСТЬ\n\nНикаких платных функций, рекламы или подписок. Только тысячи собеседников, готовых общаться в реальном времени через видео и мгновенные сообщения. Ограничений по времени нет — общайтесь сколько угодно. Это видеочат премиум-класса, но бесплатный.\n\nЗАЩИЩЁННОСТЬ\n\nМиничат — сообщество дружелюбных людей. Благодаря проактивному модерированию и системе жалоб вы чувствуете себя спокойно. Агрессивное поведение ведет к удалению нарушителя. Правила общения доступны на сайте.\n\nИ МНОГОЕ ДРУГОЕ\n\nПомимо поиска друзей и веселья, вы можете отточить иностранные языки с собеседниками из разных стран. Функция мгновенного перевода устраняет языковые барьеры: пишите на русском, а сообщение доставят на родном языке собеседника.\n\nКак пользоваться Миничатом:\n\nЗалогиньтесь, выберите страну и нажмите синюю кнопку для случайного соединения с первым собеседником.\n\n🔵 Синяя кнопка запускает видеочат или переключает на следующего собеседника;\n\n🔴 Красная кнопка останавливает видеочат и разрывает соединение.\n\nВ Миничат можно заходить в любое время. Общайтесь наедине, с друзьями или в компании. Каждый раз, когда захотите развлечься, помните: в видеочате всегда отличная атмосфера!\n\nПопробуйте Миничат прямо сейчас и найдите новых друзей!",
+      "subtitle": "Общайся в чате, где всегда есть люди",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMusic.ipa",
-          "size": 105242783,
-          "version": "8.30",
-          "buildVersion": "1101",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/MiniChat.ipa",
+          "size": 71498296,
+          "version": "5.379",
+          "buildVersion": "6.0",
           "date": "2026-09-18T00:00:00Z",
           "minOSVersion": "10.0",
-          "localizedDescription": "Теперь приложение звучит лучше! Сделали его стабильнее — обновляйтесь и открывайте для себя много новой музыки."
+          "localizedDescription": "Первая версия"
         }
       ],
-      "version": "8.30",
+      "version": "5.379",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 105242783,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VKMusic.ipa",
-      "rating": 4.08,
-      "ratingCount": 23065,
-      "downloads": 9000000,
-      "downloadsText": "9 млн +",
-      "versionDescription": "Теперь приложение звучит лучше! Сделали его стабильнее — обновляйтесь и открывайте для себя много новой музыки.",
+      "size": 71498296,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/MiniChat.ipa",
+      "rating": 3.11,
+      "ratingCount": 14,
+      "downloads": 40000,
+      "downloadsText": "40 тыс +",
+      "versionDescription": "Первая версия",
       "screenshotURLs": [
-        "https://static.rustore.ru/2026/2/10/03/apk/313279/content/SCREENSHOT/04a604de-d9be-4df5-b4e8-6b2f37943fef.jpg",
-        "https://static.rustore.ru/2026/2/10/1a/apk/313279/content/SCREENSHOT/aa512330-76f0-4f08-9a59-236b21a9373e.jpg",
-        "https://static.rustore.ru/2026/2/10/8e/apk/313279/content/SCREENSHOT/c390bf01-b754-41fc-817e-676fd9901fd7.jpg",
-        "https://static.rustore.ru/2026/2/10/f2/apk/313279/content/SCREENSHOT/78a2d4a9-f846-4712-bdee-e1ba5cad6ff8.jpg",
-        "https://static.rustore.ru/2026/2/10/46/apk/313279/content/SCREENSHOT/f4be5ebc-9029-4bca-9fcf-bdc7e8237f28.jpg",
-        "https://static.rustore.ru/2026/2/10/df/apk/313279/content/SCREENSHOT/995141df-f1ea-43ab-860f-39924a518638.jpg",
-        "https://static.rustore.ru/2026/2/10/9e/apk/313279/content/SCREENSHOT/92af9788-04ab-4041-a4d9-4743191f6b13.jpg",
-        "https://static.rustore.ru/2026/2/10/7b/apk/313279/content/SCREENSHOT/5b6d7cac-5c04-4939-bdc1-9a2a65cbb09f.jpg"
+        "https://static.rustore.ru/apk/2063589508/content/SCREENSHOT/43e92a09-aece-4a84-8b2f-36378e1d8273.jpg",
+        "https://static.rustore.ru/apk/2063589508/content/SCREENSHOT/1e9305ef-7cf1-48b4-82cd-224f329348cf.jpg",
+        "https://static.rustore.ru/apk/2063589508/content/SCREENSHOT/f2a96636-ef78-4687-b69f-ee4c8d443089.jpg"
       ],
-      "ageRating": "12+",
-      "website": "https://vk.com",
-      "privacyURL": "https://vk.com/privacy",
+      "ageRating": "18+",
       "reviews": [
         {
-          "id": "Юрий-18 сен 2026-0",
-          "title": "Мне всё очень нравится спасибо за такую",
-          "author": "Юрий",
-          "text": "Мне всё очень нравится спасибо за такую музыку 🎤🎹🎸👍",
-          "date": "18 сен 2026"
+          "id": "Степан-14 июл 2026-0",
+          "title": "Вообще не открывается",
+          "author": "Степан",
+          "text": "Вообще не открывается",
+          "date": "14 июл 2026"
         },
         {
-          "id": "Рамзиль-18 сен 2026-1",
-          "title": "В общем, если захотите пользоваться вк",
-          "author": "Рамзиль",
-          "text": "В общем, если захотите пользоваться вк музыкой, вам придется смириться с тем что треки будут ставиться на паузу сами через минут 15-20 прослушивания, и второе это постоянные баги, вылеты, то что музыка не будет скачиваться и зависать в режиме скачивания, будет то удаляться, то добавляться в любимые сразу 5 одинаковых треков, в общем ребят, если хотите гемора и больше ненужной возни, ваш вариант))",
-          "date": "18 сен 2026"
+          "id": "Родион-26 дек 2025-1",
+          "title": "Афигеть чтоб снять бан нужно 850 руб чистый",
+          "author": "Родион",
+          "text": "Афигеть чтоб снять бан нужно 850 руб чистый грабёж, 🙂",
+          "date": "26 дек 2025"
         },
         {
-          "id": "Елена-18 сен 2026-2",
-          "title": "В последнее время наверное самое",
-          "author": "Елена",
-          "text": "В последнее время наверное самое Отвратительное приложение!!! Через песню, начинает тормозить(хотя прослушивание через скачивание) Смысл платить за то, что не работает!?!?",
-          "date": "18 сен 2026"
+          "id": "Сергей-3 окт 2025-2",
+          "title": "Добавьте режим, чтобы отправленное",
+          "author": "Сергей",
+          "text": "Добавьте режим, чтобы отправленное голосовое сообщение 5с у адресата звучало через громкий динамик. Это условно такой будильник, для родителей и детей, для пенсионеров, и чтобы можно было звучать по таймеру. Условно голосовое громкое сообщение себе и другим в будущее. Разумеется для тех кто разрешил для него так делать. Ни у кого такой функции нет, все одинаковые чаты, будет спрос на новую фишку",
+          "date": "3 окт 2025"
         },
         {
-          "id": "Eva-18 сен 2026-3",
-          "title": "Весь вечер зависает музыка.",
-          "author": "Eva",
-          "text": "Весь вечер зависает музыка. Приложение обновлено, подписка есть, интернет летает. Невозможно слушать музыку, с учётом того, что она сохранена на устройство. Ощущение, что ВК делает все, чтобы перестали им пользоваться.",
-          "date": "18 сен 2026"
+          "id": "Владислав-22 апр 2025-3",
+          "title": "Немцы много дрочат",
+          "author": "Владислав",
+          "text": "Немцы много дрочат",
+          "date": "22 апр 2025"
         },
         {
-          "id": "Дмитрий-18 сен 2026-4",
-          "title": "Оплачиваю каждый месец проблемо в том что я",
-          "author": "Дмитрий",
-          "text": "Оплачиваю каждый месец проблемо в том что я не люблю певцов которые петь не умеют армяни и т. Д я их не слушал и не слушаю но почему-то это нытьё или что они поют про русских девушек попадает мне в плей лист маразм чуханские песни",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Дмитрий-18 сен 2026-5",
-          "title": "Вставлю свои две копейки.",
-          "author": "Дмитрий",
-          "text": "Вставлю свои две копейки. Глобально идея ВК музыки интересна. НО! Создав плейлист из избранной музыки, допустим 100 песен, через месяц от него в лучшем случае останется песен 30. Думаю, что это связано с тем, что пользовательи ВК, на песни которых алгоритм поиска сервиса ВК музыка сослался, их просто удалили со своей страницы, что подразумевает через определенное время обновлять свой плейлист, проходя заново поиск любимых песен. Реклама тем не менее через каждые две песни!",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Анна-18 сен 2026-6",
-          "title": "Былодаэтого",
-          "author": "Анна",
-          "text": "Былодаэтого",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Андрей-18 сен 2026-7",
-          "title": "Задолбало, каждый трек останавливаться,",
-          "author": "Андрей",
-          "text": "Задолбало, каждый трек останавливаться, нафиг надо такая подписка которая делает нервы",
-          "date": "18 сен 2026"
+          "id": "Александр-7 апр 2025-4",
+          "title": "Решите проблему с баном!",
+          "author": "Александр",
+          "text": "Решите проблему с баном! Она сама не пристойно выглядела.",
+          "date": "7 апр 2025"
         }
       ]
     },
     {
-      "name": "КИОН Музыка: песни, подкасты",
-      "bundleIdentifier": "ru.mts.mobile.music",
-      "developerName": "ПАО МТС",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mts.music.android",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/KIONMusic.png",
-      "localizedDescription": "КИОН Музыка – это удобное приложение для всех любителей музыки. В приложении можно как слушать музыку онлайн, так и слушать музыку без интернета.\nУзнавайте интересную информацию из подкастов на русском языке, слушайте любимые песни бесплатно или с подпиской без ограничений, а также вам будет доступна музыка для сна, музыка для медитации и другая релакс музыка. Все это может ваш личный плеер от КИОН.\nОсновные преимущества:\nБОЛЬШАЯ БИБЛИОТЕКА МУЗЫКИ\nВ нашем приложении вы найдете огромное количество топ треков различных жанров и стилей. Здесь есть музыка на любой вкус, от популярных хитов до классических композиций. В КИОН Музыке — бесплатная музыка для прослушивания или с подпиской без ограничений.\nПЕРСОНАЛИЗИРОВАННЫЕ РЕКОМЕНДАЦИИ\nНаш искусственный интеллект анализирует ваши предпочтения и предлагает вам песни, которые точно подойдут вашему вкусу! Благодаря этому вы всегда будете в курсе новых треков и исполнителей, которые вам точно понравятся. С музыкой на КИОН легко слушать как онлайн, так и без интернета любимых исполнителей. Для каждого пользователя выбирается та музыка, которая ему по душе. Мы стараемся сделать так, чтобы послушать музыку было легко и удобно. С КИОН Музыкой вы никогда не будете слушать одно и то же, потому что наши рекомендации работают на высшем уровне.\nСОЗДАНИЕ ПЛЕЙЛИСТОВ\nВ КИОН Музыке вы можете создавать свои собственные плейлисты, чтобы группировать треки по настроению, жанру или любому другому критерию. Создай свой собственный плейлист и начни слушать любую музыку онлайн или оффлайн. Делай себе настроение на каждый день. Rap, hip-hop, house, электронная музыка и многое другое ждет тебя в разделе Music. Наслаждайся и выбирай собственный плейлист, который поднимет твое настроение. Твой музыкальный плеер всегда с тобой!\nОФФЛАЙН РЕЖИМ\nЧто такое музыка оффлайн? Это возможность загрузить любимые треки на телефон и слушать их в любом месте и в любое время. Твоя музыка теперь есть у тебя в телефоне без доступа к интернету. Оффлайн режим позволяет вам слушать музыку в любое время и в любом месте! Вы можете скачать музыку на смартфон и слушать без интернета. Скачивание музыки на телефон доступно пользователям с подпиской на приложение. Слушать музыку бесплатно или с подпиской без ограничений. Музыка оффлайн бесплатно или с подпиской без ограничений доступна в приложении КИОН Музыка. Оффлайн музыка — это преимущество, которым точно стоит пользоваться.\nРАДИО\nВыберите свою любимую радиостанцию и наслаждайтесь музыкой, которая поднимет ваше настроение в любое время. Любимые радиостанции в твоем телефоне: наше радио, европа плюс, радио дача, русское радио и другие радиоволны. Радио онлайн доступно для всех пользователей. Слушай любимых радиоведущих и настраивайся на любимые радиоволны:\nАвторадио для владельцев автомобилей и длительных поездок.\nЕвропа плюс для тех, кто любит мировые хиты.\nРадио дача подарит эмоции людям любого возраста.\nКамеди радио для тех, кто любит посмеяться.\nНастраивайся на любимую волну вместе с музыкой на КИОН.\nПЛАТНЫЙ И БЕСПЛАТНЫЙ ДОСТУП\nВ нашем приложении есть возможность выбора между платной и бесплатной версией. Бесплатный доступ позволяет вам наслаждаться основными функциями приложения, в то время как платная версия открывает дополнительные преимущества, такие как расширенная музыкальная библиотека и оффлайн доступ к музыке. Вы можете слушать бесплатно музыку и каждый день наслаждаться любимыми исполнителями в нашем приложении без покупки Premium подписки. Музыка бесплатно доступна без подписки, но в ограниченном режиме.\nКИОН Музыка — это удобный сервис для пользователей, приятный интерфейс, постоянный контакт с пользователем. Мы стараемся, чтобы прослушивание музыки стало для вас максимально приятным. Делитесь своими эмоциями о нашем приложении.\nС нами легко найти и добавить песни в плейлист, слушать музыку без интернета или онлайн. Открой для себя новые мелодии и жанры. Подкасты, звуки, песни, моя музыка — доступны вам безгранично в КИОН Музыке!",
-      "subtitle": "Подкасты, песни, радио и возможность слушать музыку бесплатно и без интернета",
+      "name": "Rave",
+      "bundleIdentifier": "sh.weme.wemesh2",
+      "developerName": "Rave",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/com.wemesh.android",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Rave.png",
+      "localizedDescription": "Смотри с друзьями лучшие сериалы и фильмы на RuTube, VK Видео и других ресурсах, общаясь в чате в режиме реального времени! Смотреть вместе еще никогда не было так весело!\n\n🌎 Общайся в ЧАТЕ онлайн во время просмотра любимых фильмов и сериалов с помощью текстовых сообщений в приложении или голосового чата. Обсуждай сюжет, делись впечатлениями и реагируй на яркие моменты.\n\n🥳 ПОЛУЧАЙ УДОВОЛЬСТВИЕ от «Вечеринки просмотра»: запускай совместный просмотр фильмов и сериалов на RuTube, VK Видео и других потоковых сайтах. Открывай для себя новый контент и смотри хиты запоем вместе с друзьями!\n\n🎧 СЛУШАЙ музыку с людьми из любой точки мира.\n\n👫 ПРИСОЕДИНЯЙСЯ к друзьям на телефонах Android, ПК и других устройствах.\n\nЗагрузи Rave и смотри сериалы, фильмы и видео с друзьями и семьей, где бы они ни находились!\nСвяжись с нами, если у тебя есть вопросы, предложения, запросы о новой платформе потокового вещания или ты просто хочешь поздороваться. Отправляй нам сообщения по адресу contact@rave.io или посети www.rave.io.",
+      "subtitle": "Смотрите YouTube и видео с друзьями и слушайте музыку вместе!",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KIONMusic.ipa",
-          "size": 184879757,
-          "version": "9780",
-          "buildVersion": "7",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Rave.ipa",
+          "size": 144891368,
+          "version": "8.1.2",
+          "buildVersion": "2723",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "15.0",
-          "localizedDescription": "Сделали несколько незаметных, но полезных доработок – приложение стало работать стабильнее."
+          "minOSVersion": "10.0",
+          "localizedDescription": "Спасибо, что пользуетесь Rave! Это обновление содержит исправления и улучшения стабильности."
         }
       ],
-      "version": "9780",
+      "version": "8.1.2",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 184879757,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KIONMusic.ipa",
-      "rating": 4.64,
-      "ratingCount": 18309,
-      "downloads": 2000000,
-      "downloadsText": "2 млн +",
-      "versionDescription": "Сделали несколько незаметных, но полезных доработок – приложение стало работать стабильнее.",
+      "size": 144891368,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Rave.ipa",
+      "rating": 4.34,
+      "ratingCount": 76,
+      "downloads": 500000,
+      "downloadsText": "500 тыс +",
+      "versionDescription": "Спасибо, что пользуетесь Rave! Это обновление содержит исправления и улучшения стабильности.",
       "screenshotURLs": [
-        "https://static.rustore.ru/2025/12/10/fb/apk/337343/content/SCREENSHOT/cd417c7c-84bf-4953-9298-9d8c49039c24.png",
-        "https://static.rustore.ru/2025/12/10/b2/apk/337343/content/SCREENSHOT/12ba4fb8-9b0c-4937-adf0-92ddd9c4e619.png",
-        "https://static.rustore.ru/2025/12/10/9a/apk/337343/content/SCREENSHOT/133ce09d-7030-4c68-a1a6-b42153cf18fa.png",
-        "https://static.rustore.ru/2025/12/10/31/apk/337343/content/SCREENSHOT/c54c6030-3ec7-463e-b3cd-783217cf71e0.png",
-        "https://static.rustore.ru/2025/12/10/b9/apk/337343/content/SCREENSHOT/aec6feb1-4344-421a-ad83-09378f05c171.png"
+        "https://static.rustore.ru/2026/6/2/73/apk/2063714637/content/SCREENSHOT/25dbf35c-329c-4cc7-8f81-e2cdb3fe04d9.jpg",
+        "https://static.rustore.ru/2026/6/2/8e/apk/2063714637/content/SCREENSHOT/8b6d3298-aee9-4561-947e-71361a55aa8f.jpg",
+        "https://static.rustore.ru/2026/6/2/2f/apk/2063714637/content/SCREENSHOT/c61d7502-efe6-4940-8242-8fd49df277e7.jpg",
+        "https://static.rustore.ru/2026/6/2/f8/apk/2063714637/content/SCREENSHOT/d5d38b93-ce33-4551-90f5-722f0e14de1f.jpg",
+        "https://static.rustore.ru/2026/6/2/51/apk/2063714637/content/SCREENSHOT/98e908d1-56fb-4114-8f7f-060876e1d7f4.jpg"
       ],
       "ageRating": "12+",
+      "website": "https://rave.io",
       "reviews": [
         {
-          "id": "Роберт-18 сен 2026-0",
-          "title": "Отличное приложение, музыка меня радует, то",
-          "author": "Роберт",
-          "text": "Отличное приложение, музыка меня радует, то что именно хочется слушать",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Виктория-18 сен 2026-1",
-          "title": "Из-за своей жадности превращаете приложение",
-          "author": "Виктория",
-          "text": "Из-за своей жадности превращаете приложение в помойку. Кион музыка входит в оплачиваемый тариф МТС, но при этом бесконечная реклама и требование оформить платную подписку. Переустановила несколько раз за последние 2 недели приложение - не помогло, а стало ещё хуже. Рэкет и вымогательство это называется. Наведите порядок в конце концов!",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Неизвестный-18 сен 2026-2",
-          "title": "Нормально",
-          "author": "Неизвестный",
-          "text": "Нормально",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Александр-17 сен 2026-3",
-          "title": "Все хорошо работает.",
+          "id": "Александр-2 сен 2026-0",
+          "title": "Раньше мог посмотреть практически любое",
           "author": "Александр",
-          "text": "Все хорошо работает.",
-          "date": "17 сен 2026"
+          "text": "Раньше мог посмотреть практически любое видео, а последние пару дней везде стало писать: Невозможно воспроизвести видео. Извините это видео не доступно. Пробовал включать и выключать обходы в интернет, но всё равно не помогло. Как исправить?",
+          "date": "2 сен 2026"
         },
         {
-          "id": "Александр-17 сен 2026-4",
-          "title": "Очень хорошее.",
-          "author": "Александр",
-          "text": "Очень хорошее.",
-          "date": "17 сен 2026"
+          "id": "Евгений-19 авг 2026-1",
+          "title": "Почините сообщения , не отправляются и не",
+          "author": "Евгений",
+          "text": "Почините сообщения , не отправляются и не приходят , вообще можно узнать что писали через день и сам одно и то же сообщение по пять раз жмешь",
+          "date": "19 авг 2026"
         },
         {
-          "id": "Дмитрий-17 сен 2026-5",
-          "title": "Всё прекрасно в этом плейере.",
-          "author": "Дмитрий",
-          "text": "Всё прекрасно в этом плейере. Есть один недостаток, - иконка лайка в виде жопы.",
-          "date": "17 сен 2026"
+          "id": "Ильхам-14 авг 2026-2",
+          "title": "Очень классное приложение где можно",
+          "author": "Ильхам",
+          "text": "Очень классное приложение где можно смотреть видео с друзьями не работает Ютуб из-за боокировки",
+          "date": "14 авг 2026"
         },
         {
-          "id": "Mary-17 сен 2026-6",
-          "title": "Лучшая музыкальная платформа в России",
-          "author": "Mary",
-          "text": "Лучшая музыкальная платформа в России ☝️💪👌👍👍👍👍👍",
-          "date": "17 сен 2026"
+          "id": "Матвей-7 июл 2026-3",
+          "title": "Что-то не так с воспроизведением видео",
+          "author": "Матвей",
+          "text": "Что-то не так с воспроизведением видео через ВК Видео. Вместо плеера чёрный экран, даже звука нет. Предполагаю, это могло быть связано с тем, что приложение работает только через VPN (проверял с включенным – не сработало), или с приватностью видео в самом ВК Видео (менял – тоже ничего не меняется), или же проблемы с самим типом файла видео (какие типы поддерживает Rave – mp3, avi?). Прошу исправить это поскорее.",
+          "date": "7 июл 2026"
         },
         {
-          "id": "Stanis-16 сен 2026-7",
-          "title": "Ther gut",
-          "author": "Stanis",
-          "text": "Ther gut",
-          "date": "16 сен 2026"
+          "id": "Kirill-21 июн 2026-4",
+          "title": "Каждый раз само удаляется через",
+          "author": "Kirill",
+          "text": "Каждый раз само удаляется через время,задолбался скачивать.",
+          "date": "21 июн 2026"
+        },
+        {
+          "id": "Зарина-4 июн 2026-5",
+          "title": "Спосибо",
+          "author": "Зарина",
+          "text": "Спосибо",
+          "date": "4 июн 2026"
         }
       ]
     },
@@ -6353,262 +6473,83 @@
       ]
     },
     {
-      "name": "Rave",
-      "bundleIdentifier": "sh.weme.wemesh2",
-      "developerName": "Rave",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/com.wemesh.android",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Rave.png",
-      "localizedDescription": "Смотри с друзьями лучшие сериалы и фильмы на RuTube, VK Видео и других ресурсах, общаясь в чате в режиме реального времени! Смотреть вместе еще никогда не было так весело!\n\n🌎 Общайся в ЧАТЕ онлайн во время просмотра любимых фильмов и сериалов с помощью текстовых сообщений в приложении или голосового чата. Обсуждай сюжет, делись впечатлениями и реагируй на яркие моменты.\n\n🥳 ПОЛУЧАЙ УДОВОЛЬСТВИЕ от «Вечеринки просмотра»: запускай совместный просмотр фильмов и сериалов на RuTube, VK Видео и других потоковых сайтах. Открывай для себя новый контент и смотри хиты запоем вместе с друзьями!\n\n🎧 СЛУШАЙ музыку с людьми из любой точки мира.\n\n👫 ПРИСОЕДИНЯЙСЯ к друзьям на телефонах Android, ПК и других устройствах.\n\nЗагрузи Rave и смотри сериалы, фильмы и видео с друзьями и семьей, где бы они ни находились!\nСвяжись с нами, если у тебя есть вопросы, предложения, запросы о новой платформе потокового вещания или ты просто хочешь поздороваться. Отправляй нам сообщения по адресу contact@rave.io или посети www.rave.io.",
-      "subtitle": "Смотрите YouTube и видео с друзьями и слушайте музыку вместе!",
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Spotify.png",
+      "localizedDescription": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-crafted artist playlists\n• Easily search for your favorite songs, albums, artists, and podcasts\n• Discover personalized music recommendations tailored to your unique taste\n• Subscribe to your favorite free podcasts so you never miss an episode, and even curate your own podcast library\n\nSpotify Free is more than a music player - find the sounds you love and stream music and podcasts online, for free. Enjoy personalized playlists or curate and share your own, discover the hottest new releases, explore upcoming events from your favorites, and more.\n\n• Stream millions of free songs and podcasts\n• Create playlists with your favorite music\n• Share songs and playlists with friends and family (feature restrictions may apply in some regions)\n• Discover personalized playlists made just for you, and collaborate on playlists with your friends\n• Enjoy your personal Discover Weekly playlist every week\n• Stay in the know with the Release Radar and New Music Friday playlists\n• Find nearby events and gigs by your favorite artists\n• See your most played songs, genres, artists, and more with yearly Spotify Wrapped\n• Stream music across your devices with Spotify\n• Use Spotify Connect and enjoy listening on smart speakers, desktop, laptop, smart TV, Chromecast, PlayStation®, Xbox®, smartwatch, in your car, and more - limited number of device models apply\n\nSpotify Premium - a great way to enjoy the benefits of an offline music player, and stream music without WiFi. By pressing download, you can access your songs, playlists, podcasts, and audiobooks offline, wherever you are.\n• Listen to music, podcasts, and audiobooks - all in one place\n• Ad-free music listening: enjoy your music with no ad interruptions\n• Enjoy full on-demand playback\n• Audiobooks in Premium are currently available in the US, UK, Australia, Ireland, New Zealand, and Canada. Discover 250,000+ audiobook titles with 15 hours/month of available listening for Premium Individual subscribers and Duo & Family plan managers.\n• Superior sound quality on supported devices\n• AI DJ: a personalized guide that knows your music taste so well it can choose what to play for you\n• Enjoy on desktop, phone, tablet, computer, smartwatch, and in your car\n• Listen and control the listening session together by hosting a Jam in real time with friends\n• Download songs, podcasts, and audiobooks for offline listening, without an internet connection\n• No contract required - cancel your subscription whenever you want\n\nSpotify lets you play music wherever you are. Listen to your favorite songs and discover new music, podcasts, and audiobooks with the Spotify app!\n\nLOVE SPOTIFY?\nFollow us on Instagram: https://www.instagram.com/spotify\nFollow us on TikTok: https://www.tiktok.com/@spotify",
+      "subtitle": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Rave.ipa",
-          "size": 144891368,
-          "version": "8.1.2",
-          "buildVersion": "2723",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Spotify.ipa",
+          "size": 126966188,
+          "version": "9.1.60",
+          "buildVersion": "916001969",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "10.0",
-          "localizedDescription": "Спасибо, что пользуетесь Rave! Это обновление содержит исправления и улучшения стабильности."
+          "minOSVersion": "15.0",
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
         }
       ],
-      "version": "8.1.2",
+      "version": "9.1.60",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 144891368,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Rave.ipa",
-      "rating": 4.34,
-      "ratingCount": 76,
-      "downloads": 500000,
-      "downloadsText": "500 тыс +",
-      "versionDescription": "Спасибо, что пользуетесь Rave! Это обновление содержит исправления и улучшения стабильности.",
+      "size": 126966188,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Spotify.ipa",
+      "rating": 4.77343,
+      "ratingCount": 42141707,
       "screenshotURLs": [
-        "https://static.rustore.ru/2026/6/2/73/apk/2063714637/content/SCREENSHOT/25dbf35c-329c-4cc7-8f81-e2cdb3fe04d9.jpg",
-        "https://static.rustore.ru/2026/6/2/8e/apk/2063714637/content/SCREENSHOT/8b6d3298-aee9-4561-947e-71361a55aa8f.jpg",
-        "https://static.rustore.ru/2026/6/2/2f/apk/2063714637/content/SCREENSHOT/c61d7502-efe6-4940-8242-8fd49df277e7.jpg",
-        "https://static.rustore.ru/2026/6/2/f8/apk/2063714637/content/SCREENSHOT/d5d38b93-ce33-4551-90f5-722f0e14de1f.jpg",
-        "https://static.rustore.ru/2026/6/2/51/apk/2063714637/content/SCREENSHOT/98e908d1-56fb-4114-8f7f-060876e1d7f4.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e7/6a/5be76ae0-8bc6-59fc-58ef-92aa931b6dba/IOS_-_5.5_-_S03_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/ef/84/cfef8425-3610-a4b5-b4d8-1f22da2449d8/IOS_-_5.5_-_S04_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/66/2a/52662aa9-7a10-a349-f1cb-787143401ace/IOS_-_5.5_-_S05_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/12/40/9112404c-d50d-bae4-1d42-4a0153ab7cfc/IOS_-_5.5_-_S06_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/df/e9/b9dfe9f4-7716-a072-6d8b-d683ed92c75f/IOS_-_5.5_-_S07_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/55/ca/cb55ca54-a183-ea42-3a46-9c2fa59ea289/IOS_-_5.5_-_S08_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png"
       ],
-      "ageRating": "12+",
-      "website": "https://rave.io",
-      "reviews": [
-        {
-          "id": "Александр-2 сен 2026-0",
-          "title": "Раньше мог посмотреть практически любое",
-          "author": "Александр",
-          "text": "Раньше мог посмотреть практически любое видео, а последние пару дней везде стало писать: Невозможно воспроизвести видео. Извините это видео не доступно. Пробовал включать и выключать обходы в интернет, но всё равно не помогло. Как исправить?",
-          "date": "2 сен 2026"
-        },
-        {
-          "id": "Евгений-19 авг 2026-1",
-          "title": "Почините сообщения , не отправляются и не",
-          "author": "Евгений",
-          "text": "Почините сообщения , не отправляются и не приходят , вообще можно узнать что писали через день и сам одно и то же сообщение по пять раз жмешь",
-          "date": "19 авг 2026"
-        },
-        {
-          "id": "Ильхам-14 авг 2026-2",
-          "title": "Очень классное приложение где можно",
-          "author": "Ильхам",
-          "text": "Очень классное приложение где можно смотреть видео с друзьями не работает Ютуб из-за боокировки",
-          "date": "14 авг 2026"
-        },
-        {
-          "id": "Матвей-7 июл 2026-3",
-          "title": "Что-то не так с воспроизведением видео",
-          "author": "Матвей",
-          "text": "Что-то не так с воспроизведением видео через ВК Видео. Вместо плеера чёрный экран, даже звука нет. Предполагаю, это могло быть связано с тем, что приложение работает только через VPN (проверял с включенным – не сработало), или с приватностью видео в самом ВК Видео (менял – тоже ничего не меняется), или же проблемы с самим типом файла видео (какие типы поддерживает Rave – mp3, avi?). Прошу исправить это поскорее.",
-          "date": "7 июл 2026"
-        },
-        {
-          "id": "Kirill-21 июн 2026-4",
-          "title": "Каждый раз само удаляется через",
-          "author": "Kirill",
-          "text": "Каждый раз само удаляется через время,задолбался скачивать.",
-          "date": "21 июн 2026"
-        },
-        {
-          "id": "Зарина-4 июн 2026-5",
-          "title": "Спосибо",
-          "author": "Зарина",
-          "text": "Спосибо",
-          "date": "4 июн 2026"
-        }
-      ]
+      "website": "https://www.spotify.com/",
+      "appStoreURL": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?uo=4"
     },
     {
-      "name": "Bigo Live",
-      "bundleIdentifier": "sg.bigo.live",
-      "developerName": "BIGO TECHNOLOGY PTE. LTD.",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/sg.bigo.live.rustore",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/BigoLive.png",
-      "localizedDescription": "BIGO LIVE (биго лайф) это платформа для ведения прямых эфиров. Она позволит вам выходить в прямой эфир, делиться интересными моментами из жизни со своими друзьями, а также совершать видео и аудио звонки.\n\n* Доступно в 150 странах.\n* Более 500 млн скачиваний по всему миру!\n\nПрисоединяйтесь прямо сейчас, делитесь самыми важными моментами своей жизни, находите новых друзей по всему миру!\n\n---------🎈Обновление🎈------- \n\n❤️(Новое) качественное короткое видео Здесь вы сможете увидеть красивые танцы, мелодичные песни, вдохновляющие истории и завести новых друзей~ Смотрите видео и легко получайте вознаграждение!\n\n❤️ (Новый) Центр творчества Публикуйте качественные видео, вы сможете получить поклонников и награды, а свой творческий энтузиазм превратить в денежный доход или даже в карьеру!\n\n❤️ (Новый) Пригласить друга\nПриглашайте старых и новых друзей, наслаждайтесь щедрыми наградами! Новые впечатления, новые достижения - присоединяйтесь к нам!\n\n---------🎈Главные особенности🎈--------\n\n❤️-Прямые эфиры\nПеть, танцевать, кушать, играть в игры, путешествовать… Только 1 касание и вы уже на шаг впереди к работе блогера! BIGO LIVE (биго лайф) поможет вам прокачать свою жизнь в прямом эфире.\n\n❤️Просмотр Онлайн Шоу\n\n# Используйте BIGO LIVE, когда хотите получить заряд положительных эмоций от веселых эфиров пользователей. Миллионы талантливых ведущих, певцов, комиков и т.д. устраивают праздник для вас каждый день! Это новый способ объединить людей со всего мира!\n\n# BIGO LIVE позволит следить за жизнью своих кумиров и общаться с ними. Большое количество звезд зарубежной и российской эстрады, актеры, телеведущие, блогеры, знаменитости транслируют свою жизнь в интернет.\n\n❤️Видеочат и видеозвонки.\n\n# С BIGO LIVE вы сможете общаться в прямом эфире с друзьями и глобальным сообществом.\n\n# В приложении можно искать пользователей по странам. В списке доступных регионов имеется и Россия.\n\n❤️Присоединяйтесь к Multi-guest Live\n\nBIGO LIVE есть возможность создавать multi-guest чат и общаться друг с другом по видео или аудио связи. В добавок, можете устраивать вечеринки или делать стримы любимых игр со своими друзьями.\n\n❤️Игровые стримы\n\nСмотрите игровые эфиры или делайте стримы популярных игр таких, как PUBG, League of Legends, Minecraft, Grand Theft Auto, CSGO, DOTA2, FIFA, RoV, Rules of Survival и др.\n\n❤️Восхитительные подарки\n\nПолучайте и дарите виртуальные подарки такие, как розы, ангелы, суперкары, замки многое другое.\nСтановитесь звездой, получайте подарки от фанатов!",
-      "subtitle": "24/7 прямой эфир, видеочат, 500 млн человек!",
+      "name": "Radio Record: Dance Music",
+      "bundleIdentifier": "com.cronos.recordplayer",
+      "developerName": "Radio Record, ZAO",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RadioRecord.png",
+      "localizedDescription": "Официальное приложение первой танцевальной радиостанции России \n\n- удобный интерфейс с выбором цветовой схемы;\n- 100+ радиоканалов;\n- синхронизация избранного между устройствами;\n- подписка на подкасты с уведомлениями о новых выпусках;\n- чат со студией с голосовыми сообщениями;\n- поиск по радиоканалам и подкастам;\n- выбор каналов по стилям и темам;\n- встроенный будильник и таймер сна;\n- личный кабинет;\n- поиск треков в популярных музыкальных сервисах;\n- билеты на события Рекорда без наценки.\n\nПри подтверждении покупки оплата произойдет со счета, привязанного к вашему Apple ID. Подписка будет продлена автоматически в течение 24 часов до окончания текущего периода на срок, аналогичный предыдущему. Отключение автопродления на следующий период возможно не позднее, чем за 24 часа до окончания текущего периода. Неиспользованная часть бесплатного пробного периода аннулируется после приобретения подписки.\nВы можете управлять подпиской или отключить автопродление в разделе \"Настройки - Apple ID - Подписки\".\n\nЛицензионное соглашение: https://www.radiorecord.ru/static/agreement\nПолитика конфиденциальности: https://www.radiorecord.ru/static/policy",
+      "subtitle": "Официальное приложение первой танцевальной радиостанции России",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
+      "website": "http://www.radiorecord.ru/",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/BigoLive.ipa",
-          "size": 129222036,
-          "version": "6.51.2",
-          "buildVersion": "1966",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RadioRecord.ipa",
+          "size": 70566154,
+          "version": "2.7.5",
+          "buildVersion": "2",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "15.1",
-          "localizedDescription": "The latest version of PaymentKu has been upgraded."
+          "minOSVersion": "15.0"
         }
       ],
-      "version": "6.51.2",
+      "version": "2.7.5",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 129222036,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/BigoLive.ipa",
-      "rating": 3.88,
-      "ratingCount": 199,
-      "downloads": 200000,
-      "downloadsText": "200 тыс +",
-      "versionDescription": "The latest version of PaymentKu has been upgraded.",
+      "size": 70566154,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RadioRecord.ipa",
+      "rating": 4.82749,
+      "ratingCount": 226180,
       "screenshotURLs": [
-        "https://static.rustore.ru/2026/7/28/c2/apk/2063675792/content/SCREENSHOT/380f0d2f-7828-449f-8861-c4ac492ed5da.png",
-        "https://static.rustore.ru/2025/12/10/84/apk/2063675792/content/SCREENSHOT/415d13b0-b349-4b85-badc-ae54d7efc5a7.png",
-        "https://static.rustore.ru/2025/12/24/98/apk/2063675792/content/SCREENSHOT/c608ab9b-03ef-4634-8020-d6790959d208.png",
-        "https://static.rustore.ru/2025/12/24/d4/apk/2063675792/content/SCREENSHOT/c2f4f624-06dc-435a-96a1-14f318bd8f87.png",
-        "https://static.rustore.ru/2025/12/24/4a/apk/2063675792/content/SCREENSHOT/0c43eb88-2a0b-4122-8363-84c1cdab3c34.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/2b/db/bc2bdb28-d52f-0795-4092-89ea35ba593c/8ef62c44-d3fb-46fe-92ed-9504a1da6bb1_1242x2208_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/14/19/891419b8-b587-2f7c-b608-bf792cc35990/b67e882e-36a2-48fe-b626-75cd8e8fc840_1242x2208_8.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/e2/02/1be202e8-81f2-65f9-f915-cf42c9fdd719/cc9dd7a2-4960-4d2d-b646-8c345dcee767_1242x2208_1-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/3b/6f/af3b6f67-7135-1de5-1d9d-6d75817117c9/865358c7-b235-4c8b-83a0-fb02efdb7a35_1242x2208_1-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/88/be/9688be7e-46a7-e6f1-c8f8-223eb35e3ca0/81650aae-4380-422d-9145-7807caf552d7_1242x2208_1-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/bd/45/bbbd45a5-fed3-d9be-b293-bcd4b77aae69/82656b10-d6ff-4ffa-a7d0-146dcc0e1c3d_1242x2208_1-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/55/0e5255a4-dab8-d58f-6624-791d9e9afaac/ce12bd3c-ddae-4bbf-8ce1-6f24f7607fb4_1242x2208_1-6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d3/0b/d7d30b21-f693-978d-6a37-359fdcf7b4be/5064f496-6ad2-4760-943e-b5baf48b7575_1242x2208_1-4.png/392x696bb.png"
       ],
-      "ageRating": "18+",
-      "reviews": [
-        {
-          "id": "Александр-17 сен 2026-0",
-          "title": "Непонятно функции кнопок.",
-          "author": "Александр",
-          "text": "Непонятно функции кнопок.",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Dmitry-17 сен 2026-1",
-          "title": "Настолько плохо то, что я не мог себе, даже",
-          "author": "Dmitry",
-          "text": "Настолько плохо то, что я не мог себе, даже этого представить я захожу в приложение, у меня не показывает ни картинки, я захожу в комнату, у меня что-то показывает, что-то нет, кого-то я не понимаю, когда я подключён, когда нет ф****, в общем, ваш биг лайф.",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Анатолий-17 сен 2026-2",
-          "title": "Кажут чё попало",
-          "author": "Анатолий",
-          "text": "Кажут чё попало",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Сережа-16 сен 2026-3",
-          "title": "Привет Богородицк тульская область",
-          "author": "Сережа",
-          "text": "Привет Богородицк тульская область священники отецы Алексей и Стефан передрались на Пасху все деньги кругом желаю вам крепкого здоровья счастья любви больше в жизни солнечных дней прекрасного настроения чат просто супер красавцы",
-          "date": "16 сен 2026"
-        },
-        {
-          "id": "Хишник-15 сен 2026-4",
-          "title": "почему с биго зрителя нельзя скринить и",
-          "author": "Хишник",
-          "text": "почему с биго зрителя нельзя скринить и куда не зайдешь все матирей трогают",
-          "date": "15 сен 2026"
-        },
-        {
-          "id": "Виктор-14 сен 2026-5",
-          "title": "Ok",
-          "author": "Виктор",
-          "text": "Ok",
-          "date": "14 сен 2026"
-        },
-        {
-          "id": "Anatoi-7 сен 2026-6",
-          "title": "Беспонтовое приложение запутано вообще",
-          "author": "Anatoi",
-          "text": "Беспонтовое приложение запутано вообще пишут лешкие деньги а запутано пипец буду удалять и другим не советовать",
-          "date": "7 сен 2026"
-        },
-        {
-          "id": "Владимир-6 сен 2026-7",
-          "title": "Говно даже зайти не возможно чушь не советую",
-          "author": "Владимир",
-          "text": "Говно даже зайти не возможно чушь не советую",
-          "date": "6 сен 2026"
-        }
-      ]
-    },
-    {
-      "name": "Minichat",
-      "bundleIdentifier": "com.minichat",
-      "developerName": "SingApp",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/mini.video.chat",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/MiniChat.png",
-      "localizedDescription": "Миничат — это популярное видеочат-приложение, где ежедневно общаются десятки тысяч людей. Оно предлагает простой и быстрый способ познакомиться, найти новых друзей или даже встретить любовь. Приложение работает стабильно, защищено модерацией и доступно бесплатно, что решает основные вопросы безопасности и удобства. Здесь вы находитесь в одном касании от тысяч живых трансляций с реальными людьми. Главный принцип — простота и комфорт.\n\nМиничат — это площадка для увлекательных бесед, предлагающая каждому:\n\nВЗАИМНОСТЬ\n\nВидеочат объединяет людей, стремящихся к общению. Здесь каждый находит интересного собеседника. В Миничате неважно, кто вы и откуда, вы легко познакомитесь с новыми людьми.\n\nУДОВОЛЬСТВИЕ\n\nОбщайтесь с кем угодно: рассказывайте истории, флиртуйте, читайте стихи или просто слушайте. Никогда не поверите, сколько всего можно придумать вдвоем!\n\nАНОНИМНОСТЬ\n\nЗдесь вы — незнакомый человек, пока не встретите того, кто вам понравится. Тогда можно расслабиться и рассказать о себе. Если разговор зашел в тупик, переключайтесь без зазрения совести. В Миничате сказать «прощай» так же легко, как и «привет».\n\nДОСТУПНОСТЬ\n\nНикаких платных функций, рекламы или подписок. Только тысячи собеседников, готовых общаться в реальном времени через видео и мгновенные сообщения. Ограничений по времени нет — общайтесь сколько угодно. Это видеочат премиум-класса, но бесплатный.\n\nЗАЩИЩЁННОСТЬ\n\nМиничат — сообщество дружелюбных людей. Благодаря проактивному модерированию и системе жалоб вы чувствуете себя спокойно. Агрессивное поведение ведет к удалению нарушителя. Правила общения доступны на сайте.\n\nИ МНОГОЕ ДРУГОЕ\n\nПомимо поиска друзей и веселья, вы можете отточить иностранные языки с собеседниками из разных стран. Функция мгновенного перевода устраняет языковые барьеры: пишите на русском, а сообщение доставят на родном языке собеседника.\n\nКак пользоваться Миничатом:\n\nЗалогиньтесь, выберите страну и нажмите синюю кнопку для случайного соединения с первым собеседником.\n\n🔵 Синяя кнопка запускает видеочат или переключает на следующего собеседника;\n\n🔴 Красная кнопка останавливает видеочат и разрывает соединение.\n\nВ Миничат можно заходить в любое время. Общайтесь наедине, с друзьями или в компании. Каждый раз, когда захотите развлечься, помните: в видеочате всегда отличная атмосфера!\n\nПопробуйте Миничат прямо сейчас и найдите новых друзей!",
-      "subtitle": "Общайся в чате, где всегда есть люди",
-      "tintColor": "3C94FC",
-      "category": "social",
-      "pinnedCategory": "social",
-      "versions": [
-        {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/MiniChat.ipa",
-          "size": 71498296,
-          "version": "5.379",
-          "buildVersion": "6.0",
-          "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "10.0",
-          "localizedDescription": "Первая версия"
-        }
-      ],
-      "version": "5.379",
-      "versionDate": "2026-09-18T00:00:00Z",
-      "size": 71498296,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/MiniChat.ipa",
-      "rating": 3.11,
-      "ratingCount": 14,
-      "downloads": 40000,
-      "downloadsText": "40 тыс +",
-      "versionDescription": "Первая версия",
-      "screenshotURLs": [
-        "https://static.rustore.ru/apk/2063589508/content/SCREENSHOT/43e92a09-aece-4a84-8b2f-36378e1d8273.jpg",
-        "https://static.rustore.ru/apk/2063589508/content/SCREENSHOT/1e9305ef-7cf1-48b4-82cd-224f329348cf.jpg",
-        "https://static.rustore.ru/apk/2063589508/content/SCREENSHOT/f2a96636-ef78-4687-b69f-ee4c8d443089.jpg"
-      ],
-      "ageRating": "18+",
-      "reviews": [
-        {
-          "id": "Степан-14 июл 2026-0",
-          "title": "Вообще не открывается",
-          "author": "Степан",
-          "text": "Вообще не открывается",
-          "date": "14 июл 2026"
-        },
-        {
-          "id": "Родион-26 дек 2025-1",
-          "title": "Афигеть чтоб снять бан нужно 850 руб чистый",
-          "author": "Родион",
-          "text": "Афигеть чтоб снять бан нужно 850 руб чистый грабёж, 🙂",
-          "date": "26 дек 2025"
-        },
-        {
-          "id": "Сергей-3 окт 2025-2",
-          "title": "Добавьте режим, чтобы отправленное",
-          "author": "Сергей",
-          "text": "Добавьте режим, чтобы отправленное голосовое сообщение 5с у адресата звучало через громкий динамик. Это условно такой будильник, для родителей и детей, для пенсионеров, и чтобы можно было звучать по таймеру. Условно голосовое громкое сообщение себе и другим в будущее. Разумеется для тех кто разрешил для него так делать. Ни у кого такой функции нет, все одинаковые чаты, будет спрос на новую фишку",
-          "date": "3 окт 2025"
-        },
-        {
-          "id": "Владислав-22 апр 2025-3",
-          "title": "Немцы много дрочат",
-          "author": "Владислав",
-          "text": "Немцы много дрочат",
-          "date": "22 апр 2025"
-        },
-        {
-          "id": "Александр-7 апр 2025-4",
-          "title": "Решите проблему с баном!",
-          "author": "Александр",
-          "text": "Решите проблему с баном! Она сама не пристойно выглядела.",
-          "date": "7 апр 2025"
-        }
-      ]
+      "appStoreURL": "https://apps.apple.com/ru/app/radio-record-dance-music/id396869519?uo=4"
     },
     {
       "name": "МегаФон",
@@ -12962,43 +12903,102 @@
       ]
     },
     {
-      "name": "Radio Record: Dance Music",
-      "bundleIdentifier": "com.cronos.recordplayer",
-      "developerName": "Radio Record, ZAO",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RadioRecord.png",
-      "localizedDescription": "Официальное приложение первой танцевальной радиостанции России \n\n- удобный интерфейс с выбором цветовой схемы;\n- 100+ радиоканалов;\n- синхронизация избранного между устройствами;\n- подписка на подкасты с уведомлениями о новых выпусках;\n- чат со студией с голосовыми сообщениями;\n- поиск по радиоканалам и подкастам;\n- выбор каналов по стилям и темам;\n- встроенный будильник и таймер сна;\n- личный кабинет;\n- поиск треков в популярных музыкальных сервисах;\n- билеты на события Рекорда без наценки.\n\nПри подтверждении покупки оплата произойдет со счета, привязанного к вашему Apple ID. Подписка будет продлена автоматически в течение 24 часов до окончания текущего периода на срок, аналогичный предыдущему. Отключение автопродления на следующий период возможно не позднее, чем за 24 часа до окончания текущего периода. Неиспользованная часть бесплатного пробного периода аннулируется после приобретения подписки.\nВы можете управлять подпиской или отключить автопродление в разделе \"Настройки - Apple ID - Подписки\".\n\nЛицензионное соглашение: https://www.radiorecord.ru/static/agreement\nПолитика конфиденциальности: https://www.radiorecord.ru/static/policy",
-      "subtitle": "Официальное приложение первой танцевальной радиостанции России",
+      "name": "КИОН Музыка: песни, подкасты",
+      "bundleIdentifier": "ru.mts.mobile.music",
+      "developerName": "ПАО МТС",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mts.music.android",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/KIONMusic.png",
+      "localizedDescription": "КИОН Музыка – это удобное приложение для всех любителей музыки. В приложении можно как слушать музыку онлайн, так и слушать музыку без интернета.\nУзнавайте интересную информацию из подкастов на русском языке, слушайте любимые песни бесплатно или с подпиской без ограничений, а также вам будет доступна музыка для сна, музыка для медитации и другая релакс музыка. Все это может ваш личный плеер от КИОН.\nОсновные преимущества:\nБОЛЬШАЯ БИБЛИОТЕКА МУЗЫКИ\nВ нашем приложении вы найдете огромное количество топ треков различных жанров и стилей. Здесь есть музыка на любой вкус, от популярных хитов до классических композиций. В КИОН Музыке — бесплатная музыка для прослушивания или с подпиской без ограничений.\nПЕРСОНАЛИЗИРОВАННЫЕ РЕКОМЕНДАЦИИ\nНаш искусственный интеллект анализирует ваши предпочтения и предлагает вам песни, которые точно подойдут вашему вкусу! Благодаря этому вы всегда будете в курсе новых треков и исполнителей, которые вам точно понравятся. С музыкой на КИОН легко слушать как онлайн, так и без интернета любимых исполнителей. Для каждого пользователя выбирается та музыка, которая ему по душе. Мы стараемся сделать так, чтобы послушать музыку было легко и удобно. С КИОН Музыкой вы никогда не будете слушать одно и то же, потому что наши рекомендации работают на высшем уровне.\nСОЗДАНИЕ ПЛЕЙЛИСТОВ\nВ КИОН Музыке вы можете создавать свои собственные плейлисты, чтобы группировать треки по настроению, жанру или любому другому критерию. Создай свой собственный плейлист и начни слушать любую музыку онлайн или оффлайн. Делай себе настроение на каждый день. Rap, hip-hop, house, электронная музыка и многое другое ждет тебя в разделе Music. Наслаждайся и выбирай собственный плейлист, который поднимет твое настроение. Твой музыкальный плеер всегда с тобой!\nОФФЛАЙН РЕЖИМ\nЧто такое музыка оффлайн? Это возможность загрузить любимые треки на телефон и слушать их в любом месте и в любое время. Твоя музыка теперь есть у тебя в телефоне без доступа к интернету. Оффлайн режим позволяет вам слушать музыку в любое время и в любом месте! Вы можете скачать музыку на смартфон и слушать без интернета. Скачивание музыки на телефон доступно пользователям с подпиской на приложение. Слушать музыку бесплатно или с подпиской без ограничений. Музыка оффлайн бесплатно или с подпиской без ограничений доступна в приложении КИОН Музыка. Оффлайн музыка — это преимущество, которым точно стоит пользоваться.\nРАДИО\nВыберите свою любимую радиостанцию и наслаждайтесь музыкой, которая поднимет ваше настроение в любое время. Любимые радиостанции в твоем телефоне: наше радио, европа плюс, радио дача, русское радио и другие радиоволны. Радио онлайн доступно для всех пользователей. Слушай любимых радиоведущих и настраивайся на любимые радиоволны:\nАвторадио для владельцев автомобилей и длительных поездок.\nЕвропа плюс для тех, кто любит мировые хиты.\nРадио дача подарит эмоции людям любого возраста.\nКамеди радио для тех, кто любит посмеяться.\nНастраивайся на любимую волну вместе с музыкой на КИОН.\nПЛАТНЫЙ И БЕСПЛАТНЫЙ ДОСТУП\nВ нашем приложении есть возможность выбора между платной и бесплатной версией. Бесплатный доступ позволяет вам наслаждаться основными функциями приложения, в то время как платная версия открывает дополнительные преимущества, такие как расширенная музыкальная библиотека и оффлайн доступ к музыке. Вы можете слушать бесплатно музыку и каждый день наслаждаться любимыми исполнителями в нашем приложении без покупки Premium подписки. Музыка бесплатно доступна без подписки, но в ограниченном режиме.\nКИОН Музыка — это удобный сервис для пользователей, приятный интерфейс, постоянный контакт с пользователем. Мы стараемся, чтобы прослушивание музыки стало для вас максимально приятным. Делитесь своими эмоциями о нашем приложении.\nС нами легко найти и добавить песни в плейлист, слушать музыку без интернета или онлайн. Открой для себя новые мелодии и жанры. Подкасты, звуки, песни, моя музыка — доступны вам безгранично в КИОН Музыке!",
+      "subtitle": "Подкасты, песни, радио и возможность слушать музыку бесплатно и без интернета",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
-      "website": "http://www.radiorecord.ru/",
       "versions": [
         {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RadioRecord.ipa",
-          "size": 70566154,
-          "version": "2.7.5",
-          "buildVersion": "2",
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KIONMusic.ipa",
+          "size": 184879757,
+          "version": "9780",
+          "buildVersion": "7",
           "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "15.0"
+          "minOSVersion": "15.0",
+          "localizedDescription": "Сделали несколько незаметных, но полезных доработок – приложение стало работать стабильнее."
         }
       ],
-      "version": "2.7.5",
+      "version": "9780",
       "versionDate": "2026-09-18T00:00:00Z",
-      "size": 70566154,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RadioRecord.ipa",
-      "rating": 4.82749,
-      "ratingCount": 226180,
+      "size": 184879757,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KIONMusic.ipa",
+      "rating": 4.64,
+      "ratingCount": 18309,
+      "downloads": 2000000,
+      "downloadsText": "2 млн +",
+      "versionDescription": "Сделали несколько незаметных, но полезных доработок – приложение стало работать стабильнее.",
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/2b/db/bc2bdb28-d52f-0795-4092-89ea35ba593c/8ef62c44-d3fb-46fe-92ed-9504a1da6bb1_1242x2208_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/14/19/891419b8-b587-2f7c-b608-bf792cc35990/b67e882e-36a2-48fe-b626-75cd8e8fc840_1242x2208_8.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/e2/02/1be202e8-81f2-65f9-f915-cf42c9fdd719/cc9dd7a2-4960-4d2d-b646-8c345dcee767_1242x2208_1-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/3b/6f/af3b6f67-7135-1de5-1d9d-6d75817117c9/865358c7-b235-4c8b-83a0-fb02efdb7a35_1242x2208_1-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/88/be/9688be7e-46a7-e6f1-c8f8-223eb35e3ca0/81650aae-4380-422d-9145-7807caf552d7_1242x2208_1-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/bd/45/bbbd45a5-fed3-d9be-b293-bcd4b77aae69/82656b10-d6ff-4ffa-a7d0-146dcc0e1c3d_1242x2208_1-5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/55/0e5255a4-dab8-d58f-6624-791d9e9afaac/ce12bd3c-ddae-4bbf-8ce1-6f24f7607fb4_1242x2208_1-6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d3/0b/d7d30b21-f693-978d-6a37-359fdcf7b4be/5064f496-6ad2-4760-943e-b5baf48b7575_1242x2208_1-4.png/392x696bb.png"
+        "https://static.rustore.ru/2025/12/10/fb/apk/337343/content/SCREENSHOT/cd417c7c-84bf-4953-9298-9d8c49039c24.png",
+        "https://static.rustore.ru/2025/12/10/b2/apk/337343/content/SCREENSHOT/12ba4fb8-9b0c-4937-adf0-92ddd9c4e619.png",
+        "https://static.rustore.ru/2025/12/10/9a/apk/337343/content/SCREENSHOT/133ce09d-7030-4c68-a1a6-b42153cf18fa.png",
+        "https://static.rustore.ru/2025/12/10/31/apk/337343/content/SCREENSHOT/c54c6030-3ec7-463e-b3cd-783217cf71e0.png",
+        "https://static.rustore.ru/2025/12/10/b9/apk/337343/content/SCREENSHOT/aec6feb1-4344-421a-ad83-09378f05c171.png"
       ],
-      "appStoreURL": "https://apps.apple.com/ru/app/radio-record-dance-music/id396869519?uo=4"
+      "ageRating": "12+",
+      "reviews": [
+        {
+          "id": "Роберт-18 сен 2026-0",
+          "title": "Отличное приложение, музыка меня радует, то",
+          "author": "Роберт",
+          "text": "Отличное приложение, музыка меня радует, то что именно хочется слушать",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Виктория-18 сен 2026-1",
+          "title": "Из-за своей жадности превращаете приложение",
+          "author": "Виктория",
+          "text": "Из-за своей жадности превращаете приложение в помойку. Кион музыка входит в оплачиваемый тариф МТС, но при этом бесконечная реклама и требование оформить платную подписку. Переустановила несколько раз за последние 2 недели приложение - не помогло, а стало ещё хуже. Рэкет и вымогательство это называется. Наведите порядок в конце концов!",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Неизвестный-18 сен 2026-2",
+          "title": "Нормально",
+          "author": "Неизвестный",
+          "text": "Нормально",
+          "date": "18 сен 2026"
+        },
+        {
+          "id": "Александр-17 сен 2026-3",
+          "title": "Все хорошо работает.",
+          "author": "Александр",
+          "text": "Все хорошо работает.",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Александр-17 сен 2026-4",
+          "title": "Очень хорошее.",
+          "author": "Александр",
+          "text": "Очень хорошее.",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Дмитрий-17 сен 2026-5",
+          "title": "Всё прекрасно в этом плейере.",
+          "author": "Дмитрий",
+          "text": "Всё прекрасно в этом плейере. Есть один недостаток, - иконка лайка в виде жопы.",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Mary-17 сен 2026-6",
+          "title": "Лучшая музыкальная платформа в России",
+          "author": "Mary",
+          "text": "Лучшая музыкальная платформа в России ☝️💪👌👍👍👍👍👍",
+          "date": "17 сен 2026"
+        },
+        {
+          "id": "Stanis-16 сен 2026-7",
+          "title": "Ther gut",
+          "author": "Stanis",
+          "text": "Ther gut",
+          "date": "16 сен 2026"
+        }
+      ]
     },
     {
       "name": "PianoWave",
