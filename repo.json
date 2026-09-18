@@ -9909,7 +9909,7 @@
       ]
     },
     {
-      "name": "Translate",
+      "name": "Яндекс Переводчик",
       "bundleIdentifier": "ru.yandex.mobile.translate.watchkitapp",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.yandex.translate",
