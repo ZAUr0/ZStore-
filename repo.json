@@ -8511,6 +8511,43 @@
           "date": "18 сен 2026"
         }
       ]
+    },
+    {
+      "name": "VeSync",
+      "bundleIdentifier": "com.etekcity.vesyncPlatform.watch",
+      "developerName": "Vesync Technology Corporation",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/VeSync.png",
+      "localizedDescription": "VeSync is your all-in-one app for a smarter, healthier home life. Control smart devices from the VeSync family of brands, build better habits, connect with a like-minded community, and unlock member-only perks.\n\nCONNECT YOUR HOME\nControl and monitor your smart devices from anywhere. Create schedules, customize settings, and get notifications. Optimize comfort and simplify daily routines, all from the app.\n\nCRUSH YOUR GOALS\nTrack health metrics, plan meals, manage your nutrition, and build healthy habits, all designed to help you reach your lifestyle goals.\n\nCHAMPION EACH OTHER \nJoin our community of people building healthier habits together. Discover recipes, wellness tips, and success stories from members around the world. Share your questions and experiences, and get support from others on the same journey.  \n\nCLAIM MEMBERS-ONLY PERKS\nGet access to special offers, discover new products, and earn rewards as a VeSync App member.\n\nHave questions? We're here to help support@vesync.com\n* VeSync is connected to Apple's HealthKit platform, and can now feed health and wellness data into Apple Health.\n* Some products and features may not be available in all regions. Compatible devices required.\n* For the best experience, download the latest version of the app, and make sure your firmware is updated.\n* VeSync Fit has been upgraded to VeSync, we will continue to provide you with a better experience.\n\nMedical Device Jurisdiction Statement:\nWe specifically declare that the medical devices in VeSync are only sold and used within the United States and are governed by U.S. laws. If you are outside the United States, you need to comply with the laws and regulations in your region when using and purchasing medical devices. Please note that we are not responsible for the consequences of use of medical devices outside the United States.\n\nDisclaimer for Medical Device Equipment:\nThe diagnostic results provided by personal medical device equipment in VeSync are for reference purposes only and cannot replace a doctor's diagnosis. Please refrain from taking any treatment measures based on self-measurement results. We strongly recommend that you promptly consult and seek advice from your doctor if you have any questions about the diagnostic results or require treatment guidance. The use of personal medical device equipment should be combined with professional medical services to ensure accurate diagnosis and appropriate treatment. We shall not be held responsible for any consequences arising from failure to consult a doctor or taking action based on self-measurement results.",
+      "subtitle": "VeSync is your all-in-one app for a smarter, healthier home life. Control smart devices from the VeSync family of brands",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://www.vesync.com",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VeSync.ipa",
+          "size": 307932417,
+          "version": "5.9.60",
+          "buildVersion": "12",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "9.0"
+        }
+      ],
+      "version": "5.9.60",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 307932417,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/VeSync.ipa",
+      "rating": 4.84335,
+      "ratingCount": 75155,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/80/44/57804419-648e-7af1-a613-f4855e845e26/app_store_5.5_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/1e/75/3c1e75b4-07fd-e616-d510-528c25cb6549/app_store_5.5_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/0d/da/e70dda80-91ad-0ec7-60f5-278bdfe40547/app_store_5.5_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/9f/f4/3e9ff418-5b24-defb-dafd-16a44f6dad63/app_store_5.5_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/03/81/140381ba-2ef5-a1c3-730c-02dfe3a08e9b/app_store_5.5_05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/83/8d/b7838d3c-b8d0-ea3a-a155-940db90420c1/app_store_5.5_06.png/392x696bb.png"
+      ],
+      "appStoreURL": "https://apps.apple.com/us/app/vesync/id1289575311?uo=4"
     }
   ]
 }
