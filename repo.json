@@ -10860,6 +10860,42 @@
           "date": "15 сен 2026"
         }
       ]
+    },
+    {
+      "name": "Asakabank",
+      "bundleIdentifier": "uz.asakabank.my",
+      "developerName": "Asaka Joint Stock Commercial Bank",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Asakabank.png",
+      "localizedDescription": "Asakabank – это обновленное мобильное приложение для клиентов банка АO «Асакабанк». \n\nКакие функции в приложении:\n- Открытие и ведение карточных счетов, виртуальных карт, электронных кошельков;  \n- Сервис электронных платежей (осуществление операций по оплате товаров и услуг);\n- Переводы средств с карты на карту клиентам  Банка «Асакабанк», а также клиентам других банков;\n- Осуществление конвертации денежных средств;\n- Управление счетами, получение информации об остатках и оборотах по счетам;\n- Оплата и перевод средств по QR коду;\n\n- Оплата за розничные, коммунальные услуги;\n- Оплата за услуги мобильных операторов и интернет-провайдеров;\n\n- Осуществление прочих платежей, настраиваемых с помощью шаблонов операций;\n- Выдача и погашение кредитов;\n- Открытие и ведение депозитных счетов;\n- Блокировка и разблокировка пластиковых карт;\n- Автоплатеж – списание или оплата средств по умолчанию согласно введенным параметрам;\n- Управление семейными картами (установление лимитов по видам операции, по периодам и суммам);\n- Получение банковских объявлений и рассылок;\n- Поиск ближайших филиалов банка;\n- Обратная связь с банком.",
+      "subtitle": "Asakabank – это обновленное мобильное приложение для клиентов банка АO «Асакабанк».",
+      "tintColor": "3C94FC",
+      "category": "finance",
+      "pinnedCategory": "finance",
+      "website": "https://asakabank.uz",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Asakabank.ipa",
+          "size": 116923575,
+          "version": "2.13.63",
+          "buildVersion": "26081719",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "16.6"
+        }
+      ],
+      "version": "2.13.63",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 116923575,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Asakabank.ipa",
+      "rating": 4.63455,
+      "ratingCount": 550,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/c9/b6/edc9b6c8-c3fa-b378-560e-3ec29589fd3b/e8ff7f75-ab64-445b-bc0d-0fc0b63d3751_1.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/a7/05/f8a7052a-b989-95bb-f843-5f00c6a3c304/b718c0ca-e57b-4345-b920-79a7f77cac00_2.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d5/45/f5d5452c-e531-d594-6b77-adaa8c4767c7/06cc0d33-0cba-406c-804b-f6cb8300e7e0_3.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/72/f1/4d72f195-9006-d691-5e1b-5861620e6f8e/a0cf7bfb-fddd-4c92-a3a5-1aeda14c09ec_4.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a2/72/1fa27253-7bf2-9aaa-9920-18c6cfe9e747/a4f312b7-9e5d-4bf8-9f78-3f84dc1d7d26_5.jpg/406x228bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/asakabank/id1574165416?uo=4"
     }
   ]
 }
