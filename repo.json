@@ -11674,6 +11674,106 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/e9/63/b0e963bf-cfa1-ef91-2f66-498262ce5743/5.5-screen-new-07.png/392x696bb.png"
       ],
       "appStoreURL": "https://apps.apple.com/ru/app/kaspi-kz-%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/id1195076505?uo=4"
+    },
+    {
+      "name": "Банк Хлынов",
+      "bundleIdentifier": "ru.digitalelephants.financecalc",
+      "developerName": "АО КБ Хлынов",
+      "rustoreURL": "https://www.rustore.ru/catalog/app/ru.bank_hlynov.xbank",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/KhlynovBank.png",
+      "localizedDescription": "С приложением «Банк Хлынов» управлять деньгами стало еще проще и быстрее. Переводите средства, оплачивайте счета, контролируйте кешбэк и следите за балансом в любое время, где бы вы ни находились.\n\nЧто мы улучшили и что вы можете делать уже сейчас:\n\n— Контроль финансов 24/7. Отслеживайте движение средств по всем картам и счетам в единой ленте операций. История платежей и выписки всегда под рукой.\n\n— Выгодный кешбэк. Проверяйте сумму начисленных бонусов и переводите их на свой счет буквально в пару касаний.\n\n— Оплата услуг без комиссии. Оплачивайте мобильную связь, интернет, ЖКУ и множество других сервисов по QR-коду без лишних переплат.\n\n— Быстрые переводы. Отправляйте деньги в другие банки по номеру карты, телефона или реквизитам счета. Просто, надежно и моментально.\n\n— Управление вкладами онлайн. Открывайте новые вклады по повышенной ставке, пополняйте действующие или закрывайте их без визита в отделение.\n\n— Удобный и безопасный вход. Забудьте о сложных паролях. Для входа используйте короткий PIN-код или вход по отпечатку пальца (Touch ID / Face ID).\n\nПри возникновении вопросов, пожеланий или проблем обращайтесь на почту callcenter@bank-hlynov.ru или по телефону 8 (800) 250-2-777\n\nТак вы помогаете делать Банк Хлынов еще лучше.",
+      "subtitle": "Мобильное приложение «Банк Хлынов»",
+      "tintColor": "3C94FC",
+      "category": "finance",
+      "pinnedCategory": "finance",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KhlynovBank.ipa",
+          "size": 33979455,
+          "version": "1.0.0",
+          "buildVersion": "256",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.8",
+          "localizedDescription": "Внесли небольшие технические улучшения"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 33979455,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KhlynovBank.ipa",
+      "rating": 4.77,
+      "ratingCount": 8041,
+      "downloads": 100000,
+      "downloadsText": "100 тыс +",
+      "versionDescription": "Внесли небольшие технические улучшения",
+      "screenshotURLs": [
+        "https://static.rustore.ru/apk/2308543/content/SCREENSHOT/555ab8dd-b56e-450e-8326-46c325303c9e.jpg",
+        "https://static.rustore.ru/apk/2308543/content/SCREENSHOT/2ed03c78-89c2-4af0-926a-68f501d5cda3.jpg",
+        "https://static.rustore.ru/apk/2308543/content/SCREENSHOT/c7ac8f49-3310-415b-9952-b53a6469515b.jpg",
+        "https://static.rustore.ru/apk/2308543/content/SCREENSHOT/fa6b57bf-eeab-406c-9551-32c574b02eff.jpg",
+        "https://static.rustore.ru/apk/2308543/content/SCREENSHOT/0e3317a7-ba94-434d-bff5-387d73c57328.jpg",
+        "https://static.rustore.ru/apk/2308543/content/SCREENSHOT/8de132a9-e714-4c7a-acd8-bb359217557f.jpg"
+      ],
+      "ageRating": "0+",
+      "website": "https://bank-hlynov.ru/",
+      "reviews": [
+        {
+          "id": "Раисия-16 сен 2026-0",
+          "title": "Не очень удобный",
+          "author": "Раисия",
+          "text": "Не очень удобный",
+          "date": "16 сен 2026"
+        },
+        {
+          "id": "Иван-15 сен 2026-1",
+          "title": "после обновления глючит приходится",
+          "author": "Иван",
+          "text": "после обновления глючит приходится переустонавливать приложение",
+          "date": "15 сен 2026"
+        },
+        {
+          "id": "Оля-15 сен 2026-2",
+          "title": "Очень плохо работает",
+          "author": "Оля",
+          "text": "Очень плохо работает",
+          "date": "15 сен 2026"
+        },
+        {
+          "id": "Наталья-15 сен 2026-3",
+          "title": "Скопируйте у Сбера и не мучайтесь",
+          "author": "Наталья",
+          "text": "Скопируйте у Сбера и не мучайтесь",
+          "date": "15 сен 2026"
+        },
+        {
+          "id": "Анюта-15 сен 2026-4",
+          "title": "Самый худший банк и приложение",
+          "author": "Анюта",
+          "text": "Самый худший банк и приложение",
+          "date": "15 сен 2026"
+        },
+        {
+          "id": "Вадим-14 сен 2026-5",
+          "title": "С каждым обновлением всë хуже и хуже",
+          "author": "Вадим",
+          "text": "С каждым обновлением всë хуже и хуже",
+          "date": "14 сен 2026"
+        },
+        {
+          "id": "Сергей-14 сен 2026-6",
+          "title": "Супер!",
+          "author": "Сергей",
+          "text": "Супер! 👍",
+          "date": "14 сен 2026"
+        },
+        {
+          "id": "Николай-14 сен 2026-7",
+          "title": "Хорошее🙂",
+          "author": "Николай",
+          "text": "Хорошее🙂",
+          "date": "14 сен 2026"
+        }
+      ]
     }
   ]
 }
