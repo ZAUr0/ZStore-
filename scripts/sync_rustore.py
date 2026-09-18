@@ -32,6 +32,17 @@ COMPANY_WEBSITES = {
     "тбанк": "https://www.tbank.ru",
     "tbank": "https://www.tbank.ru",
     "tinkoff": "https://www.tbank.ru",
+    "альфа": "https://alfabank.ru",
+    "втб": "https://www.vtb.ru",
+    "газпромбанк": "https://www.gazprombank.ru",
+    "мтсбанк": "https://www.mtsbank.ru",
+    "псб": "https://www.psbank.ru",
+    "россельхоз": "https://www.rshb.ru",
+    "совкомбанк": "https://sovcombank.ru",
+    "халва": "https://sovcombank.ru",
+    "юmoney": "https://yoomoney.ru",
+    "юмани": "https://yoomoney.ru",
+    "яндекс": "https://bank.yandex.ru",
 }
 
 PRIVACY_PAGES = {
@@ -41,6 +52,17 @@ PRIVACY_PAGES = {
     "тбанк": "https://www.tbank.ru/privacy/",
     "tbank": "https://www.tbank.ru/privacy/",
     "tinkoff": "https://www.tbank.ru/privacy/",
+    "альфа": "https://alfabank.ru/privacy/",
+    "втб": "https://www.vtb.ru/privacy/",
+    "газпромбанк": "https://www.gazprombank.ru/privacy/",
+    "мтсбанк": "https://www.mtsbank.ru/privacy/",
+    "псб": "https://www.psbank.ru/privacy/",
+    "россельхоз": "https://www.rshb.ru/privacy/",
+    "совкомбанк": "https://sovcombank.ru/privacy/",
+    "халва": "https://sovcombank.ru/privacy/",
+    "юmoney": "https://yoomoney.ru/page?id=529434",
+    "юмани": "https://yoomoney.ru/page?id=529434",
+    "яндекс": "https://yandex.ru/legal/confidential/",
 }
 
 PRESERVE = {
@@ -64,6 +86,18 @@ PACKAGE_HINTS = {
     "сбербанк": "ru.sberbankmobile",
     "сбер": "ru.sberbankmobile",
     "sberbank": "ru.sberbankmobile",
+    "альфа": "ru.alfabank.mobile.android",
+    "втб": "ru.vtb24.mobilebanking.android",
+    "газпромбанк": "ru.gazprombank.android.mobilebank.app",
+    "мтс": "ru.lewis.dbo",
+    "псб": "logo.com.mbanking",
+    "россельхоз": "ru.rshb.dbo",
+    "совкомбанк": "ru.sovcomcard.halva.v1",
+    "т-инвестиции": "ru.tinkoff.investing",
+    "тинвестиции": "ru.tinkoff.investing",
+    "юмани": "ru.yoo.money",
+    "yumoney": "ru.yoo.money",
+    "яндекс": "com.yandex.bank",
 }
 
 
