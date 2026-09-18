@@ -8,7 +8,7 @@
   "tintColor": "3C94FC",
   "apps": [
     {
-      "name": "Сбербанк",
+      "name": "Сбер",
       "bundleIdentifier": "com.inv.gen",
       "developerName": "ПАО Сбербанк",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sberbankmobile",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "name": "ВТБ Банк",
+      "name": "ВТБ",
       "bundleIdentifier": "com.sm.FlowTime",
       "developerName": "Банк ВТБ (ПАО)",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.vtb24.mobilebanking.android",
@@ -1338,7 +1338,7 @@
       ]
     },
     {
-      "name": "Альфа-Капитал. Инвестиции",
+      "name": "Альфа-Капитал",
       "bundleIdentifier": "ru.ainvestorschool",
       "developerName": "ООО УК «Альфа-Капитал»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.alfacapital.lk",
@@ -1437,7 +1437,7 @@
       ]
     },
     {
-      "name": "АльфаСтрахование Мобайл",
+      "name": "АльфаСтрахование",
       "bundleIdentifier": "com.itsportliver.health",
       "developerName": "АО «АльфаСтрахование»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.alfastrah.app",
@@ -1639,7 +1639,7 @@
       ]
     },
     {
-      "name": "Яндекс — с Алисой AI",
+      "name": "Яндекс",
       "bundleIdentifier": "ru.yandex.mobile",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.yandex.searchapp",
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "name": "Яндекс Карты и Навигатор",
+      "name": "Яндекс Карты",
       "bundleIdentifier": "ru.yandex.traffic",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.yandex.yandexmaps",
@@ -1948,7 +1948,7 @@
       ]
     },
     {
-      "name": "Яндекс Go: Такси, Еда, Маркет, Самокаты, Доставка",
+      "name": "Яндекс Go",
       "bundleIdentifier": "ru.yandex.ytaxi",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.yandex.taxi",
@@ -2051,7 +2051,7 @@
       ]
     },
     {
-      "name": "Яндекс Браузер с Алисой AI",
+      "name": "Яндекс Браузер",
       "bundleIdentifier": "ru.yandex.mobile.search",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.yandex.browser",
@@ -2155,7 +2155,7 @@
       ]
     },
     {
-      "name": "Яндекс Диск — облако для фото",
+      "name": "Яндекс Диск",
       "bundleIdentifier": "ru.yandex.disk",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.yandex.disk",
@@ -2258,7 +2258,7 @@
       ]
     },
     {
-      "name": "Яндекс Маркет: онлайн-магазин",
+      "name": "Яндекс Маркет",
       "bundleIdentifier": "ru.yandex.blue.market",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.beru.android",
@@ -2359,7 +2359,7 @@
       ]
     },
     {
-      "name": "Яндекс Драйв — каршеринг",
+      "name": "Яндекс Драйв",
       "bundleIdentifier": "ru.yandex.mobile.drive",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.yandex.mobile.drive",
@@ -2757,7 +2757,7 @@
       ]
     },
     {
-      "name": "Яндекс Почта: умная электронная почта, облако",
+      "name": "Яндекс Почта",
       "bundleIdentifier": "ru.yandex.mail",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.yandex.mail",
@@ -2861,7 +2861,7 @@
       ]
     },
     {
-      "name": "Яндекс Банк",
+      "name": "Яндекс Пэй",
       "bundleIdentifier": "com.yandex.fintech.bank-app",
       "developerName": "ООО \"ЯНДЕКС\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.yandex.bank",
@@ -3064,7 +3064,7 @@
       ]
     },
     {
-      "name": "WhatsApp Messenger",
+      "name": "WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "WhatsApp Inc.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/WhatsApp.png",
@@ -3237,7 +3237,7 @@
       ]
     },
     {
-      "name": "VK Мессенджер: общение и звонки, контакты и чаты",
+      "name": "VK Мессенджер",
       "bundleIdentifier": "com.vk.vkme",
       "developerName": "VK",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.vk.im",
@@ -3338,7 +3338,7 @@
       ]
     },
     {
-      "name": "VK WorkSpace для бизнеса",
+      "name": "VK WorkSpace",
       "bundleIdentifier": "ru.mail.messenger-biz-avocado",
       "developerName": "VK",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mail.biz.avocado",
@@ -3439,7 +3439,7 @@
       ]
     },
     {
-      "name": "VK Музыка: аудиокниги, песни, подкасты",
+      "name": "VK Музыка",
       "bundleIdentifier": "com.music.vk",
       "developerName": "VK",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.uma.musicvk",
@@ -3542,7 +3542,7 @@
       ]
     },
     {
-      "name": "TikTok(ТикТок)",
+      "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically13r",
       "developerName": "TikTok Ltd.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/TikTok.png",
@@ -3716,7 +3716,7 @@
       "pinnedCategory": "finance"
     },
     {
-      "name": "Газпромбанк Инвестиции — брокер",
+      "name": "Газпромбанк Инвестиции",
       "bundleIdentifier": "ru.billfo.mobile",
       "developerName": "Общество с ограниченной ответственностью \"Ньютон Инвестиции\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.gazprombank.invest",
@@ -4319,7 +4319,7 @@
       ]
     },
     {
-      "name": "WB TAXI: сервис заказа такси",
+      "name": "WB TAXI",
       "bundleIdentifier": "uz.wildberries.taxi.client",
       "developerName": "WB FZE",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/WBTaxi.png",
@@ -4353,7 +4353,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/wb-taxi-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0-%D1%82%D0%B0%D0%BA%D1%81%D0%B8/id6755240054?uo=4"
     },
     {
-      "name": "OZON: товары, одежда, билеты",
+      "name": "OZON",
       "bundleIdentifier": "ru.ozon.OzonStore",
       "developerName": "ООО \"Интернет Решения\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.ozon.app.android",
@@ -4453,7 +4453,7 @@
       ]
     },
     {
-      "name": "Ozon Банк: выгодные покупки",
+      "name": "Ozon Банк",
       "bundleIdentifier": "ru.ozon.fintech.finance",
       "developerName": "ООО \"Интернет Решения\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.ozon.fintech.finance",
@@ -4554,7 +4554,7 @@
       ]
     },
     {
-      "name": "Авито – путешествия, работа, услуги, авто",
+      "name": "Авито",
       "bundleIdentifier": "online.anero.app",
       "developerName": "ООО \"КЕХ еКоммерц\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.avito.android",
@@ -4757,7 +4757,7 @@
       ]
     },
     {
-      "name": "Общайтесь и играйте с Discord",
+      "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Discord Inc.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Discord.png",
@@ -4871,7 +4871,7 @@
       "appStoreURL": "https://apps.apple.com/us/app/netflix/id363590051?uo=4"
     },
     {
-      "name": "RuTube",
+      "name": "RUTUBE",
       "bundleIdentifier": "com.slicingdice.game",
       "developerName": "ООО \"РУФОРМ\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.rutube.app",
@@ -4972,7 +4972,7 @@
       ]
     },
     {
-      "name": "Rakuten Viber Messenger",
+      "name": "Viber",
       "bundleIdentifier": "com.viber",
       "developerName": "Viber Media SARL.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Viber.png",
@@ -5146,7 +5146,7 @@
       ]
     },
     {
-      "name": "S7 Airlines: ваши путешествия",
+      "name": "S7 Airlines",
       "bundleIdentifier": "ru.pyanzin.siberia",
       "developerName": "ООО «С 7 Трэвел Ритэйл».",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.s7.android",
@@ -5247,7 +5247,7 @@
       ]
     },
     {
-      "name": "«РЖД Пассажирам»: билеты на поезд",
+      "name": "РЖД Пассажирам",
       "bundleIdentifier": "ru.dorogi20260609.passenger",
       "developerName": "ОАО \"РЖД\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.rzd.pass",
@@ -5346,7 +5346,7 @@
       ]
     },
     {
-      "name": "СДЭК: Доставка и Шопинг",
+      "name": "СДЭК",
       "bundleIdentifier": "com.cdek.cdekapp",
       "developerName": "CDEK Digital",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.logistic.sdek",
@@ -5955,7 +5955,7 @@
       ]
     },
     {
-      "name": "Yota: мобильная связь",
+      "name": "Yota",
       "bundleIdentifier": "ru.yota.selfcare",
       "developerName": "ООО \"Скартел\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.yota.android",
@@ -6361,7 +6361,7 @@
       "pinnedCategory": "finance"
     },
     {
-      "name": "Райффайзен Онлайн Банк Россия",
+      "name": "Райффайзен",
       "bundleIdentifier": "ru.raiffeisenbank.rconnect",
       "developerName": "АО «Райффайзенбанк»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.raiffeisennews",
@@ -6462,7 +6462,7 @@
       ]
     },
     {
-      "name": "Уралсиб Онлайн",
+      "name": "Уралсиб",
       "bundleIdentifier": "rom.dacianaStoica.priceDream",
       "developerName": "Банк Уралсиб",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.bankuralsib.mb.android",
@@ -6562,7 +6562,7 @@
       ]
     },
     {
-      "name": "Ак Барс Онлайн",
+      "name": "Ак Барс",
       "bundleIdentifier": "all.included.bolvanka",
       "developerName": "AK BARS Bank",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.akbars.mobile",
@@ -6663,7 +6663,7 @@
       ]
     },
     {
-      "name": "МКБ Онлайн",
+      "name": "МКБ",
       "bundleIdentifier": "com.tunermetronome.avrildavidson.com",
       "developerName": "ПАО «МОСКОВСКИЙ КРЕДИТНЫЙ БАНК»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mkb.mobile",
@@ -6763,7 +6763,7 @@
       ]
     },
     {
-      "name": "Русский Стандарт Онлайн",
+      "name": "Русский Стандарт",
       "bundleIdentifier": "ge.kk.bestreminders",
       "developerName": "Банк Русский Стандарт",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.simpls.brs2.mobbank",
@@ -7169,7 +7169,7 @@
       ]
     },
     {
-      "name": "УБРиР Мобильный банк",
+      "name": "УБРиР",
       "bundleIdentifier": "ru.coinsplit.m",
       "developerName": "ПАО КБ \"Уральский банк реконструкции и развития\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/cb.ibank",
@@ -7269,7 +7269,7 @@
       ]
     },
     {
-      "name": "НОВИКОМ",
+      "name": "Новиком",
       "bundleIdentifier": "ru.pro-zdorovye",
       "developerName": "АО АКБ «НОВИКОМБАНК»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.bssys.novikomretail",
@@ -7472,7 +7472,7 @@
       ]
     },
     {
-      "name": "Зенит Онлайн",
+      "name": "Зенит",
       "bundleIdentifier": "com.mysavespot.app",
       "developerName": "ПАО Банк ЗЕНИТ",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.zenitonline.android",
@@ -7571,7 +7571,7 @@
       ]
     },
     {
-      "name": "Модульбанк — банк для вашего бизнеса",
+      "name": "Модульбанк",
       "bundleIdentifier": "COFFEE.MOOD",
       "developerName": "Modulbank",
       "rustoreURL": "https://www.rustore.ru/catalog/app/modulbank.ru.app",
@@ -7969,7 +7969,7 @@
       ]
     },
     {
-      "name": "СНГБ Онлайн",
+      "name": "СНГБ",
       "bundleIdentifier": "BlueBR",
       "developerName": "АО БАНК \"СНГБ\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sngb.dbo.client.android",
@@ -8170,7 +8170,7 @@
       ]
     },
     {
-      "name": "Kaspi.kz суперприложение",
+      "name": "Kaspi.kz",
       "bundleIdentifier": "kz.kaspi.mobile",
       "developerName": "Kaspi Bank АО",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Kaspikz.png",
@@ -8208,7 +8208,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/kaspi-kz-%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/id1195076505?uo=4"
     },
     {
-      "name": "Hamkor・онлайн банк Узбекистана",
+      "name": "Hamkor",
       "bundleIdentifier": "com.hamkorbank.mobile",
       "developerName": "АКБ \"Хамкорбанк\"",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Hamkor.png",
@@ -8283,7 +8283,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/asakabank/id1574165416?uo=4"
     },
     {
-      "name": "ОТП Банк Онлайн",
+      "name": "ОТП Банк",
       "bundleIdentifier": "ru.otpbank.mobile",
       "developerName": "АО ОТП Банк",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.otpbank.mobile",
@@ -8385,7 +8385,7 @@
       ]
     },
     {
-      "name": "Финуслуги. Вклады, займы, инвестиции, кредиты",
+      "name": "Финуслуги",
       "bundleIdentifier": "com.habits.MyHabitTrack",
       "developerName": "ПАО \"Московская Биржа\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.moex.finuslugi",
@@ -8585,7 +8585,7 @@
       "pinnedCategory": "finance"
     },
     {
-      "name": "Кошелёк: карты, скидки, бонусы",
+      "name": "Кошелёк",
       "bundleIdentifier": "ru.cardsmobile.wallet",
       "developerName": "ООО «Бесконтакт»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.cardsmobile.mw3",
@@ -8685,7 +8685,7 @@
       ]
     },
     {
-      "name": "Korona – денежные переводы, займы",
+      "name": "Корона",
       "bundleIdentifier": "ru.ftc.zk.dp.qpay-mobile-app-pub",
       "developerName": "Korona",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.tsk.ftc.bender.qpay",
@@ -8784,7 +8784,7 @@
       ]
     },
     {
-      "name": "Qplus — электронный кошелёк",
+      "name": "Qplus",
       "bundleIdentifier": "ru.qiwi.QIWI",
       "developerName": "АО «КИВИ»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mw",
@@ -8981,7 +8981,7 @@
       ]
     },
     {
-      "name": "Бланк для бизнеса",
+      "name": "Бланк",
       "bundleIdentifier": "ru.montblanc.mobile",
       "developerName": "ООО \"Бланк Банк\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.blanc.business",
@@ -9080,7 +9080,7 @@
       ]
     },
     {
-      "name": "Финансы - бюджет, расходы",
+      "name": "Финансы",
       "bundleIdentifier": "ru.innim.myFinance",
       "developerName": "ООО \"Инним\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.innim.my_finance",
@@ -9177,7 +9177,7 @@
       ]
     },
     {
-      "name": "СОГАЗ – здоровье и страхование",
+      "name": "СОГАЗ",
       "bundleIdentifier": "kz.origon.empapp",
       "developerName": "АО \"СОГАЗ\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sogaz.app",
@@ -9476,7 +9476,7 @@
       ]
     },
     {
-      "name": "AliExpress: интернет-магазин",
+      "name": "AliExpress",
       "bundleIdentifier": "ru.aliexpress.buyer",
       "developerName": "ALIEXPRESS CIS HOLDING PTE. LTD.",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.aliexpress.buyer",
@@ -9576,7 +9576,7 @@
       ]
     },
     {
-      "name": "Домклик. Ипотека, недвижимость",
+      "name": "Домклик",
       "bundleIdentifier": "com.bageologyapp",
       "developerName": "ООО \"Домклик\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.domclick.mortgage",
@@ -9978,7 +9978,7 @@
       ]
     },
     {
-      "name": "Автотека: проверка авто по VIN",
+      "name": "Автотека",
       "bundleIdentifier": "ru.abd.autoteka.application",
       "developerName": "ООО \"Автомобильная база данных\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.autoteka.app",
@@ -10178,7 +10178,7 @@
       ]
     },
     {
-      "name": "Моя Москва — приложение mos.ru",
+      "name": "Моя Москва",
       "bundleIdentifier": "ru.mos.mobile.application",
       "developerName": "Информационный город ГКУ",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mos.app",
@@ -10315,7 +10315,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/%D1%80%D0%B8%D1%86-%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82/id6446702848?uo=4"
     },
     {
-      "name": "РосМигрант – Помощник мигранта",
+      "name": "РосМигрант",
       "bundleIdentifier": "online.rosmigrant.mobile",
       "developerName": "ООО \"Мигрант Сервис\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/rosmigrant.online.app",
@@ -10712,7 +10712,7 @@
       ]
     },
     {
-      "name": "Купер・доставка еды и продуктов",
+      "name": "Купер",
       "bundleIdentifier": "ru.insttek.kuperapp",
       "developerName": "Купер",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.instamart",
@@ -10813,7 +10813,7 @@
       ]
     },
     {
-      "name": "Пятёрочка: доставка продуктов",
+      "name": "Пятёрочка",
       "bundleIdentifier": "ru.5ka.browser.app",
       "developerName": "ООО «ИТ ИКС 5 Технологии»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.pyaterochka.app.browser",
@@ -10912,7 +10912,7 @@
       ]
     },
     {
-      "name": "Лента Онлайн — Заказ продуктов",
+      "name": "Лента Онлайн",
       "bundleIdentifier": "com.timofeykozuylichev.legko",
       "developerName": "ООО \"Лента\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.lenta.lentochka",
@@ -11009,7 +11009,7 @@
       ]
     },
     {
-      "name": "Еда и точка.",
+      "name": "Еда и точка",
       "bundleIdentifier": "ru.quickresto.loyalty.edaitochka",
       "developerName": "Quick Resto Market",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/EdaITochka.png",
@@ -11043,7 +11043,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/%D0%B5%D0%B4%D0%B0-%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B0/id1527538310?uo=4"
     },
     {
-      "name": "О'КЕЙ Гипермаркеты и доставка",
+      "name": "О'КЕЙ",
       "bundleIdentifier": "ru.surf.okey",
       "developerName": "О'КЕЙ",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.reksoft.okey",
@@ -11143,7 +11143,7 @@
       ]
     },
     {
-      "name": "АЗС «Газпромнефть»",
+      "name": "АЗС Газпромнефть",
       "bundleIdentifier": "ru.ideast.GazpromAZS-iOS",
       "developerName": "ГПН-Региональные продажи",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.gpn.azs",
@@ -11477,7 +11477,7 @@
       "appStoreURL": "https://apps.apple.com/us/app/tesla/id582007913?uo=4"
     },
     {
-      "name": "Radarbot: Детектор радаров",
+      "name": "Radarbot",
       "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
       "developerName": "Iteration Mobile S.L",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RadarBot.png",
@@ -11517,7 +11517,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/radarbot-%D0%B0%D0%BD%D1%82%D0%B8%D1%80%D0%B0%D0%B4%D0%B0%D1%80-%D0%B8-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80/id1099797635?uo=4"
     },
     {
-      "name": "ПДД.ру: Билеты и Экзамен 2026",
+      "name": "ПДД.ру",
       "bundleIdentifier": "ru.Semyon.PddApp",
       "developerName": "Semen Abramenko",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/TrafficRules.png",
@@ -11554,7 +11554,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/%D0%BF%D0%B4%D0%B4-%D1%80%D1%83-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-%D0%B8-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-2026/id1392936962?uo=4"
     },
     {
-      "name": "Duolingo: уроки иностранного",
+      "name": "Duolingo",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Duolingo.png",
@@ -11662,7 +11662,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/garageband/id408709785?uo=4"
     },
     {
-      "name": "Picsart: редактор фото и видео",
+      "name": "Picsart",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Picsart.png",
@@ -11703,7 +11703,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/picsart-ai-%D1%84%D0%BE%D1%82%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/id587366035?uo=4"
     },
     {
-      "name": "Remini – Улучшитель Фото",
+      "name": "Remini",
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "developerName": "Bending Spoons Apps ApS",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Remini.png",
@@ -11743,7 +11743,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/remini-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%84%D0%BE%D1%82%D0%BE/id1470373330?uo=4"
     },
     {
-      "name": "Facetune: AI Face Photo Editor",
+      "name": "Facetune",
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Facetune.png",
@@ -11867,7 +11867,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/kinemaster-%D0%B8%D0%B8-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/id1609369954?uo=4"
     },
     {
-      "name": "Photoleap: Photo Editor/AI Art",
+      "name": "Photoleap",
       "bundleIdentifier": "com.lightricks.Enlight-Editor",
       "developerName": "Lightricks Ltd.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Photoleap.png",
@@ -12062,7 +12062,7 @@
       "appStoreURL": "https://apps.apple.com/us/app/vesync/id1289575311?uo=4"
     },
     {
-      "name": "СвоеРодное: доставка продуктов",
+      "name": "СвоеРодное",
       "bundleIdentifier": "com.housefair.app",
       "developerName": "АО «Россельхозбанк»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.rshb.svoe_rodnoe",
@@ -12165,7 +12165,7 @@
       ]
     },
     {
-      "name": "Заря: работа водителем",
+      "name": "Заря",
       "bundleIdentifier": "com.zarya.idriver",
       "developerName": "Сервис Заря",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.zarya.driver",
@@ -12605,7 +12605,7 @@
       ]
     },
     {
-      "name": "AI-помощник в чате — ChatOne",
+      "name": "ChatOne",
       "bundleIdentifier": "com.dreamaichatbot.dreameai",
       "developerName": "DeepGronk AI LLC",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/ChatOne.png",
@@ -12643,7 +12643,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/ai-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA-%D0%B2-%D1%87%D0%B0%D1%82%D0%B5-chatone/id6642630027?uo=4"
     },
     {
-      "name": "PureStatus: ByeBye Blur Status",
+      "name": "PureStatus",
       "bundleIdentifier": "com.damtechdesigns.wa.story",
       "developerName": "DamTech Designs",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/PureStatus.png",
@@ -12842,7 +12842,7 @@
       ]
     },
     {
-      "name": "Почта Mail.ru",
+      "name": "Mail",
       "bundleIdentifier": "ru.mail.mail",
       "developerName": "VK",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/%D0%9F%D0%BE%D1%87%D1%82%D0%B0%20Mail.ru.png",
@@ -12945,7 +12945,7 @@
       ]
     },
     {
-      "name": "Radio Record: Dance Music",
+      "name": "Radio Record",
       "bundleIdentifier": "com.cronos.recordplayer",
       "developerName": "Radio Record, ZAO",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RadioRecord.png",
@@ -12984,7 +12984,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/radio-record-dance-music/id396869519?uo=4"
     },
     {
-      "name": "КИОН Музыка: песни, подкасты",
+      "name": "КИОН Музыка",
       "bundleIdentifier": "ru.mts.mobile.music",
       "developerName": "ПАО МТС",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.mts.music.android",
@@ -13082,7 +13082,7 @@
       ]
     },
     {
-      "name": "Persona: Бьюти-камера",
+      "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Persona.png",
@@ -13291,7 +13291,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/roblox/id431946152?uo=4"
     },
     {
-      "name": "Okko: фильмы, сериалы, спорт, тв",
+      "name": "Okko",
       "bundleIdentifier": "ru.more.yotaplay",
       "developerName": "Okko LLC",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.more.play",
@@ -13430,7 +13430,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/pianowave/id6773297506?uo=4"
     },
     {
-      "name": "Герои Меча и Магии 3: Башни ТД",
+      "name": "Герои Меча и Магии 3",
       "bundleIdentifier": "com.robinblood.tdmm",
       "developerName": "SingApp",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/HeroesOfMight.png",
