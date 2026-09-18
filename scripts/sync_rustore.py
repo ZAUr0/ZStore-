@@ -47,6 +47,18 @@ COMPANY_WEBSITES = {
     "rutube": "https://rutube.ru",
     "макс": "https://max.ru",
     "дзен": "https://dzen.ru",
+    "ok знакомства": "https://ok.ru",
+    "одноклассники": "https://ok.ru",
+    "ok": "https://ok.ru",
+    "vk видео": "https://vkvideo.ru",
+    "vk знакомства": "https://dating.vk.com",
+    "vk игры": "https://vkplay.ru",
+    "vk mail": "https://mail.ru",
+    "vk почта": "https://mail.ru",
+    "почта mail": "https://mail.ru",
+    "маруся": "https://marusia.mail.ru",
+    "юла": "https://youla.ru",
+    "vk": "https://vk.com",
 }
 
 PRIVACY_PAGES = {
@@ -71,6 +83,18 @@ PRIVACY_PAGES = {
     "rutube": "https://rutube.ru/info/privacy",
     "макс": "https://max.ru/legal/privacy",
     "дзен": "https://dzen.ru/legal/ru/confidential/index.html",
+    "ok знакомства": "https://ok.ru/privacy",
+    "одноклассники": "https://ok.ru/privacy",
+    "ok": "https://ok.ru/privacy",
+    "vk видео": "https://vkvideo.ru/legal/privacy",
+    "vk знакомства": "https://dating.vk.com/legal/privacy/",
+    "vk игры": "https://documentation.vkplay.ru/terms_vkp/privacy_vkp",
+    "vk mail": "https://help.mail.ru/legal/terms/mail/privacy/",
+    "vk почта": "https://help.mail.ru/legal/terms/mail/privacy/",
+    "почта mail": "https://help.mail.ru/legal/terms/mail/privacy/",
+    "маруся": "https://help.mail.ru/legal/terms/marusia/privacy",
+    "юла": "https://help.mail.ru/legal/terms/youla/privacy/",
+    "vk": "https://vk.com/privacy",
 }
 
 PRESERVE = {
@@ -111,6 +135,17 @@ PACKAGE_HINTS = {
     "макс": "ru.oneme.app",
     "дзен": "ru.zen.android",
     "yandex.mobile.zen": "ru.zen.android",
+    "одноклассники": "ru.ok.android",
+    "vk видео": "com.vk.vkvideo",
+    "vk знакомства": "com.vk.love",
+    "vk игры": "com.my.mygamesapp",
+    "vk mail": "com.vk.mail",
+    "vk почта": "com.vk.mail",
+    "почта mail": "ru.mail.mailapp",
+    "маруся": "ru.mail.search.electroscope",
+    "юла": "com.allgoritm.youla",
+    "vk": "com.vkontakte.android",
+    "ok": "ru.ok.android",
 }
 
 
