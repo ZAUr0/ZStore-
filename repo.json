@@ -8371,6 +8371,43 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/de/c0/64dec0c3-c799-d6be-4fbb-8dbcd99be363/bd1d5c68-932c-46da-a6e8-985ad79f2e6e_5-iphone8plus.png/392x696bb.png"
       ],
       "appStoreURL": "https://apps.apple.com/us/app/tesla/id582007913?uo=4"
+    },
+    {
+      "name": "ПДД.ру: Билеты и Экзамен 2026",
+      "bundleIdentifier": "ru.Semyon.PddApp",
+      "developerName": "Semen Abramenko",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/TrafficRules.png",
+      "localizedDescription": "Официальные билеты ПДД 2026 — готовьтесь к экзамену легко!\n\nСамый удобный и полный тренажер ПДД, созданный для тех, кто хочет сдать экзамен в ГИБДД с первого раза. Приложение включает актуальные билеты 2026 года, официальные вопросы и подробные разборы — всё, что нужно для уверенной подготовки.\n\nПочему выбирают это приложение:\n\n• Актуальная база ПДД 2026 — вопросы полностью соответствуют официальным билетам ГИБДД.\n• Подробные комментарии — простые объяснения каждого вопроса для быстрого понимания правил.\n• Экзамен в формате ГИБДД — тренировка с таймером и условиями, максимально близкими к реальным.\n• Удобные учебные режимы: по билетам, по темам, марафон из 800 вопросов.\n• Работа над ошибками — повторяйте только те вопросы, которые вызывают сложности.\n• Избранное — сохраняйте важные вопросы для быстрого доступа.\n• Подробная статистика — отслеживайте прогресс по темам, билетам и точности ответов.\n• Полезные функции: увеличение изображений, ночная тема, поддержка виджетов iOS.\n\nКому подойдет приложение:\nБудущим водителям, готовящимся к экзамену в ГИБДД.\nТем, кто хочет быстро освежить знания ПДД 2026 года.\nПреподавателям автошкол для работы со студентами.\n\nПодписка:\nДоступны варианты на 3 месяца и 1 год. Подписка открывает расширенные возможности и помогает готовиться максимально эффективно.\n\nВнутри приложения:\nВсе 40 официальных билетов 2026 года с комментариями, иллюстрациями и удобным интерфейсом для ежедневной подготовки.\n\nУсловия использования: https://drive.google.com/file/d/1ZSvKl052ZWJSv8XsoxIXBpKp55KuHUbU/view\nПолитика конфиденциальности: https://drive.google.com/file/d/1YoOa2SaPb7RM-Kr5HrTq5g6xfMsVD_uf/view",
+      "subtitle": "Официальные билеты ПДД 2026 — готовьтесь к экзамену легко!",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://pdd.ru/app-ads.txt",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/TrafficRules.ipa",
+          "size": 139082174,
+          "version": "1.2.84",
+          "buildVersion": "1",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.2.84",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 139082174,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/TrafficRules.ipa",
+      "rating": 4.86336,
+      "ratingCount": 63480,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/47/80/6c478078-098c-8b45-8b02-8a0f1080cb05/Frame_24.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/00/44/d10044f0-43bc-e0b8-c83d-a9f0de58621c/01.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/fb/88/1dfb8802-39e9-852c-e031-9a7e2ff56195/05.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/e8/af/fae8af3d-7346-c9ed-9d6a-4e6594e8b92d/02.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/98/41/51984179-c027-cc80-f365-40b23ce3163f/04.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/02/00/51020026-cefc-9ffc-ac97-f329fb452d92/03.png/1242x2688bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/%D0%BF%D0%B4%D0%B4-%D1%80%D1%83-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-%D0%B8-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-2026/id1392936962?uo=4"
     }
   ]
 }
