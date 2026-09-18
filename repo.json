@@ -7406,6 +7406,45 @@
       ],
       "website": "http://www.radarbot.com",
       "appStoreURL": "https://apps.apple.com/ru/app/radarbot-%D0%B0%D0%BD%D1%82%D0%B8%D1%80%D0%B0%D0%B4%D0%B0%D1%80-%D0%B8-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80/id1099797635?uo=4"
+    },
+    {
+      "name": "Radio Record: Dance Music",
+      "bundleIdentifier": "com.cronos.recordplayer",
+      "developerName": "Radio Record, ZAO",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RadioRecord.png",
+      "localizedDescription": "Официальное приложение первой танцевальной радиостанции России \n\n- удобный интерфейс с выбором цветовой схемы;\n- 100+ радиоканалов;\n- синхронизация избранного между устройствами;\n- подписка на подкасты с уведомлениями о новых выпусках;\n- чат со студией с голосовыми сообщениями;\n- поиск по радиоканалам и подкастам;\n- выбор каналов по стилям и темам;\n- встроенный будильник и таймер сна;\n- личный кабинет;\n- поиск треков в популярных музыкальных сервисах;\n- билеты на события Рекорда без наценки.\n\nПри подтверждении покупки оплата произойдет со счета, привязанного к вашему Apple ID. Подписка будет продлена автоматически в течение 24 часов до окончания текущего периода на срок, аналогичный предыдущему. Отключение автопродления на следующий период возможно не позднее, чем за 24 часа до окончания текущего периода. Неиспользованная часть бесплатного пробного периода аннулируется после приобретения подписки.\nВы можете управлять подпиской или отключить автопродление в разделе \"Настройки - Apple ID - Подписки\".\n\nЛицензионное соглашение: https://www.radiorecord.ru/static/agreement\nПолитика конфиденциальности: https://www.radiorecord.ru/static/policy",
+      "subtitle": "Официальное приложение первой танцевальной радиостанции России",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "http://www.radiorecord.ru/",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RadioRecord.ipa",
+          "size": 70566154,
+          "version": "2.7.5",
+          "buildVersion": "2",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "2.7.5",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 70566154,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RadioRecord.ipa",
+      "rating": 4.82749,
+      "ratingCount": 226180,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/2b/db/bc2bdb28-d52f-0795-4092-89ea35ba593c/8ef62c44-d3fb-46fe-92ed-9504a1da6bb1_1242x2208_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/14/19/891419b8-b587-2f7c-b608-bf792cc35990/b67e882e-36a2-48fe-b626-75cd8e8fc840_1242x2208_8.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/e2/02/1be202e8-81f2-65f9-f915-cf42c9fdd719/cc9dd7a2-4960-4d2d-b646-8c345dcee767_1242x2208_1-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/3b/6f/af3b6f67-7135-1de5-1d9d-6d75817117c9/865358c7-b235-4c8b-83a0-fb02efdb7a35_1242x2208_1-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/88/be/9688be7e-46a7-e6f1-c8f8-223eb35e3ca0/81650aae-4380-422d-9145-7807caf552d7_1242x2208_1-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/bd/45/bbbd45a5-fed3-d9be-b293-bcd4b77aae69/82656b10-d6ff-4ffa-a7d0-146dcc0e1c3d_1242x2208_1-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/52/55/0e5255a4-dab8-d58f-6624-791d9e9afaac/ce12bd3c-ddae-4bbf-8ce1-6f24f7607fb4_1242x2208_1-6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d3/0b/d7d30b21-f693-978d-6a37-359fdcf7b4be/5064f496-6ad2-4760-943e-b5baf48b7575_1242x2208_1-4.png/392x696bb.png"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/radio-record-dance-music/id396869519?uo=4"
     }
   ]
 }
