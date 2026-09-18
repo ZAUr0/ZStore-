@@ -2910,6 +2910,45 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/53/b6/2953b6e5-3b04-bcfe-839d-9b3bea691374/Hero_Image__U0028for_Apple_store_U0029_Server__U0028no_members_list_U0029_1242x2208_EN.png/392x696bb.png"
       ],
       "appStoreURL": "https://apps.apple.com/ru/app/%D0%BE%D0%B1%D1%89%D0%B0%D0%B9%D1%82%D0%B5%D1%81%D1%8C-%D0%B8-%D0%B8%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B5-%D1%81-discord/id985746746?uo=4"
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Instagram.png",
+      "localizedDescription": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "subtitle": "Little moments lead to big friendships. Share yours on Instagram.",
+      "tintColor": "3C94FC",
+      "category": "social",
+      "pinnedCategory": "social",
+      "website": "http://instagram.com/",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Instagram.ipa",
+          "size": 317693649,
+          "version": "445.0.0",
+          "buildVersion": "999999999999",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "16.3"
+        }
+      ],
+      "version": "445.0.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 317693649,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Instagram.ipa",
+      "rating": 4.69062,
+      "ratingCount": 29495913,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/e2/8b/50e28b44-daa5-7101-6fb6-2d0e10fc72f3/1_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a5/33/4da53369-3dce-b9b4-2a0c-1c6957dd40c4/1_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/38/e1/1038e1c7-751f-c4ea-39b9-d9f4d08fc08d/2_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/d0/6d/d4d06d20-f442-2b7c-8a4e-24d427542910/3_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/2e/23/c22e2319-6907-e41e-55dd-34e074b2a3f3/4_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/a4/32/fca432b3-6ad8-604b-ed2e-9081ce0d5cf3/5_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/d2/d2/d6d2d26a-687e-8c04-e42c-ae1b9f67bc74/6_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/8b/82/ba8b8222-27f6-42a7-dae5-0dfba160809e/7_iOS_5.5.jpg/392x696bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/us/app/instagram/id389801252?uo=4"
     }
   ]
 }
