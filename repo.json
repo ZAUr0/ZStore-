@@ -2738,6 +2738,43 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/9a/20/089a205b-a1d5-2b88-a490-b9f1553cc082/PromoCard-5_1242x2688.png/1242x2688bb.jpg"
       ],
       "appStoreURL": "https://apps.apple.com/ru/app/pianowave/id6773297506?uo=4"
+    },
+    {
+      "name": "Roblox",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "Roblox Corporation",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Roblox.png",
+      "localizedDescription": "ROBLOX — МИЛЛИОНЫ ИГР САМЫХ РАЗНЫХ ЖАНРОВ. ИГРАЙТЕ БЕСПЛАТНО!\n\nВ Roblox найдутся игры на любой вкус! Участвуйте в захватывающих гонках, сражайтесь в тактических шутерах или испытайте себя в режимах на выживание. Исследуйте захватывающие RPG-миры, стройте огромные империи в экономических симуляторах и пробуйте новые хорроры, аниме и спортивные игры вместе с друзьями по всему миру.\n\nВ Roblox постоянно появляются уникальные проекты и высококачественные игры от мирового сообщества разработчиков — от крупных студий до независимых авторов. Каждый день вас ждет что-то новое!\n\nОткройте самые популярные игры Roblox: Dress to Impress, RIVALS, Steal a Brainrot, Brookhaven RP, «Забери меня к себе!» и не только.\n\nЧТО МОЖНО ДЕЛАТЬ В ROBLOX?\n\nИГРАТЬ В МНОГОПОЛЬЗОВАТЕЛЬСКИЕ ИГРЫ\n— Миры RPG, реалистичные симуляторы, динамичные приключения и другие жанры.\n— Каждый день вас ждут популярные проекты и новые игры.\n— Вы можете сражаться в масштабных многопользовательских битвах, управлять собственным виртуальным бизнесом или отправиться на захватывающие подвиги.\n— Игры могут предлагать дополнительные внутриигровые покупки, включая лутбоксы и другие предметы.\n\nСОЗДАТЬ СОБСТВЕННЫЙ АВАТАР\n— Подбирайте одежду, аксессуары и реалистичные прически.\n— Исследуйте огромный выбор 3D-предметов для аватара от сообщества в Marketplace.\n— Выражайте себя с помощью уникальных эмоций и стильных образов.\n\nОБЩАТЬСЯ, СОРЕВНОВАТЬСЯ И ИССЛЕДОВАТЬ МИР ВМЕСТЕ — ГДЕ И КОГДА УГОДНО\n— Общайтесь и играйте с друзьями в кроссплатформенных играх на телефонах, планшетах, ПК, консолях и VR-гарнитурах.\n— Вступайте в команду и играйте вместе.\n— После подтверждения возраста становятся доступны голосовой и текстовый чаты в реальном времени.\n\nСОЗДАВАТЬ, ИГРАТЬ И ДЕЛИТЬСЯ СВОИМИ ПРОЕКТАМИ В ROBLOX\n— Создавайте качественные игры и виртуальные миры с помощью Roblox Studio на Windows и Mac.\n— Публикуйте свои проекты и становитесь частью международного сообщества авторов.\n— Погружайтесь в увлекательные 3D-миры и комфортную среду, созданную для игроков любого возраста.\n— Наслаждайтесь постоянным потоком нового контента и делитесь своими творениями с миллионами игроков.\n\nБОЛЬШЕ ВОЗМОЖНОСТЕЙ С ROBLOX PLUS\n— Получайте скидки до 20% на внутриигровые предметы, переводите Robux без комиссии и получите особый значок профиля.\n— Создавайте неограниченное количество бесплатных частных серверов для друзей.\n— Размещайте, продавайте и обменивайте уникальные предметы для аватара в Marketplace.\n\nПЕРЕДОВЫЕ СТАНДАРТЫ БЕЗОПАСНОСТИ, КОНФИДЕНЦИАЛЬНОСТИ И КОМФОРТНОГО ОБЩЕНИЯ\n— Современные системы фильтрации контента и возрастная модерация.\n— Открывайте специальные пространства с подтверждением возраста и управляйте настройками конфиденциальности через Roblox Kids и выбор аккаунта.\n— Понятные правила сообщества, поддерживающие уважительное взаимодействие между игроками.\n— Команды доверия и безопасности круглосуточно следят за платформой.\n\nСОЗДАТЬ СВОИ ИГРЫ: https://www.roblox.com/develop\nПОДДЕРЖКА: https://en.help.roblox.com/hc/en-us\nКОНТАКТЫ: https://corp.roblox.com/contact/\nПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ: https://www.roblox.com/info/privacy\nИНФОРМАЦИЯ ДЛЯ РОДИТЕЛЕЙ: https://corp.roblox.com/parents/\nУСЛОВИЯ ИСПОЛЬЗОВАНИЯ: https://en.help.roblox.com/hc/en-us/articles/115004647846\n\nВАЖНО: для игры требуется подключение к интернету. Roblox лучше всего работает через Wi-Fi.",
+      "subtitle": "ROBLOX — МИЛЛИОНЫ ИГР САМЫХ РАЗНЫХ ЖАНРОВ. ИГРАЙТЕ БЕСПЛАТНО!",
+      "tintColor": "3C94FC",
+      "category": "games",
+      "pinnedCategory": "games",
+      "website": "http://www.roblox.com/",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Roblox.ipa",
+          "size": 120205446,
+          "version": "2.733.988",
+          "buildVersion": "2.733.988",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "version": "2.733.988",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 120205446,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Roblox.ipa",
+      "rating": 4.46774,
+      "ratingCount": 1330202,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1b/98/ae1b986e-7ca3-ac9e-58e3-8b04f988739a/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC1-RIVALS.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/b7/d0/b4b7d06d-7108-6aec-8d2d-39fdd1180440/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC2-C.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/8e/10/e78e1043-69d8-35c8-eec4-f66fa58038f7/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC3.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/76/70/ac7670cb-8e3b-09a1-bbb5-7b6389e18712/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC4.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/fb/65/80fb6519-4acb-47a6-2d6d-3518f62c94e3/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC6.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/c2/cb/01c2cbd6-292f-1dd6-9773-e814c5345c4c/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_RU_SC7-A.jpg/1242x2688bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/roblox/id431946152?uo=4"
     }
   ]
 }
