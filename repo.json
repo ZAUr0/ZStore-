@@ -6892,6 +6892,47 @@
           "date": "16 сен 2026"
         }
       ]
+    },
+    {
+      "name": "Persona: Бьюти-камера",
+      "bundleIdentifier": "com.tickettothemoon.video.persona",
+      "developerName": "Ticket To The Moon, Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Persona.png",
+      "localizedDescription": "Овладей своим образом с Persona - профессиональной бьюти-камерой и редактором, созданным для совершенства.\nУмный ИИ и мощные инструменты позволяют легко получать безупречные фото и видео — в режиме реального времени или при редактировании.\n\nОСНОВНЫЕ ФУНКЦИИ:\n\n• Фильтры для лица: Выбирай из десятков фильтров для сглаживания кожи, придания сияния или естественного улучшения внешности - одним нажатием, для фото и видео.\n• Изменение прически: Увеличь объем или быстро измени стиль — работает с любым кадром.\n• Коррекция тела: Подкорректируй фигуру для естественного и четкого результата — в фото и видео.\n• Улучшение кожи: Сделай легкий загар, выровняй текстуру или убери блеск одним касанием.\n• Параметры редактирования: Настраивай яркость, контрастность и резкость как профессионал — для фото и видео.\n• Коррекция черт лица: Легко подправляй глаза, нос, губы или линию подбородка в любое время.\n• Усиление цвета: Добавляй смелые, стильные оттенки к своим фото и видео.\n• Уникальные детали: Добавляй веснушки, ямочки и другие акценты на фото и видео.\n• Быстрая коррекция: Удаляй пятна или лишние объекты за секунды — вне зависимости от контента.\n• Эксклюзивные ИИ-инструменты: Переснимай с лучшего ракурса, создавай новые фотосессии из селфи и многое другое.\n\nPersona — это профессиональные бьюти-инструменты для впечатляющего результата каждый раз.\n\nСкачай Persona прямо сейчас и управляй своим стилем с профессиональной красотой!",
+      "subtitle": "Овладей своим образом с Persona - профессиональной бьюти-камерой и редактором, созданным для совершенства.",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Persona.ipa",
+          "size": 213884393,
+          "version": "1.16.4",
+          "buildVersion": "2382",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.0",
+          "localizedDescription": "В этом обновлении мы улучшили интерфейс приложения и его производительность."
+        }
+      ],
+      "version": "1.16.4",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 213884393,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Persona.ipa",
+      "rating": 4.72837,
+      "ratingCount": 131047,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/06/4a/9e064a49-7c60-2b22-93cd-2055dee05b18/3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/11/42/9911429c-4c98-d672-5c8c-115fac2b2ab7/2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/d1/d2/f6d1d2c8-20f1-c6d0-fc58-aa70d59fd327/4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/41/8a/54418a73-95e1-f4c1-f44d-fc558f6de10c/8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/25/f8/9325f896-d49a-28a8-81ba-fb889ac2ccb6/6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/fc/51/d0fc51a4-f1e3-3550-2695-3819d16ab84e/7.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/d7/52/ecd75218-e2cf-6b42-2576-0a5cfb85b27f/9.jpg/392x696bb.jpg"
+      ],
+      "website": "https://persona.camera",
+      "appStoreURL": "https://apps.apple.com/ru/app/persona-beauty-camera/id1561622206?uo=4"
     }
   ]
 }
