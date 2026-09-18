@@ -7092,6 +7092,45 @@
       ],
       "website": "https://poly.cam",
       "appStoreURL": "https://apps.apple.com/ru/app/polycam-3d-%D1%81%D0%BA%D0%B0%D0%BD%D1%8B-%D0%B8-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8/id1532482376?uo=4"
+    },
+    {
+      "name": "PureStatus: ByeBye Blur Status",
+      "bundleIdentifier": "com.damtechdesigns.wa.story",
+      "developerName": "DamTech Designs",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/PureStatus.png",
+      "localizedDescription": "• Introducing PureStatus: Bye Bye Blurry Status: Revolutionize Your WhatsApp Status Experience\n\nAre you tired of Blurry, Low- Quality videos & Photos in WhatsApp status? Then the “PureStatus” App is made just for you, When you upload a video status, WhatsApp reduces the video size, resulting in reduced video quality, but “PureStatus” will reduce the size of your video very precisely so that there will be the highest possible HD Video Quality on your WhatsApp status.\n\n\n\n• Crystal Clear Status Videos in a Few Simple Steps\n\n\n\n1. Download PureStatus from the App Store.\n2. Open the app, \n3. select a video, \n4. compress it,\n5. Share it to your WhatsApp status and enjoy crystal-clear HD videos!\n\n\n\n• Get the Best Results with PureStatus \n\n\n\n1. Do not edit or crop video after compression, otherwise, Quality will be lost in status.\n2. Do not compress previously shared videos, as their quality has already become low and low-quality videos will not be improved for Status. So, Always Compress High-Quality Videos in PureStatus.\n3. You can check the Status Quality difference by Uploading Both PureStatus's compressed and your original video on status.\n4. Use verticle video & photos in Status as they have more viewing area and they are the most popular on mobile phones.\n\n\n\n• Please Keep In Mind\n\n\n\n1. PureStatus App will not improve your Original Video Quality but it will stop your HD video from getting blurry in your Whatsapp.\n2. Photo function is for uploading HD status only, If you send it in chats, it will be sent as a video.\n3. Video Splitter Function is only for uploading longer videos in status. If you use it for chats, they will be sent in 30 seconds parts.\n\n\n\n• Experience the Eye-Catching Difference \n\n\n\nNo more pixel loss when sharing WhatsApp status, thanks to our innovative image & video compressor app. With PureStatus, you can post WhatsApp statuses without compromising video & photo quality.\n\n\n\n\n• Bonus Features\n\n\n\nAnother benefit of the PureStatus app is the Video Status Splitter facility. With help of a video splitter, your All longer videos will be cut into 30-second parts so that you can upload longer videos in your status. This Status splitter is very accurate in splitting the video with keeping the best possible HD video quality.\n\n\nUnlock the true potential of your WhatsApp status with PureStatus HD Status Compressor! Download now and start sharing your high-quality videos with the world!\n\n\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "subtitle": "• Introducing PureStatus: Bye Bye Blurry Status: Revolutionize Your WhatsApp Status Experience",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "http://damtechdesigns.com",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/PureStatus.ipa",
+          "size": 64450307,
+          "version": "2026.02",
+          "buildVersion": "62",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "2026.02",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 64450307,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/PureStatus.ipa",
+      "rating": 4.65738,
+      "ratingCount": 8870,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/57/65/995765e4-14cc-8cde-937b-cde04e1fa673/3e4f617d-fbd7-41a6-bc65-be9dc5b5089e_ScreenshotNew0.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/9a/6b/1e9a6b5e-8268-2fbf-8d1a-be9918c71418/132394e8-f6c7-4f6e-91b2-a4f9d00829d1_ScreenshotNew1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/95/e1/5d95e1c8-5412-a996-da7d-34114a0eb448/040dfa53-1b8d-4f1f-93ca-97f5e83d6454_ScreenshotNew2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/50/0b/72500b40-18d3-ee63-5ae6-6d61c617f06f/2656b100-5d60-4ef7-b68b-09cb9d8437a7_ScreenshotNew3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/97/91/ce9791ff-5533-cc56-0672-0f4d4524e73c/561a2ed4-162f-4681-993e-06936dd653a8_ScreenshotNew4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/67/09/b46709dd-2c92-a6a6-4ddc-a2d77f3fda16/84acf7e7-6b04-4107-8d25-74fb91c77807_ScreenshotNew5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/8f/af/788faf96-0b66-f9c1-da80-61558912a5a4/937f4af7-09a7-4c28-9e74-a9a1d45116d6_ScreenshotNew6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/33/3a/c4333a6d-b4dc-8a12-c196-cd56e98cc84f/4a5f0591-97bb-49ab-8713-9c0a0501a2d1_ScreenshotNew7.jpg/392x696bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/purestatus-byebye-blur-status/id6444719503?uo=4"
     }
   ]
 }
