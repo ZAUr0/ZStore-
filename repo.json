@@ -1032,7 +1032,7 @@
       ]
     },
     {
-      "name": "Бизнес Платформа ВТБ",
+      "name": "ВТБ Бизнес",
       "bundleIdentifier": "com.athleo.release",
       "developerName": "Банк ВТБ (ПАО)",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.vtb.smb",
@@ -1437,7 +1437,7 @@
       ]
     },
     {
-      "name": "АльфаСтрахование",
+      "name": "Альфа Страхование",
       "bundleIdentifier": "com.itsportliver.health",
       "developerName": "АО «АльфаСтрахование»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.alfastrah.app",
