@@ -7230,6 +7230,43 @@
           "date": "18 сен 2026"
         }
       ]
+    },
+    {
+      "name": "РИЦ. Личный кабинет",
+      "bundleIdentifier": "com.AISCity.RICPersonalCabinet",
+      "developerName": "AIS Gorod",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RIC.png",
+      "localizedDescription": "Приложение позволяет жителям Ульяновской области получить доступ к личному кабинету в ООО \"Региональный информационный центр\" \n\nС помощью приложения Вы сможете:\n- Посмотреть используемые приборы учёта, ввести их показания, просмотреть историю показаний\n- Посмотреть сведения о выставленных счетах на оплату ЖКУ и произвести их оплату \n- Посмотреть подключенные услуги и формулы расчётов начислений по ним\n- Сформировать справку по лицевому счёту\n- Посмотреть произведённые на лицевом счёте операции\n- Посмотреть характеристики жилья, информацию о проживающих и периодах их отсутствия\n- Посмотреть информацию о профиле и лицевых счетах\n- Добавить новый лицевой счёт к текущему профилю\n- Произвести регистрацию в Личном кабинете и настроить свой профиль\n- Воспользоваться FAQ и обратной связью, а так же найти все необходимые контакты",
+      "subtitle": "Приложение позволяет жителям Ульяновской области получить доступ к личному кабинету в ООО \"Региональный информационный ц",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://apps.apple.com/ru/app/%D1%80%D0%B8%D1%86-%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82/id6446702848?uo=4",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RIC.ipa",
+          "size": 23791865,
+          "version": "1.15.3",
+          "buildVersion": "1546",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "1.15.3",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 23791865,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/RIC.ipa",
+      "rating": 3.8609,
+      "ratingCount": 266,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/99/ba/f0/99baf027-c419-3c14-82d0-503296b21344/647cba2d-8e0e-4c59-bc88-793aa2f19e05_5.5_-_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/e0/ec/d8e0ecce-34ce-2035-e77e-cf7630e351e4/72ee16e1-c935-4d9d-a399-0c80590a24e1_5.5_-_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/92/e8/ff/92e8ffc2-6b6c-6fd6-ef50-4fb37dcc9be1/c8c5490c-f905-470b-99e0-c938bd165ed1_5.5_-_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/c0/14/7cc01462-fbcf-ebf8-b298-ccfa16737afc/060b8dd5-643d-4799-b4db-54ef3479c7d4_5.5_-_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/23/94/d5/2394d5d0-6c4c-2a53-2068-3994baa5afde/79b81c00-d6b2-427b-b38f-7ba1af0fdb9c_5.5_-_05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/97/4b/23/974b23d9-b705-92ac-78c8-f107b9c757db/921cb8e8-855e-49cf-9f2b-fffedde7f392_5.5_-_06.png/392x696bb.png"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/%D1%80%D0%B8%D1%86-%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82/id6446702848?uo=4"
     }
   ]
 }
