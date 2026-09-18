@@ -8747,6 +8747,40 @@
           "date": "15 сен 2026"
         }
       ]
+    },
+    {
+      "name": "WB TAXI: сервис заказа такси",
+      "bundleIdentifier": "uz.wildberries.taxi.client",
+      "developerName": "WB FZE",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/WBTaxi.png",
+      "localizedDescription": "WB TAXI — сервис для заказа такси и перемещений по городу. С помощью приложения можно вызвать автомобиль, следить за маршрутом в реальном времени и управлять параметрами заказа.\n\nБонусная программа\nВ приложении действует программа лояльности: за поездки, оплаченные картой в приложении, начисляется кэшбэк бонусными баллами — «арбузами». Списывайте бонусы по курсу 1 к 1 и оплачивайте ими до 99% стоимости поездки при заказе через приложение и оплате привязанной картой.\n\nВозможности сервиса:\n● Выбор тарифов. Доступны категории «Стандарт», «Комфорт» и тариф «Мульти». Последний позволяет вести поиск автомобиля сразу в нескольких категориях, что расширяет возможности подбора машины.\n● Мультизаказ. Можно оформить до 2-х заказов одновременно. Статус каждой машины отображается в верхней части экрана — переключайтесь между ними в одно касание.\n● Заказ другому человеку. Если нужно вызвать машину близким, просто укажите их номер телефона. Данные об автомобиле придут пассажиру в СМС.\n● Расчет стоимости. Укажите адрес назначения, и приложение определит стоимость поездки заранее.\n\nСкачивайте WB TAXI и выбирайте подходящий тариф для поездок по городу.",
+      "subtitle": "WB TAXI — сервис для заказа такси и перемещений по городу. С помощью приложения можно вызвать автомобиль, следить за мар",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://taxi.wildberries.uz",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/WBTaxi.ipa",
+          "size": 100415349,
+          "version": "1.0.18",
+          "buildVersion": "21960182",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "1.0.18",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 100415349,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/WBTaxi.ipa",
+      "rating": 3.4246,
+      "ratingCount": 3342,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/4b/98/6f4b98e5-3339-2754-9d3f-bf0bb3170ccc/1135__U00281_U0029.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/10/d6/bf10d62a-9823-419f-1aef-63ecef5c1466/1191.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/0b/8e/690b8ec4-31b5-0027-1f1e-2715a619a77b/1192.jpg/1242x2688bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/wb-taxi-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0-%D1%82%D0%B0%D0%BA%D1%81%D0%B8/id6755240054?uo=4"
     }
   ]
 }
