@@ -45,6 +45,7 @@ COMPANY_WEBSITES = {
     "яндекс музыка": "https://music.yandex.ru",
     "яндекс": "https://bank.yandex.ru",
     "rutube": "https://rutube.ru",
+    "макс": "https://max.ru",
 }
 
 PRIVACY_PAGES = {
@@ -67,6 +68,7 @@ PRIVACY_PAGES = {
     "яндекс музыка": "https://yandex.ru/legal/confidential/",
     "яндекс": "https://yandex.ru/legal/confidential/",
     "rutube": "https://rutube.ru/info/privacy",
+    "макс": "https://max.ru/legal/privacy",
 }
 
 PRESERVE = {
@@ -104,6 +106,7 @@ PACKAGE_HINTS = {
     "яндекс музыка": "ru.yandex.music",
     "яндекс": "com.yandex.bank",
     "rutube": "ru.rutube.app",
+    "макс": "ru.oneme.app",
 }
 
 
