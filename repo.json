@@ -3028,11 +3028,10 @@
     {
       "name": "Pinterest",
       "bundleIdentifier": "com.burbn.pint",
-      "developerName": "Aptoide",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/com.pinterest",
+      "developerName": "Pinterest, Inc.",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Pinterest.png",
-      "localizedDescription": "В Pinterest вы найдете вдохновение для всего, что вам по душе. Исследуйте миллиарды идей, чтобы превратить свои мечты в реальность. Хотите найти простые рецепты уютных ужинов для будних дней? Ищете секрет идеального зимнего сияния? Учитесь делать свой дом более уютным? Создаем жизнь, которую вы любите?\n\nЭто возможно.\n\nПлатформа безопасна, удобна в использовании и всегда актуальна. Вы можете быть уверены в качестве контента и защите ваших данных. Приложение работает стабильно на современных устройствах и позволяет наслаждаться контентом даже без постоянного подключения к интернету, если это необходимо.\n\nЗачем ждать? Скачайте сегодня, чтобы открыть для себя бесконечные возможности. Попробуйте прямо сейчас.",
-      "subtitle": "Pinterest — платформа для поиска идей и вдохновения.",
+      "localizedDescription": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? \n\nIt's Possible.",
+      "subtitle": "Pinterest is a place of endless possibilities. You can:",
       "tintColor": "3C94FC",
       "category": "social",
       "pinnedCategory": "social",
@@ -3051,78 +3050,18 @@
       "versionDate": "2026-09-18T00:00:00Z",
       "size": 122919339,
       "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Pinterest.ipa",
-      "rating": 4.26,
-      "ratingCount": 3025,
-      "downloads": 1000000,
-      "downloadsText": "1 млн +",
-      "versionDescription": "Мы еженедельно совершенствуем приложение Pinterest, чтобы сделать его еще быстрее и лучше.",
+      "rating": 4.77765,
+      "ratingCount": 5770893,
       "screenshotURLs": [
-        "https://static.rustore.ru/apk/2063550428/content/SCREENSHOT/10709807-c741-49b9-9a41-d5ebef60552e.",
-        "https://static.rustore.ru/apk/2063550428/content/SCREENSHOT/b11984e3-8b6c-4eb1-9993-e37b8bd0e935.",
-        "https://static.rustore.ru/apk/2063550428/content/SCREENSHOT/260a4422-8aa8-4aa5-98ae-6df33b4d7f44.",
-        "https://static.rustore.ru/apk/2063550428/content/SCREENSHOT/1c4b922d-01b0-4e45-9ef7-31c0f2f61fda.",
-        "https://static.rustore.ru/apk/2063550428/content/SCREENSHOT/5fc94b85-b472-4d18-b0fc-1c868005ef3e.",
-        "https://static.rustore.ru/apk/2063550428/content/SCREENSHOT/c18067ac-a0fc-448b-9dbb-e18a8639ce61."
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/ac/07/e6ac07c3-2101-c83d-54b8-cf47404b30c9/iPhone-5.5_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/cf/6f/8dcf6f2a-1e60-657e-31d4-4ff5b1dd962a/iPhone-5.5_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/16/a8/eb16a87e-4395-bc4d-5783-7a7d3d2198f5/iPhone-5.5_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/57/a8/9057a890-b24a-6836-3a1c-d16d8988c253/iPhone-5.5_6.png/392x696bb.png"
       ],
-      "ageRating": "0+",
-      "reviews": [
-        {
-          "id": "Наталья-18 сен 2026-0",
-          "title": "Ничего не грузит.",
-          "author": "Наталья",
-          "text": "Ничего не грузит. Работает только через вай фай. Хотя раньше отлично работало приложение",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Инетта-18 сен 2026-1",
-          "title": "Интернет блокируют из-за выборов",
-          "author": "Инетта",
-          "text": "Интернет блокируют из-за выборов",
-          "date": "18 сен 2026"
-        },
-        {
-          "id": "Ирина-17 сен 2026-2",
-          "title": "Что не открывается приложение",
-          "author": "Ирина",
-          "text": "Что не открывается приложение",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Марина-17 сен 2026-3",
-          "title": "Отличное приложение!",
-          "author": "Марина",
-          "text": "Отличное приложение! Долго пользуюсь, очень много интересного и полезного. Вот только зашла сегодня 17.09. а оно не грузит, пишет \"Ой, что-то пошло не так!\" А пользователь вообще НЕ НАЙДЕН. Пожалуйста, разработчики, проверьте что вы там наообновляли🙏",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Софья-17 сен 2026-4",
-          "title": "Не работает хотя до чмсша 14 все работало!",
-          "author": "Софья",
-          "text": "Не работает хотя до чмсша 14 все работало!",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Ринг-15 сен 2026-5",
-          "title": "УЖАС КАКОЙ ТО У МЕНЯ С УТРА НЕ РАБОТАЕТ ВАШ",
-          "author": "Ринг",
-          "text": "УЖАС КАКОЙ ТО У МЕНЯ С УТРА НЕ РАБОТАЕТ ВАШ ПИНТЕРЕСТ 😡 Я ЕГО УДАЛЮ ЕСЛИ НЕ БУДЕТ РАБОТАТЬ ПОНЯТНО",
-          "date": "15 сен 2026"
-        },
-        {
-          "id": "Наташа-15 сен 2026-6",
-          "title": "Сегодня с утра на главной странице какой-то",
-          "author": "Наташа",
-          "text": "Сегодня с утра на главной странице какой-то лютый шлак. Раньше всегда была подборка по моим предпочтениям.",
-          "date": "15 сен 2026"
-        },
-        {
-          "id": "Михаил-14 сен 2026-7",
-          "title": "Всё!",
-          "author": "Михаил",
-          "text": "Всё!",
-          "date": "14 сен 2026"
-        }
-      ]
+      "website": "http://www.pinterest.com",
+      "appStoreURL": "https://apps.apple.com/us/app/pinterest/id429047995?uo=4"
     }
   ]
 }
