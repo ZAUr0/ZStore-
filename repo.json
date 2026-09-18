@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "СберСтрахование",
+      "name": "Сбер Страхование",
       "bundleIdentifier": "com.novainsight.policytimer",
       "developerName": "ООО СК «Сбербанк страхование»",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sberins.insureapp.android",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "name": "СберБизнес",
+      "name": "Сбер Бизнес",
       "bundleIdentifier": "kz.recipes.prom",
       "developerName": "ПАО Сбербанк",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sberbank_sbbol",
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "name": "СберKids",
+      "name": "Сбер Kids",
       "bundleIdentifier": "kz.erzhan.booktracker.com",
       "developerName": "ПАО Сбербанк",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sberbank.sberkids",
