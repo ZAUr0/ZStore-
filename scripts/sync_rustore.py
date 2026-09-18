@@ -46,6 +46,7 @@ COMPANY_WEBSITES = {
     "яндекс": "https://bank.yandex.ru",
     "rutube": "https://rutube.ru",
     "макс": "https://max.ru",
+    "дзен": "https://dzen.ru",
 }
 
 PRIVACY_PAGES = {
@@ -69,6 +70,7 @@ PRIVACY_PAGES = {
     "яндекс": "https://yandex.ru/legal/confidential/",
     "rutube": "https://rutube.ru/info/privacy",
     "макс": "https://max.ru/legal/privacy",
+    "дзен": "https://dzen.ru/legal/ru/confidential/index.html",
 }
 
 PRESERVE = {
@@ -107,6 +109,8 @@ PACKAGE_HINTS = {
     "яндекс": "com.yandex.bank",
     "rutube": "ru.rutube.app",
     "макс": "ru.oneme.app",
+    "дзен": "ru.zen.android",
+    "yandex.mobile.zen": "ru.zen.android",
 }
 
 
@@ -133,19 +137,37 @@ def package_from_url(url: str | None) -> str | None:
 
 
 def lookup_page(mapping: dict[str, str], app: dict, info: dict | None = None) -> str | None:
-    blob = " ".join(
-        str(value or "")
-        for value in (
-            app.get("name"),
-            app.get("developerName"),
-            (info or {}).get("companyName"),
+    def normalize(value: str) -> str:
+        return (
+            value.lower()
+            .replace("«", "")
+            .replace("»", "")
+            .replace(" ", "")
+            .replace("-", "")
         )
-    ).lower().replace("«", "").replace("»", "").replace(" ", "").replace("-", "")
-    for needle, url in sorted(
+
+    needles = sorted(
         mapping.items(),
         key=lambda item: len(item[0].replace(" ", "").replace("-", "")),
         reverse=True,
-    ):
+    )
+    name_blob = normalize(str(app.get("name") or ""))
+    for needle, url in needles:
+        key = needle.replace("-", "").replace(" ", "")
+        if key and key in name_blob:
+            return url
+
+    blob = normalize(
+        " ".join(
+            str(value or "")
+            for value in (
+                app.get("name"),
+                app.get("developerName"),
+                (info or {}).get("companyName"),
+            )
+        )
+    )
+    for needle, url in needles:
         key = needle.replace("-", "").replace(" ", "")
         if key and key in blob:
             return url
@@ -153,11 +175,17 @@ def lookup_page(mapping: dict[str, str], app: dict, info: dict | None = None) ->
 
 
 def guessed_package(app: dict) -> str | None:
+    needles = sorted(PACKAGE_HINTS.items(), key=lambda item: len(item[0]), reverse=True)
+    name = str(app.get("name") or "").lower()
+    for needle, package in needles:
+        if needle in name:
+            return package
+
     blob = " ".join(
         str(app.get(key) or "")
         for key in ("name", "developerName", "bundleIdentifier", "rustoreURL")
     ).lower()
-    for needle, package in sorted(PACKAGE_HINTS.items(), key=lambda item: len(item[0]), reverse=True):
+    for needle, package in needles:
         if needle in blob:
             return package
     return None
