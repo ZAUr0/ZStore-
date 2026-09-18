@@ -5610,6 +5610,41 @@
           "date": "18 сен 2026"
         }
       ]
+    },
+    {
+      "name": "JEDAI",
+      "bundleIdentifier": "intrtl.com.IntelligenceRetail",
+      "developerName": "Smart Riteil, OOO",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/JEDAI.png",
+      "localizedDescription": "JEDAI - современное решение для анализа и улучшения полочных показателей ритейлеров на основе технологии Искусственного интеллекта.\n\nС помощью JEDAI вы можете\n- Узнать текущую ситуацию по исполнению ассортимента и планограмм в магазинах в режиме реального времени, с фото-подтверждением\n- Получить единый источник данных для коммуникации с торговыми точками\n- Поставить задачи для каждой торговой точки для улучшения ситуации\n- Получить данные для подтверждения выполнения контрактных условий\n- Увеличить продажи за счет исполнения планограмм и ассортимента\n- Увеличить мотивацию сотрудников за счет простого и удобного инструмента работы, постановки точных задач и контроля их исполнения без физического посещения магазина",
+      "subtitle": "JEDAI - современное решение для анализа и улучшения полочных показателей ритейлеров на основе технологии Искусственного ",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://jedai.tech",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/JEDAI.ipa",
+          "size": 48192806,
+          "version": "6.6",
+          "buildVersion": "11",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "6.6",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 48192806,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/JEDAI.ipa",
+      "rating": 1.66667,
+      "ratingCount": 6,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/c2/4b/16c24b92-3038-ea46-bcdc-5928f64a4f6a/8251ba08-abb6-4384-9c46-77446a6b106c_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a8/f1/0d/a8f10dbb-3129-f8d6-501e-5789f1f47ddd/6bb9edf4-44aa-48f1-ae97-5e9b9659ee09_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/63/29/9f/63299f4f-4038-d840-9f3c-58c94ee5d4a3/8e584ba7-57c2-4ac1-864b-6920b4a0a80c_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d6/cc/0f/d6cc0f47-ace5-140e-bff4-54f4a2b3ab3b/594b04c3-0df3-49b5-a61f-0416e8d8a32e_4.png/392x696bb.png"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/jedai/id1215254228?uo=4"
     }
   ]
 }
