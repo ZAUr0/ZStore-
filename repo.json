@@ -4730,6 +4730,40 @@
           "date": "17 сен 2026"
         }
       ]
+    },
+    {
+      "name": "Календарь: Умный помощник",
+      "bundleIdentifier": "com.sdisk.mcd",
+      "developerName": "Irina Ishutkina",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Calendar.png",
+      "localizedDescription": "Календарь — ваш умный помощник по управлению временем. Объедините личные, рабочие и семейные дела в одном удобном пространстве. \n\nВсе календари в одном приложении.\n\nБольше не нужно переключаться между сервисами и держать расписание в голове. Все ваши планы теперь собраны в единое наглядное пространство. \n\nПланируйте через чат. \nПросто напишите ИИ-помощнику, что нужно сделать. Он возьмет рутину на себя: найдет свободные слоты и предложит лучшее время для ваших планов. \n\nДобавляйте события голосом.\n\nЭкономьте время — надиктуйте задачу на ходу, как личному ассистенту. ИИ мгновенно распознает речь и запланирует событие. \n\nДоверьте расписание Календарю, чтобы успевать всё, что важно именно вам.",
+      "subtitle": "Календарь — ваш умный помощник по управлению временем. Объедините личные, рабочие и семейные дела в одном удобном простр",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://apps.apple.com/ru/app/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C-%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA/id6746786886?uo=4",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Calendar.ipa",
+          "size": 30567964,
+          "version": "1.2.0",
+          "buildVersion": "2",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "17.6"
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 30567964,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Calendar.ipa",
+      "rating": 4.25286,
+      "ratingCount": 87,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/f1/7d/57f17d2f-63ad-dd66-d1e8-d739c70c0c54/19_1.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/0a/e8/b60ae83c-9cfc-8db8-3f57-139bd0dcb5b7/19_2.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/9e/c4/e49ec45c-9433-3b83-11d0-fd42f4a9722c/19_3.png/1242x2688bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C-%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA/id6746786886?uo=4"
     }
   ]
 }
