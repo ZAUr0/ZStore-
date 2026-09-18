@@ -5083,6 +5083,40 @@
       ],
       "website": "https://apps.apple.com/ru/app/easymerch-v2/id1124848374?uo=4",
       "appStoreURL": "https://apps.apple.com/ru/app/easymerch-v2/id1124848374?uo=4"
+    },
+    {
+      "name": "Еда и точка.",
+      "bundleIdentifier": "ru.quickresto.loyalty.edaitochka",
+      "developerName": "Quick Resto Market",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/EdaITochka.png",
+      "localizedDescription": "Еда и точка — приложение сети кафе Владивостока. \nБыстро, удобно и с душой — для всех, кто ценит вкус и своё время.\n\n• Заказывайте еду из ближайшей точки\n• Копите и тратьте бонусы в программе лояльности\n• Узнавайте о новых акциях первым\n• Оставляйте отзывы — будем лучше вместе!\n\nВсегда рядом, всегда вкусно.  \nПишите нам: director@edaitochka.ru",
+      "subtitle": "Еда и точка — приложение сети кафе Владивостока.",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://edaitochka.menuquickresto.ru/",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/EdaITochka.ipa",
+          "size": 31506980,
+          "version": "3.19.2",
+          "buildVersion": "1",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.1"
+        }
+      ],
+      "version": "3.19.2",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 31506980,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/EdaITochka.ipa",
+      "rating": 4.69721,
+      "ratingCount": 3263,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/bf/49/d0bf492c-5fd7-79a1-5ab3-917f5ac7b60f/edb862a2-f605-4cd6-938b-c620225d4ec8_edaitochka_1_MainScreen_B7FEB358-827A-4B07-AD80-9DA24C80226F__U0028iPhone_8_Plus_U0029_framed.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/95/c4/8a95c428-0b5c-6e16-7ffd-e01bbb8ab97d/5a902ef6-4043-403d-b4e0-41d50c48f4dd_edaitochka_2_ProfileScreen_B7FEB358-827A-4B07-AD80-9DA24C80226F__U0028iPhone_8_Plus_U0029_framed.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f2/d2/c9f2d283-224c-def6-1fea-3d9fca56de9e/40cd6fc4-dde3-4b28-a893-b6e5fb1a6e59_edaitochka_3_OfferDetailsScreen_B7FEB358-827A-4B07-AD80-9DA24C80226F__U0028iPhone_8_Plus_U0029_framed.png/392x696bb.png"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/%D0%B5%D0%B4%D0%B0-%D0%B8-%D1%82%D0%BE%D1%87%D0%BA%D0%B0/id1527538310?uo=4"
     }
   ]
 }
