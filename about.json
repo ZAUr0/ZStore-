@@ -1,0 +1,44 @@
+{
+  "name": "ZStore+",
+  "tagline": "Приложения для iPhone и iPad",
+  "iconURL": "icon.png",
+  "accentColor": "0088FE",
+  "developer": {
+    "name": "Zaur Dadaev",
+    "role": "Разработчик",
+    "photoURL": "about/zaur.jpg",
+    "url": "https://t.me/dadaeevskiy"
+  },
+  "story": "ZStore+ позволяет устанавливать приложения на iPhone и iPad из сторонних источников.\n\nЯ создал ZStore+, чтобы вы могли легко устанавливать дополнительные приложения для своего устройства.\n\nНадеюсь, вам понравится пользоваться и он станет для вас удобным инструментом.\n\nС уважением, Заур Дадаев!",
+  "highlights": [
+    {
+      "title": "Сторонние источники",
+      "subtitle": "Устанавливайте приложения на iPhone и iPad из каталога.",
+      "systemImage": "square.and.arrow.down.fill"
+    },
+    {
+      "title": "Просто и быстро",
+      "subtitle": "Скачал, подписал и установил — без лишних шагов.",
+      "systemImage": "bolt.fill"
+    },
+    {
+      "title": "Для своих",
+      "subtitle": "Сделано, чтобы приложением было удобно пользоваться каждый день.",
+      "systemImage": "heart.fill"
+    }
+  ],
+  "links": [
+    {
+      "title": "Написать разработчику",
+      "subtitle": "Telegram",
+      "url": "https://t.me/dadaeevskiy",
+      "systemImage": "paperplane.fill"
+    },
+    {
+      "title": "Telegram канал",
+      "subtitle": "Новости ZStore+",
+      "url": "https://t.me/ZKodes",
+      "systemImage": "megaphone.fill"
+    }
+  ]
+}
