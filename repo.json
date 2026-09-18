@@ -6552,6 +6552,43 @@
           "date": "18 сен 2026"
         }
       ]
+    },
+    {
+      "name": "Netflix",
+      "bundleIdentifier": "com.netflix.Netflix",
+      "developerName": "Netflix, Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Netflix.png",
+      "localizedDescription": "Looking for the most talked about TV shows and movies from around the world? They're all on Netflix.\n\nDiscover award-winning series, movies, live events, podcasts, and games on the go - all in the mobile app. Now, you'll never miss a moment from the world of Netflix while you travel, commute, or just take a break.\n\nWhat you'll love about Netflix: \n\n- Smooth navigation with bottom shortcuts to quickly browse or jump back into your favorites. \n\n- A new way to discover what's next, including an upcoming clips feed.\n\n- A full world of entertainment in one place - series, movies, live events, games, and podcasts.\n\n- Keep track of everything you love, from your favorite moments to 'My List', in the 'My Netflix' tab. \n\n- Personalized recommendations based on your ratings. Instant notifications for new releases, episodes, and live events.\n\n\nNetflix membership is a month-to-month subscription that begins at sign-up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.\n\n\nPlease note that the App Privacy information applies to information collected through the Netflix iOS, iPadOS, and tvOS apps. See the Netflix Privacy Statement (link below) to learn more about information we collect in other contexts, including account registration.\n\nPrivacy policy: www.netflix.com/privacy\nTerms of use: www.netflix.com/terms\n\nPhone Number: +18667160414\nEmail: iosappstore@netflix.com",
+      "subtitle": "Looking for the most talked about TV shows and movies from around the world? They're all on Netflix.",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "http://www.netflix.com",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Netflix.ipa",
+          "size": 89068913,
+          "version": "18.42.0",
+          "buildVersion": "6040",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "version": "18.42.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 89068913,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Netflix.ipa",
+      "rating": 4.74836,
+      "ratingCount": 7285099,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/92/2b/93922bb0-76ff-4bdf-1946-a20f5fa68bda/freeform_U0023game-screenshot-ios-mobile-vertical-5-5-inch_na_01_0_-_DONE.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/ff/f0/82fff072-6b0f-a8f7-b60f-258bfd223f70/freeform_U0023game-screenshot-ios-mobile-vertical-5-5-inch_na_02_en-US.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/4d/09/694d09f9-79bb-ebfd-e443-9f4732f5ae2c/freeform_U0023game-screenshot-ios-mobile-vertical-5-5-inch_na_02_0_-_DONE.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/3f/5c/b43f5c31-35bd-45b1-b7e3-1b52aacf5b98/freeform_U0023game-screenshot-ios-mobile-vertical-5-5-inch_na_03_0_-_DONE.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/5f/e4/125fe456-ee7f-74b2-0504-ba86a84daa8e/freeform_U0023game-screenshot-ios-mobile-vertical-5-5-inch_na_04_0_-_DONE.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/6c/57/126c5774-6bed-5a8d-ef0f-41eca3d787c2/freeform_U0023game-screenshot-ios-mobile-vertical-5-5-inch_na_05_0_-_DONE.jpg/392x696bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/us/app/netflix/id363590051?uo=4"
     }
   ]
 }
