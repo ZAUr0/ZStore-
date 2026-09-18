@@ -5645,6 +5645,40 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d6/cc/0f/d6cc0f47-ace5-140e-bff4-54f4a2b3ab3b/594b04c3-0df3-49b5-a61f-0416e8d8a32e_4.png/392x696bb.png"
       ],
       "appStoreURL": "https://apps.apple.com/ru/app/jedai/id1215254228?uo=4"
+    },
+    {
+      "name": "JEDAI Pro",
+      "bundleIdentifier": "com.intrtl.jedaipro",
+      "developerName": "Smart Riteil, OOO",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/JEDAIPro.png",
+      "localizedDescription": "JEDAI PRO — это инновационное мобильное приложение, разработанное для анализа и улучшения ключевых показателей в ритейле с использованием передовых технологий искусственного интеллекта.\n\nБезопасность и удобство:\n\n- Авторизация через корпоративный аккаунт: вход в приложение обеспечивается с использованием корпоративных учетных данных, что гарантирует защиту данных и удобство для сотрудников компании.\n\nС JEDAI PRO доступны следующие возможности:\n\n- Мониторинг текущей ситуации в магазинах в режиме реального времени: актуальные данные о соблюдении ассортимента и планограмм предоставляются с фото-подтверждением.\n\n- Использование единой платформы для коммуникации: все данные собираются и предоставляются в одном месте, что упрощает взаимодействие с торговыми точками.\n\n- Постановка четких задач: конкретные действия назначаются для каждой торговой точки, чтобы оперативно улучшать показатели.\n\n- Контроль выполнения обязательств: данные для подтверждения соблюдения контрактных условий предоставляются автоматически.\n\n- Повышение продаж: достигается улучшение соблюдения планограмм и ассортимента, что напрямую влияет на прибыль.\n\n- Мотивация сотрудников: удобный инструмент для работы, постановки задач и контроля их выполнения.",
+      "subtitle": "JEDAI PRO — это инновационное мобильное приложение, разработанное для анализа и улучшения ключевых показателей в ритейле",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "https://jedai.tech",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/JEDAIPro.ipa",
+          "size": 48206703,
+          "version": "6.6",
+          "buildVersion": "11",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "6.6",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 48206703,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/JEDAIPro.ipa",
+      "rating": 1.14286,
+      "ratingCount": 273,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/f2/db/78f2db47-60d0-73c6-0fa4-aee00bedc981/111111303.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/2c/3e/9d2c3ecc-2297-d18c-fd7b-6badde734604/111111304.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/4c/1a/4a4c1acf-ee08-ab9d-681e-5a5aeff63f52/111111305.png/1242x2688bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/jedai-pro/id6741763624?uo=4"
     }
   ]
 }
