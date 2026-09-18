@@ -5777,6 +5777,47 @@
           "date": "16 сен 2026"
         }
       ]
+    },
+    {
+      "name": "KineMaster",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "developerName": "KineMaster Corporation",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/KineMaster.png",
+      "localizedDescription": "Монтаж без усилий — просто нажмите и покоряйте тренды.\n\n[ AI-инструменты ]\nKineMaster AI-инструменты быстро превратят ваши клипы и фото в потрясающие видео! Создавайте субтитры, генерируйте голоса, удаляйте фон, добавляйте эффекты и многое другое.\n\n• AI Автосубтитры: Мгновенные субтитры из видео/аудио\n• AI Текст в речь: Озвучка из текста одним касанием\n• AI Голос: Уникальное аудио с AI-голосами\n• AI Подбор музыки: Быстрые рекомендации песен\n• AI Волшебное удаление: Удаление фона вокруг людей/лиц\n• AI Удаление шума: Устранение шума в видео/аудио\n• AI Разделение вокала: Разделение песни на вокал и музыку\n• AI Отслеживание: Текст и стикеры следуют за объектами\n• AI Улучшение разрешения: Повышение разрешения медиа\n• AI Стиль: Художественные эффекты для видео/изображений\n• AI Шаблоны: Рекомендации шаблонов для потрясающих видео!\n\n[ Профессиональный монтаж ]\nKineMaster упрощает работу с продвинутыми инструментами.\n\n• Анимация по ключевым кадрам: Настройка размера, положения, вращения слоя\n• Хромакей (Зеленый экран): Удаление фона, комбинирование видео\n• Контроль скорости: Переворот, замедление, таймлапс\n\n[ Творческий потенциал ]\nВыберите шаблон, замените фото и видео — и готово!\n\n• Тысячи шаблонов: Готовые видеозаготовки для проектов\n• Микс: Сохраняйте проект как шаблон, делитесь с пользователями KineMaster\n• KineCloud: Резервное копирование проектов в облако для монтажа на любом устройстве\n\n[ Ресурсы для видео ]\nМагазин KineMaster предлагает десятки тысяч ресурсов для потрясающих видео: эффекты, стикеры, музыка, шрифты, переходы, VFX. Все готово к использованию.\n\n• Эффекты и переходы: Потрясающие визуальные эффекты\n• Стикеры и клип-графика: Графическая анимация и дизайн\n• Музыка и SFX: Видео, которое звучит и выглядит отлично\n• Стоковые видео/изображения: Эффекты зеленого экрана, бесплатные материалы, фоны\n• Разнообразие шрифтов: Стильные шрифты для дизайна\n• Цветовые фильтры: Огромный выбор для идеального вида\n\n[ Качество видео: 4K или соцсети ]\nСохраняйте видео в высоком разрешении или оптимизируйте качество для соцсетей.\n\n• Невероятное 4K 60 FPS: Видео в 4K и 60 кадров/сек\n• Оптимизировано для соцсетей: Видео для YouTube, TikTok, Instagram и др.\n• Поддержка прозрачного фона: Видео для композитинга\n\n[ Инструменты для монтажа ]\nKineMaster оснащен инструментами, которые делают монтаж увлекательным и простым.\n\n• Портретный и ландшафтный монтаж: лучшее из двух миров\n• Множество слоев: Фото, видео, GIF воспроизводятся одновременно\n• Поддержка планшетов/Chromebook: Оптимизированный монтаж на широких экранах\n• Множественное отменить/повторить: Действия в истории монтажа\n• Магнитные направляющие: Выравнивание элементов, привязка слоев\n• Полноэкранный предпросмотр: Просмотр правок перед сохранением\n• Множественный выбор: Экономьте время, управляя несколькими слоями одновременно\n\nУсловия использования KineMaster и Магазина ресурсов:\nhttps://resource.kinemaster.com/document/tos.html\nСлужба поддержки: support@kinemaster.com",
+      "subtitle": "Монтаж без усилий — просто нажмите и покоряйте тренды.",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KineMaster.ipa",
+          "size": 116909358,
+          "version": "8.1.15",
+          "buildVersion": "2414",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "17.6",
+          "localizedDescription": "Обновлённый текстовый интерфейс: Вводите, редактируйте и форматируйте прямо на экране предпросмотра\nНовая текстовая анимация: Слово за словом"
+        }
+      ],
+      "version": "8.1.15",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 116909358,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/KineMaster.ipa",
+      "rating": 4.68689,
+      "ratingCount": 1763,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/03/20/7c03204f-07fb-cac8-422d-1ed162376c9a/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/17/3d/b3173d59-3f47-a88b-9f30-2f215c8bf273/02.High_Quality_Templates.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/f8/0a/a0f80ad9-841d-7bce-dfd7-17d4074862f5/03.AI_Style__U0026_Visual_Effects.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b6/c7/c5b6c734-31b7-5f8b-649d-7d55f640ce1c/04.Incredible_Transitions.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/e1/8c/ace18c5b-28ea-59bb-596b-8df5c7f612d9/05.Background_Remover.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/47/f0/4347f032-81dd-ea37-0531-96af4c882480/06.Powerful_Audio_Editing.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/8d/45/c78d45a0-284c-222a-47fd-4ecf2e16c838/07.Auto_Captions.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/a9/bf/96a9bfaf-1dca-3ac8-2e49-ddb98f9a6f84/08.Text_and_Stickers.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/3c/7d/203c7da9-6bcd-c588-8128-3920dfd14cc4/09.Thousands_of_Assets.jpg/392x696bb.jpg"
+      ],
+      "website": "http://www.kinemaster.com",
+      "appStoreURL": "https://apps.apple.com/ru/app/kinemaster-%D0%B8%D0%B8-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/id1609369954?uo=4"
     }
   ]
 }
