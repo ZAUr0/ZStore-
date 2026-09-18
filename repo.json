@@ -109,7 +109,7 @@
       "pinnedCategory": "finance"
     },
     {
-      "name": "СберИнвестиции",
+      "name": "Сбер Инвестиции",
       "bundleIdentifier": "app.work.folio",
       "developerName": "ПАО Сбербанк",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.sberbank.investor",
@@ -927,7 +927,7 @@
       "pinnedCategory": "finance"
     },
     {
-      "name": "ВТБ Мои Инвестиции",
+      "name": "ВТБ Инвестиции",
       "bundleIdentifier": "pro.smartitservices.getquote",
       "developerName": "Банк ВТБ (ПАО)",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.vtb.invest",
@@ -5854,7 +5854,7 @@
       ]
     },
     {
-      "name": "билайн",
+      "name": "Билайн",
       "bundleIdentifier": "ru.beeline.mobile",
       "developerName": "ПАО \"ВымпелКом\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.beeline.services",
@@ -7670,7 +7670,7 @@
       ]
     },
     {
-      "name": "Цифра банк",
+      "name": "Цифра Банк",
       "bundleIdentifier": "ru.cifra.dbo",
       "developerName": "Цифра банк",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.bankffin.portfolio",
@@ -7870,7 +7870,7 @@
       ]
     },
     {
-      "name": "АТБ банк",
+      "name": "АТБ Банк",
       "bundleIdentifier": "su.atb.mobileapp",
       "developerName": "«Азиатско-Тихоокеанский Банк» (АО)",
       "rustoreURL": "https://www.rustore.ru/catalog/app/su.atb.mobileapp",
@@ -9881,7 +9881,7 @@
       ]
     },
     {
-      "name": "Авиакомпания АЛРОСА",
+      "name": "АЛРОСА",
       "bundleIdentifier": "com.alrosa",
       "developerName": "ООО \"Алроса ИТ\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/com.alrosa",
@@ -10078,7 +10078,7 @@
       ]
     },
     {
-      "name": "Поиск работы на hh",
+      "name": "hh.ru",
       "bundleIdentifier": "ru.hh.iphone",
       "developerName": "ООО \"Хэдхантер\"",
       "rustoreURL": "https://www.rustore.ru/catalog/app/ru.hh.android",
@@ -10278,7 +10278,7 @@
       ]
     },
     {
-      "name": "РИЦ. Личный кабинет",
+      "name": "РИЦ",
       "bundleIdentifier": "com.AISCity.RICPersonalCabinet",
       "developerName": "AIS Gorod",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/RIC.png",
@@ -11592,7 +11592,7 @@
       "appStoreURL": "https://apps.apple.com/ru/app/duolingo-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%B8-%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/id570060128?uo=4"
     },
     {
-      "name": "Календарь: Умный помощник",
+      "name": "Календарь",
       "bundleIdentifier": "com.sdisk.mcd",
       "developerName": "Irina Ishutkina",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Calendar.png",
