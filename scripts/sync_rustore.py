@@ -44,6 +44,7 @@ COMPANY_WEBSITES = {
     "юмани": "https://yoomoney.ru",
     "яндекс музыка": "https://music.yandex.ru",
     "яндекс": "https://bank.yandex.ru",
+    "rutube": "https://rutube.ru",
 }
 
 PRIVACY_PAGES = {
@@ -65,6 +66,7 @@ PRIVACY_PAGES = {
     "юмани": "https://yoomoney.ru/page?id=529434",
     "яндекс музыка": "https://yandex.ru/legal/confidential/",
     "яндекс": "https://yandex.ru/legal/confidential/",
+    "rutube": "https://rutube.ru/info/privacy",
 }
 
 PRESERVE = {
@@ -101,6 +103,7 @@ PACKAGE_HINTS = {
     "yumoney": "ru.yoo.money",
     "яндекс музыка": "ru.yandex.music",
     "яндекс": "com.yandex.bank",
+    "rutube": "ru.rutube.app",
 }
 
 
