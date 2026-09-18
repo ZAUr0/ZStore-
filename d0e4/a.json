@@ -1,0 +1,74 @@
+{
+  "name": "ZStore Services",
+  "services": [
+    {
+      "id": "vaynah-vpn",
+      "name": "Вайнах VPN",
+      "subtitle": "Быстрое и безопасное подключение",
+      "developer": "Zaur Dadaev",
+      "price": "от 200 ₽/мес.",
+      "category": "VPN",
+      "localIcon": "VPNIcon",
+      "tintColor": "#3B82F6",
+      "screenshots": [],
+      "features": [
+        "Быстрое подключение",
+        "Без надоедливых реклам",
+        "Самые быстрые сервера в РФ"
+      ],
+      "description": "Вайнах VPN — быстрый и стабильный VPN для iPhone. Подключение без лишней рекламы, сервера в России и удобная оплата прямо в Telegram.",
+      "whatsNew": "Обновили список серверов и ускорили подключение.",
+      "version": "2.0",
+      "actionTitle": "Открыть",
+      "actionURL": "https://t.me/VaynahVPNbot"
+    },
+    {
+      "id": "ai-assistants",
+      "name": "Искусственный интеллект",
+      "subtitle": "ИИ-помощники для любых задач",
+      "developer": "ZKodes",
+      "price": "от 2 500 ₽/мес.",
+      "category": "ИИ",
+      "localIcon": "ChatGPTIcon",
+      "iconURL": "icons/ChatGPTIcon.png",
+      "tintColor": "#10A37F",
+      "screenshots": [
+        "screenshots/gpt.png",
+        "screenshots/gemini.png",
+        "screenshots/grok.png",
+        "screenshots/claude.png"
+      ],
+      "features": [
+        "ChatGPT — решит за тебя тест",
+        "Nanobanana — сгенерирует твое авто без грузиков",
+        "Cursor — создаст тебе сайт без знания языков"
+      ],
+      "description": "Подключим ChatGPT, генерацию изображений и инструменты для кода. Поможем с доступом, оплатой и настройкой под твои задачи.",
+      "whatsNew": "Добавили Cursor и генерацию изображений.",
+      "version": "1.2",
+      "actionTitle": "Написать",
+      "actionURL": "https://t.me/ZKodes"
+    },
+    {
+      "id": "appstore-topup",
+      "name": "Пополнение App Store",
+      "subtitle": "Пополнение баланса подарочными картами",
+      "developer": "ZKodes",
+      "price": "от 500 ₽",
+      "category": "Магазин",
+      "localIcon": "AppStoreIcon",
+      "tintColor": "#0071E3",
+      "screenshots": [],
+      "features": [
+        "Поможем со сменой региона",
+        "Пополним баланс для оплаты подписок",
+        "Промокоды подарочных карт App Store"
+      ],
+      "description": "Пополним баланс App Store подарочными картами, поможем сменить регион и оплатить подписки, если обычная карта не проходит.",
+      "whatsNew": "Добавили помощь со сменой региона.",
+      "version": "1.1",
+      "actionTitle": "Написать",
+      "actionURL": "https://t.me/ZKodes"
+    }
+  ]
+}
