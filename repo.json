@@ -5194,47 +5194,6 @@
       "appStoreURL": "https://apps.apple.com/ru/app/facetune-ai-face-photo-editor/id1149994032?uo=4"
     },
     {
-      "name": "Facetune: AI Face Photo Editor",
-      "bundleIdentifier": "com.lightricks.Facetune2",
-      "developerName": "Lightricks Ltd.",
-      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Facetune.png",
-      "localizedDescription": "Добро пожаловать в Facetune — место, где каждая фотка цепляет.\nТвоя камера ловит момент. Facetune делает его незабываемым. От быстрых правок до полного преображения — у нас есть инструменты, чтобы ты выглядел(а) именно так, как хочешь.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nГлавные фишки:\n\nРетушь & улучшение:\n\nSmooth: Сделай кожу естественно гладкой, мгновенно убрав несовершенства и мелкие детали.\nReshape: Подчеркни свои черты с помощью точных и естественных корректировок.\nWhiten: Осветли улыбку и сделай зубы белее (да, даже кроссовки ).\n\nСтиль & трансформация:\n\nHairstyles: Примерь больше 20 причёсок — от Sleek Bun до Butterfly Cut и Glam Blowout — без единого похода к парикмахеру.\nBeard & Hair: Попробуй стили вроде Stubble, Hipster, Goatee, Long Beard и другие с максимально реалистичным результатом.\nMakeup: Наноси виртуальный макияж для full glam-образа без обязательств.\n\nРедактирование на уровне профи:\n\nHeadshots: Преврати любое фото в профессиональный headshot за секунды с помощью AI.\nFilters & Looks: Мгновенно задай нужный вайб с помощью фильтров и пресетов в одно касание.\nRemove & Vanish: Удаляй лишние объекты, фоны или photobombers легко и незаметно.\nLighting: Получай студийный свет в каждом кадре с помощью точных инструментов освещения.\n\nПрокачай & доведи до идеала:\n\nEnhance: Автоматически улучшай качество фото одним нажатием.\nColour Correction: Корректируй и усиливай цвета для яркого и стильного результата.\nVideo Editing: Все любимые инструменты для идеальных reels и коротких видео.\n\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nПочему Facetune?\nПотому что твои фото должны выглядеть так же круто, как ты их представляешь. Неважно, ты контент-креатор, профи или просто любишь классные фотки — Facetune всё сделает. Без опыта, без заморочек.\n\nСкачай. Отредактируй. Опубликуй. Повтори.\n\nУсловия использования: https://static.lightricks.com/legal/terms-of-use.pdf\nПолитика конфиденциальности: https://static.lightricks.com/legal/privacy-policy.pdf",
-      "subtitle": "Добро пожаловать в Facetune — место, где каждая фотка цепляет.",
-      "tintColor": "3C94FC",
-      "category": "utilities",
-      "pinnedCategory": "utilities",
-      "website": "http://www.facetuneapp.com",
-      "versions": [
-        {
-          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Facetune.ipa",
-          "size": 422838891,
-          "version": "26.18",
-          "buildVersion": "9686",
-          "date": "2026-09-18T00:00:00Z",
-          "minOSVersion": "10.0"
-        }
-      ],
-      "version": "26.18",
-      "versionDate": "2026-09-18T00:00:00Z",
-      "size": 422838891,
-      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Facetune.ipa",
-      "rating": 4.48745,
-      "ratingCount": 93286,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/be/73/cfbe7356-5ae6-2343-aa82-93721f6cbfed/cfce7414-b866-4a39-b33d-aa2a9f7380a1_5.5__Screen_1_RU.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/60/39/096039a7-fc4a-6b0e-3438-b56546db2483/5d763560-915d-4014-9417-00a8288f978a_5.5__Screen_2_RU.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/8e/f1/818ef1a8-ece8-10da-b2ec-0fadf49ee32f/aa436f08-c71f-4824-abff-a05c39d258e9_5.5__Screen_3_RU.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fc/d4/cc/fcd4cc02-d4dd-a5f4-dfdb-2a528b07fdaf/e36e144d-e64e-4137-8436-133e2085e7c4_5.5__Screen_3_RU-1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/da/0e/adda0ea3-c2b2-82ae-7348-d27aaf19ecbf/28c04a46-51c1-452f-b9bd-329611ffd26a_5.5__Screen_4_RU.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f1/e8/3f/f1e83f5b-8ad4-701a-530d-320160928023/f6cdd3d8-900a-493b-a9e5-cb61cb23280a_5.5__Screen_5_RU.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/02/a8/3b02a8e5-d819-21c0-af53-748688d702e1/999cdba6-2eaa-441a-9eb3-6a34f7f89913_5.5__Screen_7.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/23/5f/a8/235fa880-cce5-9fcc-13f7-8b8129bf7b08/0d01c544-4899-4c3a-8149-3c7f3e164163_5.5__Screen_8_RU.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f8/94/2f/f8942f2e-a466-bc40-5b26-8ee7c27a504e/4dee9967-03b7-43e1-8e5b-f9c3a3053f5c_5.5__Screen_8_RU-1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b8/c8/c8/b8c8c8e8-a2c3-41e7-4ea0-2e2d1d9a04c8/ea4abd8c-8558-4331-b600-6e68c5b75854_5.5__Screen_10.jpg/392x696bb.jpg"
-      ],
-      "appStoreURL": "https://apps.apple.com/ru/app/facetune-ai-face-photo-editor/id1149994032?uo=4"
-    },
-    {
       "name": "GarageBand",
       "bundleIdentifier": "com.apple.mobilegarageband",
       "developerName": "Apple",
