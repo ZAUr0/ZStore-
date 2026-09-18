@@ -5369,6 +5369,46 @@
           "date": "18 сен 2026"
         }
       ]
+    },
+    {
+      "name": "GoPro Quik",
+      "bundleIdentifier": "com.gopro.GoPro",
+      "developerName": "GoPro, Inc.",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/GoPro.png",
+      "localizedDescription": "With Quik, editing just got easier. Get the most out of your favorite shots with Automatic Highlight videos and a suite of premium tools for custom edits [1]. Everything is backed up to the GoPro cloud so you can access and edit your footage on-the-go [1].\n\n--- Key Features ---\nAutomatic Edits\nThe Quik app finds your best shots, syncs them to music, adds transitions and automatically creates a shareable video. [1]\n\nUnlimited Cloud Storage at 100% Quality\nGet UNLIMITED cloud storage of ALL your GoPro footage and up to 500GB from other cameras with a Premium or Premium+ subscription. All at 100% quality. [2]\n\nAuto Upload + Cross Device Sync\nOnce imported into the Quik app, photos, videos, and edits automatically upload to the cloud for backup and sync across your devices for seamless cross-platform editing and content management. [1]\n\nPremium Editing Tools\nPlay with color and light, trim video length, add stickers and more to take your footage to the next level.\n\nBeat Sync\nSyncs clips, transitions, and effects to the beat of the music. [1]\n\nFrame Grab\nGet high resolution photos by capturing a frame from any video.\n\nThemes\nFind a theme that tells your story with cinematic transitions, filters, and effects. [1]\n\nFilters\nExclusive filters optimized for environments like snow and water.\n\nFrame Adjust\nAdjust the aspect ratio for photos and videos. You can also level the horizon, rotate and flip media.\n\nText Overlays\nAdd text and emojis for another dimension to your story. [1]\n\nTransform 360 into Traditional Video with Reframe\nUse Reframe to experiment with countless views, choose the best shots and instantly create cinematic transitions with the click of a keyframe. Then, export a traditional video or photo you can edit and share.\n\n--- GoPro Camera Owner Features ---\nAuto GoPro Detection + Transfer\nAutomatically detects connected GoPro cameras and transfers footage across a wired USB connection for fast and easy transfers.\n\nPreview Shots + Delete\nCheck out GoPro camera photos and videos on your computer before you transfer them or delete unwanted shots from your camera's SD card.\n\nContent Management\nView and manage both local and cloud media in a single view, while camera media is organized in another view. Easily view and find media in a large, easy-to-read grid with search filters and icon overlays.\n\n--- Footnotes ---\n[1] Premium or Premium+ Subscription required. Available in select countries. Cancel anytime. See terms + conditions at our official website.\n[2] Subscribe to Premium for unlimited cloud storage for footage captured with a GoPro camera plus up to 100GB (or up to 500GB with a Premium+ subscription) of footage captured on non-GoPro cameras or phones. GoPro cloud storage does not support content captured with GoPro Fusion. Cloud storage for footage captured on non-GoPro cameras or phones is limited to supported file types. See supported file types at our official website.",
+      "subtitle": "With Quik, editing just got easier. Get the most out of your favorite shots with Automatic Highlight videos and a suite ",
+      "tintColor": "3C94FC",
+      "category": "utilities",
+      "pinnedCategory": "utilities",
+      "website": "http://gopro.com/software-app/gopro-app/",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/GoPro.ipa",
+          "size": 159158480,
+          "version": "13.40",
+          "buildVersion": "21365",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "version": "13.40",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 159158480,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/GoPro.ipa",
+      "rating": 4.78043,
+      "ratingCount": 833184,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/0f/35/120f3537-41fe-ef23-939b-80474364ca1a/3b44564f-a057-4925-bfbf-7061b767c570_Quik_App_Store_iOS_5.5_EN1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/ae/a8/59aea8d3-a8bf-cf78-1a9b-f56383a54376/2647769c-dc72-46c2-9b51-661bbd29f78d_Quik_App_Store_iOS_5.5_EN2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/2c/af/ee2cafb3-a672-2275-2694-c84374cabc0f/quik-app-store-ios-5.5-en-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/a3/d6/cfa3d6b9-1370-48ab-8917-f039a6d76676/a3c73105-807d-495f-8f1e-7d687f6208db_Quik_App_Store_iOS_5.5_EN5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/6d/74/756d744f-7a0d-05e8-cf66-538272ceea0e/66e9f0db-27d1-461c-99b0-44128456dd8e_Quik_App_Store_iOS_5.5_EN6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/44/36/70443667-ff72-b1e8-d97d-2442d3da96b2/40ffed86-f3d2-45df-8f6d-14ea87649850_Quik_App_Store_iOS_5.5_EN7.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/39/31/d43931c9-e521-2a1f-9fcc-2628126a1ba3/850493b4-c475-4ea6-80e6-b0e5e8486530_Quik_App_Store_iOS_5.5_EN8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/08/89/b90889ec-d749-b8d9-d8c7-d928edc13c5e/44263357-ce96-408b-8a0a-b21d4630c025_Quik_App_Store_iOS_5.5_EN9.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/8d/46/a28d4697-ae83-66a2-4193-bf22ac95f0af/7c31b345-6e2e-485a-8b07-9f9e9bb3a2ae_Quik_App_Store_iOS_5.5_EN10.jpg/392x696bb.jpg"
+      ],
+      "appStoreURL": "https://apps.apple.com/us/app/gopro-quik/id561350520?uo=4"
     }
   ]
 }
