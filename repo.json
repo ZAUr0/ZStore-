@@ -11597,6 +11597,45 @@
           "date": "8 сен 2026"
         }
       ]
+    },
+    {
+      "name": "Hamkor・онлайн банк Узбекистана",
+      "bundleIdentifier": "com.hamkorbank.mobile",
+      "developerName": "АКБ \"Хамкорбанк\"",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Hamkor.png",
+      "localizedDescription": "Мобильное приложение Hamkor – ваш финансовый и цифровой помощник. Чтобы сделать пользование приложением еще более комфортным, мы внесли существенные изменения и полностью обновили его.    \n  \nЕсли вы не являетесь клиентом Hamkorbank, то у вас есть возможность стать им, скачав приложение и оформив дебетовую карту совершенно бесплатно.  \n  \nСкачав приложение Hamkor, вы также сможете:   \n   \n• Бесплатно оформлять карты локальных систем и системы Visa;    \n• Осуществлять переводы средств с карты на карту без комиссии в рамках предоставленного лимита;   \n• Получать информацию о состоянии своих счетов, вкладов и кредитов;   \n• Отслеживать историю операций и переводов;   \n• Следить за курсом валют;   \n• Получать доступ к местоположению филиалов и банкоматов на карте.   \n   \nИ это только начало! Мы каждый день работаем над улучшением приложения и стараемся для вас!\n\n\"Hamkor\" mobil ilovasi – bu sizning moliyaviy va raqamli yordamchingiz. Ilovadan foydalanishni yanada qulayroq qilish maqsadida, biz sezilarli o'zgarishlarni qildik va ilovani butkul yangiladik. Agar siz Hamkorbank mijozi bo'lmasangiz, unda sizda ilovani yuklab olib, debet kartaga bepul ariza yuborib, bank mijoziga aylanish imkoniyati mavjud.  \n\"Hamkor\" ilovasini yuklab olish orqali siz quyidagi imkoniyatlarga ega bo’lasiz:  \n• Mahalliy va VISA tizimlari kartalarini bepul ochish;  \n• Berilgan limit doirasida pul mablag'larini kartadan kartaga komissiyasiz o'tkazish;  \n• O’z hisob raqamingiz, omonat va kreditlaringiz holati to'g'risida ma'lumot olish;  \n• Operatsiya va o'tkazmalar tarixini kuzatib borish;  \n• Valyuta kursidan boxabar bo‘lish;  \n• Xaritada filiallar va bankomatlar joylashuvini kuzatish. Bu faqatgina boshlanishi! Ilovani takomillashtirish uchun uning ustida doimiy ishlaymiz va siz uchun harakatdamiz!",
+      "subtitle": "Мобильное приложение Hamkor – ваш финансовый и цифровой помощник. Чтобы сделать пользование приложением еще более комфор",
+      "tintColor": "3C94FC",
+      "category": "finance",
+      "pinnedCategory": "finance",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Hamkor.ipa",
+          "size": 73279418,
+          "version": "2.31.0",
+          "buildVersion": "8965",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.5.0",
+          "localizedDescription": "Улучшили безопасность и стабильность приложения, оптимизировали работу системы и устранили технические ошибки, чтобы сервис работал ещё быстрее и надёжнее"
+        }
+      ],
+      "version": "2.31.0",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 73279418,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Hamkor.ipa",
+      "rating": 4.71,
+      "ratingCount": 600,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/2f/1f/8b2f1f37-ab58-bfdd-22d1-842e7e38ccf7/4_ru.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/bc/05/12bc0542-90c4-a4e4-89af-c3e93dd1a2b7/2_ru.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/fa/98/c5fa982a-4462-5c04-06a8-44f6e57f5fa9/3_ru.png/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/15/18/1c151899-e987-fe88-f2fe-8b2c4c707cef/5_ru.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/f3/65/d2f365c3-24d9-2527-6338-e7a591f23779/7_ru_U00a0_U2014__U043a_U043e_U043f_U0438_U044f.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/59/2d/a9592db0-d094-9cd7-737a-d48f0e6394d9/7_ru.jpg/1242x2688bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/d8/0a/49d80a10-9149-188c-9711-3caa6a59a83d/6_ru.jpg/1242x2688bb.jpg"
+      ],
+      "website": "https://hamkorbank.uz/uz/",
+      "appStoreURL": "https://apps.apple.com/ru/app/hamkor-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B0%D0%BD%D0%BA-%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0/id1602323485?uo=4"
     }
   ]
 }
