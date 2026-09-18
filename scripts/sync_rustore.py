@@ -42,6 +42,7 @@ COMPANY_WEBSITES = {
     "халва": "https://sovcombank.ru",
     "юmoney": "https://yoomoney.ru",
     "юмани": "https://yoomoney.ru",
+    "яндекс музыка": "https://music.yandex.ru",
     "яндекс": "https://bank.yandex.ru",
 }
 
@@ -62,6 +63,7 @@ PRIVACY_PAGES = {
     "халва": "https://sovcombank.ru/privacy/",
     "юmoney": "https://yoomoney.ru/page?id=529434",
     "юмани": "https://yoomoney.ru/page?id=529434",
+    "яндекс музыка": "https://yandex.ru/legal/confidential/",
     "яндекс": "https://yandex.ru/legal/confidential/",
 }
 
@@ -97,6 +99,7 @@ PACKAGE_HINTS = {
     "тинвестиции": "ru.tinkoff.investing",
     "юмани": "ru.yoo.money",
     "yumoney": "ru.yoo.money",
+    "яндекс музыка": "ru.yandex.music",
     "яндекс": "com.yandex.bank",
 }
 
@@ -131,9 +134,14 @@ def lookup_page(mapping: dict[str, str], app: dict, info: dict | None = None) ->
             app.get("developerName"),
             (info or {}).get("companyName"),
         )
-    ).lower().replace("«", "").replace("»", "").replace(" ", "")
-    for needle, url in mapping.items():
-        if needle.replace("-", "") in blob.replace("-", ""):
+    ).lower().replace("«", "").replace("»", "").replace(" ", "").replace("-", "")
+    for needle, url in sorted(
+        mapping.items(),
+        key=lambda item: len(item[0].replace(" ", "").replace("-", "")),
+        reverse=True,
+    ):
+        key = needle.replace("-", "").replace(" ", "")
+        if key and key in blob:
             return url
     return None
 
@@ -143,7 +151,7 @@ def guessed_package(app: dict) -> str | None:
         str(app.get(key) or "")
         for key in ("name", "developerName", "bundleIdentifier", "rustoreURL")
     ).lower()
-    for needle, package in PACKAGE_HINTS.items():
+    for needle, package in sorted(PACKAGE_HINTS.items(), key=lambda item: len(item[0]), reverse=True):
         if needle in blob:
             return package
     return None
@@ -297,6 +305,18 @@ def apply_info(app: dict, info: dict, reviews: list[dict]) -> None:
         app["copyright"] = copyright_match.group(0).strip()
     if reviews:
         app["reviews"] = reviews
+    apply_pins(app)
+
+
+def apply_pins(app: dict) -> None:
+    if app.get("pinnedWhatsNew"):
+        text = str(app["pinnedWhatsNew"]).strip()
+        app["versionDescription"] = text
+        versions = app.get("versions")
+        if isinstance(versions, list) and versions:
+            versions[0]["localizedDescription"] = text
+    if app.get("pinnedCategory"):
+        app["category"] = app["pinnedCategory"]
 
 
 def sync_app(app: dict) -> str | None:
@@ -316,8 +336,11 @@ def main() -> int:
     apps = repo.get("apps") or []
     updated = []
     errors = []
+    only = {item.casefold() for item in sys.argv[1:]}
     for app in apps:
         name = app.get("name") or app.get("bundleIdentifier")
+        if only and not any(item in str(name).casefold() for item in only):
+            continue
         try:
             package = sync_app(app)
         except Exception as exc:  # noqa: BLE001
