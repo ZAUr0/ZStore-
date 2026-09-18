@@ -3897,11 +3897,10 @@
     {
       "name": "Alight Motion",
       "bundleIdentifier": "com.alightcreative.motion",
-      "developerName": "Aptoide",
-      "rustoreURL": "https://www.rustore.ru/catalog/app/com.alightcreative.motion",
+      "developerName": "Bending Spoons Apps ApS",
       "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/AlightMotion.png",
-      "localizedDescription": "Присоединяйтесь к движению! Alight Motion — это первое профессиональное приложение для создания анимации, которое дарит вам возможности студийного уровня прямо на вашем смартфоне. Здесь вы найдете всё необходимое: от качественной анимации и графики до визуальных эффектов и редактирования видео. Приложение полностью безопасно, регулярно обновляется и работает стабильно на современных устройствах, обеспечивая удобство использования без лишних сложностей.\n\n• Поддержка нескольких слоев графики, видео и аудио для сложного монтажа\n• Работа с векторными и растровыми изображениями (редактируйте векторную графику прямо на телефоне!)\n• Более 160 базовых блоков эффектов, которые можно комбинировать для создания уникальных визуальных решений\n• Анимация ключевых кадров доступна для всех параметров\n• Связывание родительских и дочерних слоев, а также настройка соединений символов\n• Камеры с функциями панорамирования, масштабирования, размытия фокуса и тумана\n• Группировка элементов и работа с масками\n• Точная настройка цвета\n• Упрощение анимации для плавного движения: выбор из предустановок или создание собственных временных кривых\n• Закладки для быстрого доступа к нужным моментам редактирования\n• Эффект размытия в движении, зависящий от скорости\n• Экспорт в форматах MP4, GIF-анимации, последовательностей PNG и фотоснимков\n• Возможность делиться пакетами проектов с другими пользователями\n• Эффекты сплошной и градиентной заливки\n• Эффекты границ, теней и обводки\n• Поддержка пользовательских шрифтов\n• Копирование и вставка целых слоев или только их стиля\n• Сохранение любимых элементов для удобного повторного использования в будущих проектах\n\nAlight Motion можно использовать бесплатно с базовыми функциями, при этом на видео будет отображаться водяной знак. В приложении доступны платные подписки, которые позволяют убрать водяной знак и получить доступ к регулярно обновляемой библиотеке премиум-эффектов и функций.\n\nДля установки и комфортной работы приложения требуется не менее 1,5 ГБ оперативной памяти.\n\nПопробуйте Alight Motion уже сегодня и создавайте профессиональные видео на своем устройстве!",
-      "subtitle": "Проф. приложение для моушн-дизайна",
+      "localizedDescription": "Be part of the movement! Alight Motion is the first professional motion design app for your smartphone for iPhone, iPad, and Mac, bringing you professional-quality animation, motion graphics, visual effects, video editing, video compositing, and more!\n\n• Multiple layers of graphics, video, and audio\n• Vector and bitmap support (edit vector graphics right on your phone!)\n• 160+ basic effect building blocks that can be combined to create sophisticated visual effects\n• Keyframe animation available for all settings\n• Link parent and child layers and rig character joints\n• Cameras that pan, zoom, and support focus blur and fog\n• Grouping and Masking\n• Color Adjustment\n• Animation easing for more fluid motion: Pick from presets or build your own timing curves\n• Bookmarks for ease of editing\n• Velocity-based motion blur\n• Export MP4 video, GIF animation, PNG sequences, and stills\n• Share project packages with others\n• Solid color and gradient fill effects\n• Border, shadow, and stroke effects\n• Custom font support\n• Copy and paste entire layers or just their style\n• Save your favorite elements for easy re-use in future projects\n\nAlight Motion is free to use with basic features and a watermark on videos you create. There are several paid membership options in the app to remove the watermark and access a regularly updated library of premium effects and features. These subscription membership options are charged when you select to purchase them, and renew automatically unless canceled at least 24 hours prior to the beginning of the next subscription period. After purchasing, subscriptions can be managed in your Apple ID settings. You can find more information about subscriptions at https://alightcreative.com/support\n \nTerms of Service: alightcreative.com/tos\nPrivacy Policy: alightcreative.com/privacy",
+      "subtitle": "Be part of the movement! Alight Motion is the first professional motion design app for your smartphone for iPhone, iPad,",
       "tintColor": "3C94FC",
       "category": "utilities",
       "pinnedCategory": "utilities",
@@ -3920,80 +3919,22 @@
       "versionDate": "2026-09-18T00:00:00Z",
       "size": 124370823,
       "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/AlightMotion.ipa",
-      "rating": 3.54,
-      "ratingCount": 363,
-      "downloads": 100000,
-      "downloadsText": "100 тыс +",
-      "versionDescription": "Первая версия",
+      "rating": 4.4164,
+      "ratingCount": 76050,
       "screenshotURLs": [
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/80eb116b-6ca5-414e-89ec-e97d2d10fdc0.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/a25cdbf8-f719-4316-98a9-f3c5de4ad481.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/0af066ea-9e22-4081-b2f6-e3aefe2bb17b.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/80d8a58f-6f56-498a-9c7a-83a479d60188.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/d0d8e3d3-cbcf-4034-bb57-81f98855d7f4.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/160d1a79-a866-40b6-9a5d-85c7fa125011.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/16233681-c7b6-41aa-b734-da3d89abed38.",
-        "https://static.rustore.ru/apk/2063550590/content/SCREENSHOT/76086f07-ecf5-48d5-9e65-1e21117f5f75."
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f1/08/5f/f1085f9f-dfc8-a9ba-11dd-01a682bc4f65/aeb6939a-7c22-410b-9404-f6793eded47f_iPhone_5.5_screenshot_keyframeanimation.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/3b/a4/273ba4e7-67e3-9418-4b9f-1bd1ae012754/2455f88c-336d-41b7-b978-515f7e879e9d_iPhone_5.5_screenshot_camera.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/10/c7/dc/10c7dc0b-1f38-0d11-be65-88f5e609ae82/ee43bec7-282c-4cca-92e4-daf8baa4ac8e_iPhone_5.5_screenshot_layerparenting.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/1d/08/ac1d0858-bc32-bb8f-6765-f007f18359ed/e0bae983-6e6b-4b91-a220-ecb41eab9cb1_iPhone_5.5_screenshot_color.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/d3/5e/dfd35eb3-63fa-3ce9-9998-762e0bba8e51/20748690-122c-4673-9967-bdb63e47ce86_iPhone_5.5_screenshot_aspectratio.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/58/5c/7e/585c7e4c-ad42-a504-d624-ebdd8524776d/002f83c6-81f9-462b-8ada-159dec6561ca_iPhone_5.5_screenshot_vectorgraphics.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/96/2b/83/962b8322-db3e-498e-3533-246546156134/3edc07b8-e0b5-425e-a38d-ceb565c71ae3_iPhone_5.5_screenshot_effect.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/79/9a/56/799a5620-0339-efb5-2692-9e8fc194fb09/7d4dcb34-4b62-452e-b43b-c55b9860f84d_iPhone_5.5_screenshot_export.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/75/26/ea7526c9-7de2-c74c-15e7-8c9964ea4a76/4a7b5844-9497-44b5-95fc-fe84a63fe01b_iPhone_5.5_screenshot_blending.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4b/26/d7/4b26d724-160f-7e1c-fffd-bbcc0d67bd81/77a65f37-9037-4ec5-99cd-b17284653fc9_iPhone_5.5_screenshot_fonts.png/392x696bb.png"
       ],
-      "ageRating": "0+",
-      "reviews": [
-        {
-          "id": "Виктория-17 сен 2026-0",
-          "title": "Выбивает ошибку либо сети, либо 3565 , уже",
-          "author": "Виктория",
-          "text": "Выбивает ошибку либо сети, либо 3565 , уже второй месяц, ужасно...",
-          "date": "17 сен 2026"
-        },
-        {
-          "id": "Алина-16 сен 2026-1",
-          "title": "Очень-очень-очень классно",
-          "author": "Алина",
-          "text": "Очень-очень-очень классно",
-          "date": "16 сен 2026"
-        },
-        {
-          "id": "Анна-13 сен 2026-2",
-          "title": "уже всё можно!",
-          "author": "Анна",
-          "text": "уже всё можно! ^^ но почему теперь с интернетом можно только заходить?(",
-          "date": "13 сен 2026"
-        },
-        {
-          "id": "Дашо-12 сен 2026-3",
-          "title": "Приложение хорошее, но местами лагает и",
-          "author": "Дашо",
-          "text": "Приложение хорошее, но местами лагает и есть большой минус, я не могу экспортировать видео. При нажатии на кнопку сверху, что бы смотреть рекламу и сохранить видео в галерею, у меня попросту вылетает. ((",
-          "date": "12 сен 2026"
-        },
-        {
-          "id": "Кира-11 сен 2026-4",
-          "title": "очень сильно портит качество, и само",
-          "author": "Кира",
-          "text": "очень сильно портит качество, и само приложение глючит постоянно",
-          "date": "11 сен 2026"
-        },
-        {
-          "id": "Eni-7 сен 2026-5",
-          "title": "ужасно не работает я настраеваю и у меня",
-          "author": "Eni",
-          "text": "ужасно не работает я настраеваю и у меня выходится!!!",
-          "date": "7 сен 2026"
-        },
-        {
-          "id": "Wisa-4 сен 2026-6",
-          "title": "Не хочет экспортироваться а так прикольно",
-          "author": "Wisa",
-          "text": "Не хочет экспортироваться а так прикольно",
-          "date": "4 сен 2026"
-        },
-        {
-          "id": "Элина-3 сен 2026-7",
-          "title": "Так сложненько, но нормально справляюсь, не",
-          "author": "Элина",
-          "text": "Так сложненько, но нормально справляюсь, не зря училась монтировать",
-          "date": "3 сен 2026"
-        }
-      ]
+      "website": "https://alightcreative.com",
+      "appStoreURL": "https://apps.apple.com/us/app/alight-motion/id1459833443?uo=4"
     }
   ]
 }
