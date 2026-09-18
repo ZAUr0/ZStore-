@@ -11636,6 +11636,44 @@
       ],
       "website": "https://hamkorbank.uz/uz/",
       "appStoreURL": "https://apps.apple.com/ru/app/hamkor-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B0%D0%BD%D0%BA-%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0/id1602323485?uo=4"
+    },
+    {
+      "name": "Kaspi.kz суперприложение",
+      "bundleIdentifier": "kz.kaspi.mobile",
+      "developerName": "Kaspi Bank АО",
+      "iconURL": "https://raw.githubusercontent.com/ZAUr0/ZStore-/main/icons/Kaspikz.png",
+      "localizedDescription": "Kaspi.kz — күнделікті міндеттерді орындайтын суперқосымша 16 миллион клиент комиссиясыз ақы төлеп, зат сатып алып, қаржысын басқарып, бонус жинап жүр \n\nKaspi.kz-тегі Магазин\n• Тиімді зат сатып алу: электроника, киім-кешек, аяқ киім, балалар тауарлары, әшекей бұйымдар, спорт, кітаптар, жиһаз, көлік және құрылыс тауарлары, жануарларға арналған тауарлар\n• Бағаларды салыстыру, сипаттама, пікірлер\n• Kaspi Postomat-қа не үйіңізге жеткізу\n• Бонус, жеңілдік, бөліп төлеу \n\nKaspi QR\n• Серіктес-дүкендерге ақы төлеу\n• Картасыз қолма-қол ақша алу және авторлану\n• Бонус және бөліп төлеу\n \nKaspi Travel\n• Тур, ұшақ билеті пен темір жол билетін онлайн алу \n\nТөлемдер\n• 15 000+ қызметтің: мобильді байланыс, интернет, ТВ, коммуналдық қызметтер, айыппұл, билеттер, көлік, жолдар, тұрақтар және т.б. ақысын онлайн төлеу\n\nАқша аудару\n• Телефон не карта нөмірі бойынша лезде аудару \n• Комиссиясыз Kaspi Gold пен өзге карталардан аудару\n• Өзге банктердің Visa және Mastercard карталарына аудару, соның ішінде халықаралық аударымдар\n\nЖеке Банк\n• Kaspi Gold, Kaspi Red, онлайн кредит алып, депозит аштыру \n• Картаны басқару: PIN-код, лимиттер, бұғаттау, қайта шығарту\n\nМемлекеттік қызметтер\n• Цифрлық құжаттар, анықтамалар, жәрдемақы, ЖК, көлік және жүргізуші куәлігін — бәрін ХҚКО-ға бармай жасату\n\n\nKaspi.kz — суперприложение для ежедневных задач 16 миллионов клиентов платят без комиссий, делают покупки, управляют финансами и копят бонусы\n\nМагазин на Kaspi.kz\n• Выгодные покупки: электроника, одежда, обувь, детские товары, украшения, спорт, книги, мебель, авто- и стройтовары, товары для животных\n• Сравнение цен, характеристики и отзывы\n• Доставка в Kaspi Postomat или домой\n• Бонусы, скидки и рассрочка\n\nKaspi QR\n• Оплата в магазинах-партнёрах\n• Снятие денег и авторизация без карты\n• Бонусы и рассрочка\n\nKaspi Travel\n• Туры, авиабилеты и ж/д билеты онлайн\n\nПлатежи\n• Оплата без комиссий 15 000+ услуг: мобильная связь, интернет, ТВ, коммуналка, налоги, штрафы, билеты, транспорт, дороги, парковки и др\n\nПереводы\n• Мгновенно по номеру телефона или карты\n• Без комиссий на Kaspi Gold и с других карт\n• На карты Visa и Mastercard других банков, включая международные переводы\n\nМой Банк\n• Kaspi Gold, Kaspi Red, кредиты и депозиты онлайн\n• Управление картой: пин-код, лимиты, блокировка, перевыпуск\n\nГосуслуги\n• Цифровые документы, справки, пособия, ИП, авто и водительские права — без визита в ЦОН",
+      "subtitle": "Kaspi.kz — күнделікті міндеттерді орындайтын суперқосымша 16 миллион клиент комиссиясыз ақы төлеп, зат сатып алып, қаржы",
+      "tintColor": "3C94FC",
+      "category": "finance",
+      "pinnedCategory": "finance",
+      "website": "https://kaspi.kz",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Kaspikz.ipa",
+          "size": 100735592,
+          "version": "5.130",
+          "buildVersion": "1097",
+          "date": "2026-09-18T00:00:00Z",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "5.130",
+      "versionDate": "2026-09-18T00:00:00Z",
+      "size": 100735592,
+      "downloadURL": "https://github.com/ZAUr0/ZStore-/releases/download/ipa-2026-09-18/Kaspikz.ipa",
+      "rating": 4.86047,
+      "ratingCount": 51651,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/e1/7d/cbe17d2b-88c4-9479-6287-20765c9f2294/5.5-screen-new-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/90/f5/6690f537-b74f-4f59-2a72-44127472952b/5.5-screen-new-02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/65/8c/22658cd9-63b9-932d-d5fa-c59b7f421b37/5.5-screen-new-03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/85/ea/8585ea62-4f28-1b2c-ce26-c44fd4050d25/5.5-screen-new-04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/a9/de/35a9de9f-6a1d-bcbd-5829-7d63e4f2e3cd/5.5-screen-new-05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/38/f5/5838f560-886c-77db-6e96-fdf9a67618e4/5.5-screen-new-06.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/e9/63/b0e963bf-cfa1-ef91-2f66-498262ce5743/5.5-screen-new-07.png/392x696bb.png"
+      ],
+      "appStoreURL": "https://apps.apple.com/ru/app/kaspi-kz-%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/id1195076505?uo=4"
     }
   ]
 }
